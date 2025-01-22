@@ -49,6 +49,9 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 
+![output](https://github.com/user-attachments/assets/d2fbdc1b-1b67-423e-82b1-3f22473ac2e2)
+
+
 
 ## Data Source
 Data is collected from publicly available Twitter/X posts by @DealinRugs (January 2025). All personal identifiers and sensitive information have been removed in compliance with privacy guidelines.
