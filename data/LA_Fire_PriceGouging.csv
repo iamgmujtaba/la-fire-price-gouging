@@ -1,0 +1,1358 @@
+submission_date,property_id,address,city,state,zip,previous_rent,current_rent,increase_date,previous_rent_date,listing_platform,notes
+2025-01-11 22:32:37.013,4272007003,1812 Navy Street,Santa Monica,CA,90045,12750.0,28000.0,,,Zillow,
+2025-01-11 23:12:02.851,4260028003,11708 exposition blvd,Los Angeles,Ca,90064,5000.0,7000.0,,,Zillow,Says it’s listed by owner. Was $5000 at the end of December. Hasn’t been rented. And on 1/11 changed the price to $7000. Way above average rental price for this area
+2025-01-11 23:18:45.222,4494010023,716 Rochedale Way,Los Angeles,CA,90049,8995.0,12000.0,,,Zillow,
+2025-01-11 23:23:45.425,5429020022,3512 Crestmont Ave,Los Angeles,CA,90026,9000.0,11000.0,,,Zillow,22% increase from the listing posted on 10/19/24
+2025-01-11 23:30:06.232,5560025007,8966 Shoreham Dr,Los Angeles,CA,90069,8500.0,11500.0,,,Zillow,"Listing removed on 11/6/24 at $8,500, relisted for rent on 1/9/25 at 35.3% increase"
+2025-01-11 23:44:52.186,5558002013,1923 Sunset Plaza,Los Angeles,CA,90069,11850.0,13500.0,,,Zillow,"Price dropped to $11,850 on 12/25/24, price increase by 13.9% to $13,500 on 1/10/25"
+2025-01-11 23:48:23.996,,Undisclosed Address,Los Angeles,CA,90046,11500.0,15000.0,,,Zillow,"Listed for rent on 1/4/25 at a 25% increase from it's previous listing in Oct 2024, price increased again 5 days later on 1/9/25 for another 30% to $15k/month!"
+2025-01-11 23:52:44.492,5066004003,1915 S Crescent Heights Blvd,Los Angeles,CA,90034,6600.0,10000.0,,,Zillow,"The listing was removed about a year ago and relisted on 1/9/25. However, flagging this one because the price previously ranged from 6-7k. The relisted price after the fires is now $15,000/month which is a 127.3% increase from it's previous listing just one year ago."
+2025-01-11 23:56:56.814,,23716 Archwood St,West Hills,CA,91307,10500.0,13000.0,,,Zillow,"Previously listed at $10,500 and removed on 11/6/24..relisted after the fires for $12,000 on 1/9/25 (14.3% increase) and increased again on 1/11/25 to $13,000 (another 8.3%). Total increase of 23.8% in just 2 months."
+2025-01-12 00:00:57.008,,6255 W Olympic Blvd #2,Los Angeles,CA,90048,5500.0,15000.0,,,Zillow,"Price decrease to $5,500 on 12/29/24 followed by a 36.4% increase to $7,500 after fires on 1/10/25. The next day, the price doubled to $15k. A total of 136% increase."
+2025-01-12 00:24:42.888,5577010114,2700 Cahuenga Blvd E APT 4111,Los Angeles,CA,90068,3200.0,3600.0,,,Zillow,
+2025-01-12 00:25:50.283,,3715 kelton ave apt 3,los angeles,CA,90034,3695.0,4500.0,,,Zillow,"I used to live here and moved out Oct 2024 - when i lived there, the rent was 3100 total. when my roommates and i moved out, the property was turned over to a management company and the unit has stayed vacant since. i have seen the price for the empty unit fluctuate since i’ve checked up on it since we moved out but this recent jump is unprecedented and illegal. the property is still owned by Mark Rogo and it’s a four unit building, with long-term residents in units 1 and 4."
+2025-01-12 00:27:12.346,,5059 Hermosa Ave,Los Angeles,CA,90041,2995.0,3600.0,,,Zillow,
+2025-01-12 00:39:37.035,5677025001,1427 Columbia Dr,Glendale,CA,91205,8500.0,19500.0,,,Zillow,"The last time they price gouged this home was 02/07/2020, increasing the rent 240% from 2,500 a month to 8,500 a month so they seem to have a history of price gouging during emergencies."
+2025-01-12 02:40:20.676,2369037006,3931Berry Drive,Studio City,CA,91604,10000.0,16000.0,,,Zillow,"$10,000 on 08/01/2024, changed to $16,000 on 01/09/2025"
+2025-01-12 02:43:40.940,5549022024,1941 Glencod Way,Los Angeles,CA,90068,8500.0,12500.0,,,Zillow,
+2025-01-12 02:46:03.532,5516010001,256 S Van Ness,Los Angeles,CA,90004,8000.0,10000.0,,,Zillow,
+2025-01-12 02:53:08.625,5527015009,649 N Edinburgh Ave,Los Angeles,CA,90048,24000.0,35000.0,,,Zillow,
+2025-01-12 03:17:21.379,5088003052,6105 Del Valle Dr,Los Angeles,CA,90068,8999.0,12500.0,,,Zillow,
+2025-01-12 03:19:16.986,5157027044,1916 W Court St,Los Angeles,CA,90026,9995.0,14500.0,,,Zillow,
+2025-01-12 03:21:34.677,5558016025,1702 Sunset Plaza Dr,Los Angeles,CA,90069,20000.0,22500.0,,,Zillow,
+2025-01-12 03:23:05.601,5565040037,8405 Edwin Dr,Los Angeles,CA,90046,15495.0,22000.0,,,Zillow,
+2025-01-12 03:25:05.214,5576015017,2229 Willetta St,Los Angeles,CA,90068,10500.0,16500.0,,,Zillow,
+2025-01-12 03:26:32.844,2428010032,7177 Pacific View Dr,Los Angeles,CA,90068,14995.0,17500.0,,,Zillow,
+2025-01-12 03:28:16.641,5586018041,2309 Hollyridge Dr,Los Angeles,CA,90068,17995.0,23000.0,,,Zillow,
+2025-01-12 03:31:48.407,5569036003,1914 Laurel Canyon Blvd,Los Angeles,CA,90046,33000.0,42000.0,,,Zillow,
+2025-01-12 03:33:21.457,5559013002,1456 Sunset Plaza Dr,Los Angeles,CA,90069,19000.0,25000.0,,,Zillow,
+2025-01-12 03:35:07.455,5561010016,1470 Blue Jay Way,Los Angeles,CA,90069,21000.0,28500.0,,,Zillow,
+2025-01-12 03:36:44.747,5561009027,9289 Swallow Dr,Los Angeles,CA,90069,20000.0,23995.0,,,Zillow,
+2025-01-12 03:38:44.901,5435014021,3663 Edenhurst Dr,Los Angeles,CA,90039,8000.0,9000.0,,,Zillow,
+2025-01-12 03:40:24.739,5549013020,2260 Maravilla Dr,Los Angeles,CA,90068,29900.0,34999.0,,,Zillow,
+2025-01-12 03:42:28.029,5068020027,1610 S Hayworth Ave,Los Angeles,CA,90035,6995.0,8790.0,,,Zillow,
+2025-01-12 03:46:13.581,5567007001,8401 Wyndham Rd,Los Angeles,CA,90046,19950.0,23500.0,,,Zillow,
+2025-01-12 03:49:28.339,5556021011,8400 Grand View Dr,Los Angeles,CA,90046,24985.0,29995.0,,,Zillow,
+2025-01-12 03:51:09.139,4303027022,1780 S Garth Ave,Los Angeles,CA,90035,6000.0,7000.0,,,Zillow,
+2025-01-12 03:53:32.434,5569004010,7612 Willow Glen Rd,Los Angeles,CA,90046,19485.0,25495.0,,,Zillow,
+2025-01-12 03:55:06.415,5569028032,2379 Venus Dr,Los Angeles,CA,90046,30000.0,38000.0,,,Zillow,
+2025-01-12 07:43:42.963,5771018012,1235 Highland Oaks Dr,Arcadia,Ca,91006,5495.0,6250.0,,,Zillow,
+2025-01-12 08:04:43.128,8518022015,"361 Norumbega Dr, Monrovia",Monrovia,CA,91016,4500.0,5000.0,,,Zillow,
+2025-01-12 08:12:36.719,,2030 S Chapel Ave,Alhambra,Ca,91801,4850.0,5800.0,,,Zillow,
+2025-01-12 08:18:21.721,5481005027,907 Pine Grove Ave,Los angeles,Ca,90042,5250.0,5800.0,,,Zillow,
+2025-01-12 08:22:29.869,5209002017,3711 Flora Ave,Los Angeles,Ca,90031,4200.0,5000.0,,,Zillow,
+2025-01-12 08:29:22.480,8604002065,915 Edie Dr,Duarte,Ca,91010,9995.0,11995.0,,,Zillow,
+2025-01-12 08:35:32.808,8484010014,2527 E Cameron Ave,West covina,Ca,91791,2800.0,7500.0,,,Zillow,Was listed in April at 2800. Listing removed in May. Now back up at 5000.
+2025-01-12 08:42:10.994,5429020022,3512 Crestmont Ave,los angeles,ca,90026,9000.0,11000.0,,,Zillow,"This is my current landord who is a slum lord and has also raised our rent each year despite refusing to fix issues such as a termites, oven leaking gas, mold and more. He's also listed my place (i'm moving out, which is a convenient time for him) above what we currently pay despite raising rents each year. and removed all the past prices to protect himself. I will post this in another response line."
+2025-01-12 08:46:05.258,5652020023,1851 tamerlane dr,glendale,ca,91208,11950.0,13000.0,,,Zillow,
+2025-01-12 08:46:53.497,5430002037,4115 camero ave,los angeles,ca,90027,,6000.0,,,Zillow,"this is a follow up to the cresmont listing, same owners. Also same ""management company"" - who are slumlords. He has removed all old pricing to hide what he's done. Would advise anyone to AVOID EDWARD KAY and NEDE at all costs and for them to be reported for price gouging on the other unit."
+2025-01-12 08:51:59.707,5801002036,3113 Prospect Ave,La Crescenta,ca,91214,2000.0,7000.0,,,Zillow,
+2025-01-12 08:52:54.526,5431021002,"3055 Landa St,","Los Angeles,",CA,90039,9000.0,12000.0,,,Zillow,"not sure if this is also a NEDE management property but edward kay is bumping up prices all over los feliz, silverlake area."
+2025-01-12 09:07:38.996,8704015018,8 Rancho Laguna dr,Pomona,Ca,91766,7500.0,8768.0,,,Zillow,
+2025-01-12 09:26:20.893,5608026022,1218 E Tujunga Ave,Burbank,Ca,91501,7900.0,10900.0,,,Zillow,"In December, listing was removed at 7900. Now posted at 10900."
+2025-01-12 09:29:50.814,4116002035,6505 Pacific Ave #1,Playa Del Rey,CA,90293,3795.0,6900.0,,,Zillow,"JeanPaul Issock
+Jean-Paul Issock
+
+Management company
+
+Verified
+[PHONE REDACTED]"
+2025-01-12 09:31:58.963,5650001002,1670 Arboles Dr,Glendale,CA,91207,11800.0,17900.0,,,Zillow,
+2025-01-12 10:05:16.623,8265045008,17845 Calle Barcelona,Rowland Heights,CA,91748,9000.0,12500.0,,,Zillow,
+2025-01-12 10:44:31.903,5220022022,2950 Warwick Ave,Los Angeles,CA,90032,3500.0,4200.0,,,Zillow,
+2025-01-12 10:52:02.430,4268021032,2943 Virginia Ave,Santa Monica,CA,90404,19800.0,35000.0,,,Zillow,"Listed for $19,800 in 2023. Re-listed on 1-12-2025 at $35,000. That's a 56% increase."
+2025-01-12 10:55:20.735,5736026032,130 S Meredith Ave Apartment 1,Pasadena,CA,91106,1000.0,1750.0,,,Zillow,Subleasing
+2025-01-12 11:59:05.070,,710 Westbourne Dr,West Hollywood,CA,90069,9500.0,11995.0,,,Zillow,
+2025-01-12 12:18:04.548,Can't find them,Many,"Los Angeles, etc",CA,90026,,,,,Zillow,
+2025-01-12 12:42:14.243,2456035010,1026 E Verdugo Ave,Burbank,CA,91501,7865.0,8650.0,,,Zillow,"Initially increased price to $12,000 on 1/9 (52.6% increase), then lowered it again"
+2025-01-12 12:55:19.894,5159017005,223 Lake Shore Terrace Unit 1/2,Los Angeles,CA,90026,1995.0,2250.0,,,Zillow,
+2025-01-12 13:35:00.829,Not Listed,Undisclosed Address,Venice,CA,90291,19500.0,29000.0,,,Zillow,"This listing was removed on 10/26/23 and while just relisted on the market on 1/12/25, it's now gone from $19,500 to $29,000 which is a 48.7% increase in a little over the year."
+2025-01-12 13:40:09.676,4378028024,2390 Nalin Dr,Los Angeles,CA,90077,8350.0,9950.0,,,Zillow,
+2025-01-12 13:42:42.755,4238004028,1439 Cabrillo Ave,Venice,CA,90291,7200.0,8500.0,,,Zillow,"Rent was listed at $7,200 just one year ago on 1/11/24 before it was removed from market on 1/15/24. Relisted on 1/11/25 after the fires at an 18.1% increase, to $8,500."
+2025-01-12 13:44:46.213,,636 Acanto St APT 104,Los Angeles,CA,90049,2600.0,3100.0,,,Zillow,
+2025-01-12 13:47:20.774,5157027044,1916 W. Court St.,Los Angeles,CA,90026,9995.0,14500.0,,,Zillow,
+2025-01-12 13:47:32.589,,3715 Kelton Ave APT 3,Los Angeles,CA,90034,3695.0,4500.0,,,Zillow,
+2025-01-12 13:48:34.769,2610012002,16754 Armstead St,Granada Hills,CA,91344,6000.0,7000.0,,,Zillow,
+2025-01-12 13:54:03.058,4411022006,14949 La Cumbre Dr,Los Angeles,CA,90272,29500.0,35000.0,,,Zillow,Was listed for sale on 9/3. Offered for rent starting 10/2 and listed for sale again on 10/3. Rent increased on 1/10 while no change in sale price. Listed as available now. Currently listed by brokerage.
+2025-01-12 13:55:43.080,4382011014,2559 Hutton Dr,Beverly Hills,CA,90210,7999.0,10500.0,,,Zillow,
+2025-01-12 13:55:46.664,4244019018,1240 Morningside Way,Venice,CA,90291,3000.0,31888.0,,,Zillow,"The home was removed from the market just 2 years ago on 1/11/23 with a listed price of $3,000 a month. The home was put back on the market after the fires on 1/12/25 for $31,888 which is a 962.9% increase from previously listed price."
+2025-01-12 13:56:07.346,2182016006,4800 Zelzah Ave,Encino,CA,91316,35000.0,80000.0,,,Zillow,
+2025-01-12 13:58:18.449,5191002003,1129 La Puerta St,Los Angeles,CA,90023,3500.0,4000.0,,,Zillow,
+2025-01-12 13:59:39.425,4286017023,114 Pacific Ave,Venice,CA,90291,8995.0,11500.0,,,Zillow,"The price was repeatedly dropped on this listing since 2023. The last listing was increased to $8,995 before removed on 10/5/24. The house was put back on the market on 1/12/25 for $11,500 for a 27.8% increase from it's previous price."
+2025-01-12 14:00:51.169,5220022022,2950 Warwick Ave,Los Angeles,CA,90032,3500.0,4200.0,,,Zillow,
+2025-01-12 14:02:54.942,4368016024,636 Acanto St Apt 104,Los Angeles,CA,90049,2600.0,3100.0,,,Zillow,"Listed through a management company, The InterGroup Corporation."
+2025-01-12 14:03:34.895,1,8700 Chalmers Dr #301,Los Angeles,CA,90035,6500.0,9000.0,,,Zillow,
+2025-01-12 14:09:58.613,,28 26th Ave #A,Venice,CA,90291,6600.0,7950.0,,,Zillow,"Last listed price was reduced to $6,600 and removed on 10/8/24. Relisted on 1/22/25 after the fires at a 20.5% increase to $7,950."
+2025-01-12 14:11:05.439,2950 Warwick Ave,Los Angeles,CA,90032,3500,4200.0,,,,,
+2025-01-12 14:12:31.100,5471017058,4865 Eldred St,Los Angeles,CA,90042,7500.0,9000.0,,,Zillow,"Originally listed at $7,800 on 10/17/24. It was reduced to $7,500 (3.8%) on 12/26/24 before being increased to $9,000 (20%) on 1/10/25."
+2025-01-12 14:13:11.595,,240 Howland Canal Ct,Venice,CA,90291,20500.0,35000.0,,,Zillow,"Last listed at $20,500 before it was removed on 3/5/23, relisted on 1/8/25 after the fires at $35k which is a 70.7% increase in less than 2 years since it was last for rent."
+2025-01-12 14:16:21.211,,2451 Century Hl,Century City,CA,90035,9000.0,6500.0,,,Zillow,
+2025-01-12 14:17:00.908,,225 Sherman Canal Ct,Venice,CA,90291,11000.0,15000.0,,,Zillow,
+2025-01-12 14:18:21.019,5775027035,503 N Santa Anita Ave #A,Arcadia,CA,91006,7000.0,9000.0,,,Zillow,
+2025-01-12 14:19:34.602,2346017007,5316 Teesdale Ave,Los Angeles,CA,91607,2500.0,3000.0,,,Zillow,"This is an ADU. Listing was removed on 1/9 at $3,000 / month which is 20% increase form previous listing price of $2,500 on 11/27. No Contact info listed."
+2025-01-12 14:20:12.033,5085015042,5351 Packard St,Los Angeles,CA,90019,6200.0,8800.0,,,Zillow,
+2025-01-12 14:21:13.855,4226015031,2205 Ocean Front Walk,Venice,CA,90291,29995.0,35000.0,,,Zillow,"Listed for rent on 9/30/24 for $29,995 and price increased after the fires on 10/25 to $35K, a 16.7% increase."
+2025-01-12 14:21:33.463,5329016004,705 Chaucer Rd,San Marino,CA,91108,10500.0,11900.0,,,Zillow,"Temporarily raised to $13,980 on the 9th (33.1% increase), then lowered on the 10th (Still a 13.3% increase)"
+2025-01-12 14:21:54.609,5511013042,"121 N Croft Ave APT 205,",Los Angeles,CA,90048,5000.0,8000.0,,,Zillow,
+2025-01-12 14:23:45.291,,9297 Burton Way #B,Beverly Hills,CA,90210,6995.0,9750.0,,,Zillow,
+2025-01-12 14:25:20.122,5065003042,6076 Hargis St,Los Angeles,CA,90034,5000.0,6000.0,,,Zillow,"This listing seems to have been on the market since 10/10 /25 at $5000. It was listed most recently on 1/4/25 at $5,000 then removed on 1/10/25 at $6000 (20% increase)."
+2025-01-12 14:25:20.310,2456035010,1026 E Verdugo Ave,Burbank,CA,91501,7865.0,12000.0,,,Zillow,
+2025-01-12 14:25:24.917,,1817 N Silver Lake Blvd,Los Angeles,CA,90026,4750.0,6950.0,,,Zillow,
+2025-01-12 14:27:59.899,5708026002,150 Fern Dr,Pasadena,CA,91105,25000.0,30000.0,,,Zillow,"Initially raised by $5000, then reduced"
+2025-01-12 14:28:55.025,4244003028,1390 Rose Avenue,Venice,Other,90291,11900.0,18900.0,,,Zillow,
+2025-01-12 14:31:20.646,5833028015,77 E Altadena Drive,Altadena,CA,91001,2300.0,2800.0,,,Zillow,
+2025-01-12 14:35:41.117,,9982 Beverly Grv,Beverly Hills,CA,90210,65000.0,85000.0,,,Zillow,"Originally listed 12/31/24 for $65K, increase by 30.8% on 1/12/25 after the fires."
+2025-01-12 14:36:36.542,2483-022-010,210 N California St,Burbank,CA,91505,4900.0,7900.0,,,Zillow,Off market as of 1/11/2025
+2025-01-12 14:37:53.549,5754019017,3572 E Green St,Pasadena,CA,91107,3800.0,4200.0,,,Zillow,"Mardy ma is a pasadena local ""actress"" who jacked up the price of this rental by an illegal 10.5% on 1/11. She is the owner of this home."
+2025-01-12 14:38:11.333,5437023007,2950 Tyburn St,Los Angeles,CA,90039,3800.0,4500.0,,,Zillow,
+2025-01-12 14:39:35.083,7509003008,220 Avenue A,Redondo Beach,CA,90277,7500.0,13000.0,,,Zillow,
+2025-01-12 14:41:40.975,Parcel number: 4268021032,"2943 Virginia Ave, Santa Monica, CA 90404",Santa Monica,CA,90404,19500.0,30000.0,,,Zillow,
+2025-01-12 14:42:50.948,4259009026,1719 Wellesley Ave,Los Angeles,CA,90025,8495.0,14995.0,,,Zillow,"Off market now.  Not clear from listing that this was listed as a rental, might have been a sale?"
+2025-01-12 14:43:05.034,4358006027,1001 Hanover Dr,Beverly Hills,CA,90210,41995.0,50000.0,,,Zillow,"Listed for rent on 9/25/24 for $41,995 which was a decrease from it's previous listing. Price increased by 19.1% on 1/8/25 after the fires to $50k."
+2025-01-12 14:47:37.618,,22522 Gilmore St,West Hills,CA,91307,5500.0,14000.0,,,Zillow,
+2025-01-12 14:48:20.909,,11571 Nebraska Ave #2,Los Angeles,CA,90025,2350.0,2850.0,,,Zillow,"This property was listed on 11/5/2024 at $2400 . It was decreased on 11/14 to $2,350 removed on 11/23 and then relisted on 1/10/2025 at $2,850 (21.3% increase). Listed as immediately available. Lease term is 1 year."
+2025-01-12 14:49:17.938,,13018 Chandler Blvd,Van Nuys,CA,91401,40000.0,45000.0,,,Zillow,Originally listed on 9/19/24 and priced increased by 12.5% post fires on 1/10/25.
+2025-01-12 14:54:02.214,,3400 Greenfield Ave APT 1,Los Angeles,CA,90034,4300.0,44000.0,,,Zillow,"Originally listed on 12/31/24 for $4,300 and priced increased to $44k after the fires - a 923.3% increase"
+2025-01-12 14:54:06.887,,3715 Kelton Ave APT 3,Los Angeles,CA,90024,3695.0,4500.0,,,Zillow,"This property was originially listed on 11/28/24 at $3,850. It had two price reductions after being on the market fo rover a month, the last decrease being on 12/13/24 until the price was increase to $4500 (+21.8%) on 1/11/25."
+2025-01-12 14:54:08.570,,912 N. Vendome St,Los Angeles,CA,90026,2500.0,4500.0,,,Zillow,
+2025-01-12 14:59:18.028,2604032012,15059 Oro Grande,Sylmar,CA,91342,4750.0,9200.0,,,Zillow,
+2025-01-12 15:00:12.121,5589018015,1901 N Catalina St,Los Angeles,CA,90027,2340.0,19500.0,,,Zillow,"Last listing was for $2,340 on 12/1/2020.  But was previously listed at $9,000 on 11/14/2020.  Noting because $9,000 probably more accurate reflection of pre-emergency FMR."
+2025-01-12 15:00:57.390,5560016014,9105 Cordell Dr,Los Angeles,CA,90069,35000.0,39950.0,,,Zillow,"On the market since 1/14/24 at a reduced price of $35k, price increase by 14.1% to $39,950 after the fires on 1/9/25."
+2025-01-12 15:03:40.375,4382002013,2847 Deep Canyon Dr,Beverly Hills,CA,90210,29500.0,39500.0,,,Zillow,"Listed at a price of $29,500 since 11/21/24, price increased by 33.9% after the fires on 1/11/25 to $39,500."
+2025-01-12 15:04:03.450,5435014021,3663 Edenhurst,Los Angeles,CA,90039,8000.0,9000.0,,,Zillow,
+2025-01-12 15:05:13.790,,22738 Mobile St,West Hills,CA,91307,8000.0,14000.0,,,Zillow,
+2025-01-12 15:06:48.453,,543 Rialto Ave,Los Angeles,CA,90026,22500.0,27500.0,,,Redfin,"Zillow parcel number: [PHONE REDACTED]. Zillow listing taken down with final rental price not listed. Redfin has final rental information listed. It has been listed for $22,500/mo since June 2024. Rent increase occurred on 1/11/25 when relisted at $27,500/mo which is a 22.22% increase."
+2025-01-12 15:07:13.831,5435014021,3663 Edenhurst,Los Angeles,CA,90039,3750.0,6500.0,,,Zillow,
+2025-01-12 15:10:31.053,4494020003,716 N Kenter Ave,Los Angeles,CA,90049,17995.0,35995.0,,,Zillow,"On the market since 8/6/24 and price was decreased twice since then, price increased by 100% on 1/10/25 after the fires to $35,595."
+2025-01-12 15:13:26.321,4265017048,11826 Dorothy St Apt 202,Los Angeles,CA,90049,5095.0,6300.0,,,Zillow,"Rent increased 23.7% since last being listing in 2020. Listing says it has been recently ""fully renovated"""
+2025-01-12 15:14:04.370,,3672 Jasmine Ave UNIT 102,Los Angeles,CA,90034,4990.0,5995.0,,,Zillow,
+2025-01-12 15:16:49.813,4352001053,1849 N Coldwater Canyon Dr,Beverly Hills,CA,90210,24000.0,35000.0,,,Zillow,"Price reduced to $24k on 12/16/24, price was then increased by 45.8% after the fires on 1/9/25 to $35k."
+2025-01-12 15:18:30.273,,6230 Lindenhurst Ave #6230,Los Angeles,CA,90048,4995.0,5500.0,,,Zillow,"Listed $4,995 on 1/5/25, price increase to $5,500 on 1/11/25"
+2025-01-12 15:18:43.061,4429024001,110 N Barrington Ave,Los Angeles,CA,90049,12000.0,15000.0,,,Zillow,"Listing was originally listed on  1/6/24 at $10,000 before being raise by 20% to $12,000/mo on 1/17/24."
+2025-01-12 15:20:35.341,4362010008,543 Perugia Way,Los Angeles,CA,90077,29500.0,35000.0,,,Zillow,"Price was listed at $29,500 on 12/17/24, price was increased by 32% and removed on 1/8/25, relisted on 1/10/25 at $35k which is still an 18% increase from listing before fires."
+2025-01-12 15:22:42.860,5551028021,1308 N Orange Grove Ave,Los Angeles,CA,90046,11500.0,17000.0,,,Zillow,
+2025-01-12 15:24:31.703,,1055 S Hayworth Ave,Los Angeles,CA,90035,4900.0,5500.0,,,Zillow,
+2025-01-12 15:25:10.381,5481005027,907 Pine Grove Ave,Los Angeles,CA,90042,5250.0,5800.0,,,Zillow,
+2025-01-12 15:25:26.105,4352006010,1658 Lindacrest Dr,Beverly Hills,CA,90210,30000.0,34950.0,,,Zillow,"Listed for rent at $30k on 12/9/24, price increased by 16.5% after the fires to $34,950 on 1/9/25."
+2025-01-12 15:29:19.123,2608001002,12829 Jolette ave,Granada hills,CA,91344,10000.0,12500.0,,,Zillow,25% increase
+2025-01-12 15:30:19.421,5312015007,5900 Hellman Ave,Los Angeles,CA,90042,4950.0,6950.0,,,Zillow,
+2025-01-12 15:30:38.553,2283021001,15373 Valley Vista Blvd,Sherman Oaks,CA,91403,18000.0,34000.0,,,Zillow,"Originally listed for rent at $18k, removed from market on 7/20/23. Relisted after the fires on 1/8/25 for $24K a 33.3% increase, and then a second price increase a couple days later on 1/11/25 to $34k an overall 88.8% increase since it's original listing just a year and a half ago."
+2025-01-12 15:31:23.074,,13001-13019 Montana Ave #1301,Los Angeles,CA,90049,3595.0,5495.0,,,Zillow,Listed on 1/7 for $3595.  Increased to $4495 on 1/8.  Increased again to $5495 on 1/9/2025
+2025-01-12 15:34:54.731,2733003054,17821 San Jose st,Granada hills,CA,91344,4250.0,6000.0,,,Zillow,41% increase in rent
+2025-01-12 15:35:37.532,2203 N Bowmont Dr,2203 N Bowmont Dr,Beverly Hills,CA,90210,11800.0,33950.0,,,Zillow,"Last rent listing on 11/19/24 was for $11,800 before the home was sold. It was relisted for rent after the fires on 1/7/25 for $32k/month which is a 171.2% increase from the original rent rate, it was increased a second time on 1/9/25 so it's now at $33,950 total."
+2025-01-12 15:38:06.237,,710 Westbourne Dr,West Hollywood,CA,90069,9500.0,11995.0,,,Zillow,
+2025-01-12 15:40:23.172,5556004007,8185 Mannix Dr,Los Angeles,CA,90046,9500.0,10500.0,,,Zillow,"This one is weird because it was listed at 10,500 in December, then down to $9,500 on 1/8 and back up to 10,500 on 1/9"
+2025-01-12 15:44:26.200,5579038006,3323 N Knoll Dr,Los Angeles,CA,90068,6495.0,12000.0,,,Zillow,
+2025-01-12 15:46:45.211,5570007004,7484 Mulholland Dr,Los Angeles,CA,90046,12500.0,14000.0,,,Zillow,
+2025-01-12 15:47:36.485,2284001021,4707 Libbit Ave,Encino,CA,91436,20000.0,32000.0,,,Zillow,"Previous rent listing was for $20k, removed on 4/18/24. Relisted for rent at a 60% increase on 1/12/25 after the fires for $32k."
+2025-01-12 15:48:08.499,4287004015,2430 7th St,Santa Monica,CA,90405,10500.0,12000.0,,,Zillow,
+2025-01-12 15:48:19.079,5062021005,2119 S West View St,Los Angeles,CA,90016,7500.0,15000.0,,,Zillow,"Listed at $7,500 on 12/3/24.  Increased to $15,000 on 1/8.  Then decreased to $12,000 on 1/11."
+2025-01-12 15:51:01.432,4387023015,9621 Royalton Dr,Beverly Hills,CA,90210,21000.0,30000.0,,,Zillow,Listed for rent at a reduced rate of $21k as of 10/21/24 after sitting on the market. Price increased b y 42.9% to #30k after the fires on 1/9/25.
+2025-01-12 15:52:04.603,4105005011,5948 Abernathy Dr,Los Angeles,CA,90045,9999.0,11999.0,,,Zillow,
+2025-01-12 15:52:28.720,5527015009,649 N Edinburgh Ave,Los Angeles,CA,90048,24000.0,35000.0,,,Zillow,"Last listing was 2/27/2024 for 24,000, updated today 1/12/25 for 35,000"
+2025-01-12 15:52:34.071,4107020007,8429 Wiley Post Ave,Los Angeles,CA,90045,5400.0,7000.0,,,Zillow,
+2025-01-12 15:53:26.211,5526015017,610 N Stanley Ave,Los Angeles,CA,90036,20000.0,30000.0,,,Zillow,Listed for rent at $20k on 11/11/24 and price increased after fires on 1/9/25 to $30k - a 50% increase.
+2025-01-12 15:53:28.634,,11842 Culver Blvd,Los Angeles,CA,90067,2945.0,3680.0,,,Zillow,
+2025-01-12 15:55:48.780,4127011022,5442 W 76th St,Los Angeles,CA,90045,8000.0,10000.0,,,Zillow,"owns 3 properties, price gouged on all 3"
+2025-01-12 15:56:18.218,4332009026,446 S Almont Dr,Beverly Hills,CA,90211,10500.0,13000.0,,,Zillow,
+2025-01-12 15:57:29.648,,4243 Mary Ellen Ave,Studio City,CA,91604,3733.0,3995.0,,,Zillow,
+2025-01-12 15:58:00.201,2358002020,13252 Magnolia Blvd,Sherman Oaks,CA,91423,15000.0,19000.0,,,Zillow,
+2025-01-12 15:58:20.062,4321005044,"1937 Prosser Ave,",Los Angeles,CA,90025,6300.0,14000.0,,,Zillow,"Last listed 5/2/23 for 6300, updated 1/9/26 for 14,000 for a +122.2% increase."
+2025-01-12 15:58:45.587,4405-029-013,157 S Anita Ave,Los Angeles,CA,90049,15600.0,17200.0,,,Zillow,
+2025-01-12 15:59:06.635,4334012048,138 N Hamel Dr,Beverly Hills,CA,90211,9500.0,15500.0,,,Zillow,
+2025-01-12 16:02:30.112,4337015047,317 Westbourne Dr,West Hollywood,CA,90048,27000.0,30000.0,,,Zillow,
+2025-01-12 16:02:39.142,na,2307 Federal Ave,Los Angeles,CA,90064,21500.0,30000.0,,,Zillow,+39.5% since 10/29/24
+2025-01-12 16:03:34.106,4286017023,114 Pacific Ave,Venice,CA,90291,8995.0,11500.0,,,Zillow,
+2025-01-12 16:07:27.503,5560025007,8966 Shoreham Dr,Los Angeles,CA,90069,8500.0,11500.0,,,Zillow,
+2025-01-12 16:10:01.077,4277002012,811 23rd St,Santa Monica,CA,90403,8750.0,12500.0,,,Zillow,
+2025-01-12 16:12:00.854,5066008031,1741 Stearns Drive,Los Angeles,CA,90035,14995.0,14995.0,,,Zillow,"This one is weird - Listed at $14995 on 12/13/14, jumped up to $19,000 on 1/10, then back down to $14,995 on 1/12."
+2025-01-12 16:13:29.284,5558019012,8680 Franklin Ave,Los Angeles,CA,90069,20000.0,26000.0,,,Zillow,
+2025-01-12 16:16:13.006,4239017002,1106 Oakwood Ave,Venice,CA,90291,8459.0,11000.0,,,Zillow,
+2025-01-12 16:16:15.194,,13018 Chandler Blvd,Los Angeles,CA,91401,40000.0,45000.0,,,Zillow,
+2025-01-12 16:18:04.664,5556031008,1533 Marlay Dr,West Hollywood,CA,90069,26000.0,30000.0,,,Zillow,
+2025-01-12 16:22:07.193,5089002014,748 S Cloverdale Ave,Los Angeles,CA,90036,19500.0,26000.0,,,Zillow,33.3% increase since last listing 3/9/24
+2025-01-12 16:22:44.564,4229011016,637 Oxford Ave,Venice,CA,90291,7250.0,7995.0,,,Zillow,
+2025-01-12 16:23:25.382,5550004003,1612 Courtney Ave,Los Angeles,CA,90046,8900.0,10500.0,,,Zillow,
+2025-01-12 16:24:39.411,4388010036,2203 N Bowmont Dr,Beverly Hills,CA,90210,11800.0,32000.0,,,Zillow,"Increased an additional $1950 on 1/9/25, initial increase was 171.2%"
+2025-01-12 16:28:35.249,5549022024,1941 Glencoe Way,Los Angeles,CA,90068,8500.0,12500.0,,,Zillow,
+2025-01-12 16:29:51.506,2381029002,8147 Mulholland Ter,Los Angeles,CA,90047,15900.0,20000.0,,,Zillow,
+2025-01-12 16:33:59.678,,4227 McLaughlin Ave FLOOR 3-ID136,Los Angeles,CA,90066,3700.0,4080.0,,,Zillow,
+2025-01-12 16:37:17.655,4259009026,1719 Wellesley Ave,Los Angeles,CA,90025,8495.0,14995.0,,,Zillow,
+2025-01-12 16:42:11.424,5420002024,1846 N Alvarado St,Los Angeles,CA,90026,4495.0,4995.0,,,Zillow,
+2025-01-12 16:42:46.025,,4630 Vantage Ave,Valley Village,CA,91607,12950.0,15995.0,,,Zillow,
+2025-01-12 16:43:44.660,4383023013,9987 Reevesbury Dr,Beverly Hills,CA,90210,18000.0,25000.0,,,Zillow,
+2025-01-12 16:43:56.237,4107020007,8429 Wiley Post Ave,Los Angeles,CA,90045,5400.0,6000.0,,,Zillow,
+2025-01-12 16:45:30.947,5434016015,3205 Waverly Dr,Los Angeles,CA,90027,19000.0,25000.0,,,Zillow,
+2025-01-12 16:46:08.919,,Undisclosed address,Burbank,CA,91504,17900.0,20950.0,,,Zillow,
+2025-01-12 16:48:09.606,2280012027,3600 Valley Meadow Rd,Sherman Oaks,CA,91403,8500.0,9500.0,,,Zillow,
+2025-01-12 16:49:23.886,4369001018,1172 Linda Flora Dr,Los Angeles,CA,90049,40000.0,45000.0,,,Zillow,
+2025-01-12 16:49:37.995,5620008002,1966 Rangeview Dr,Glendale,CA,91201,6300.0,11500.0,,,Zillow,"Price raised before fires, but by over 80%"
+2025-01-12 16:52:06.118,4377015003,1801 Roscomare Rd,Los Angeles,CA,90077,14500.0,18900.0,,,Zillow,"Briefly dropped to 13,500 on 1/7/25"
+2025-01-12 16:53:06.301,5819008023,4641 crown ave,la canada flintridge,CA,91011,6200.0,7600.0,,,Zillow,
+2025-01-12 16:53:27.158,,Undisclosed,Los Angeles,CA,90291,6250.0,8000.0,,,Zillow,"Listed by management company. Rental price has been decreasing consistently since 5/2024 with the lastest decrease was on 11/15/24 where it was decreased from $6,667 to $6,250 (-6.3%). The listing was most recently listed on 1/6/2024 for $6250 and there was a price change on 1/9/2025 to $8,000 (+28%)."
+2025-01-12 16:54:23.205,4306027020,9509 Cresta Dr,Los Angeles,CA,90035,13500.0,17000.0,,,Zillow,
+2025-01-12 16:58:39.422,2280012027,3600 Valley Meadow Rd,Sherman Oaks,CA,91403,8500.0,9500.0,,,Zillow,
+2025-01-12 16:59:21.223,2477027012,927 N Fairview St,Burbank,CA,91505,14950.0,19750.0,,,Zillow,"This property was originally listed for $19,750/mo on 12/4/24. IT has had two decreases, landing at $14,950 on 12/30/2024 until it was increased to $19,750 (+32.1%) on 1/8/2025."
+2025-01-12 17:03:02.189,,20 28th Ave #Penthouse,Venice,CA,90291,9000.0,9895.0,,,Zillow,"This property was first listed at $9,500 on 11/13/24. It was decreased on 12/4/2024 to $9000 until 1/12/2025 when it was increased to $9,895 (+9.9%) on 1/12/2025."
+2025-01-12 17:05:51.863,Parcel number: 4236007006,2428 glyndon ave,Venice,CA,90291,11500.0,16000.0,,,Zillow,
+2025-01-12 17:06:06.195,2263027029,14654 Addison St,Sherman Oaks,CA,91403,9000.0,14000.0,,,Zillow,
+2025-01-12 17:06:15.872,5431021002,3055 Landa St,Los Angeles,CA,90026,9000.0,12000.0,,,Zillow,"This property has been on the market at $9,000 throughout 2024. It increased to $12,000 (+33.3%) on 1/11/2025. This property manager has multiple properties that have had illegal increases during this crisis."
+2025-01-12 17:12:06.373,MLS #24-457879,12318 W Sunset Blvd,Los Angeles,CA,90049,29500.0,30000.0,,,Redfin,"This property has been consistently decreasing in monthly price since 11/2024. As of 1/3/2025 the property was listed for $29,500/mo until being increased to as much as $35,000 on 1/11/2025 and then to $30,000 on 1/12/2025."
+2025-01-12 17:13:53.035,5563016016,8725 W Lookout Mountain Ave,Los Angeles,CA,90046,5999.0,6999.0,,,Zillow,
+2025-01-12 17:16:39.215,Parcel number: 4239017002,"1106 Oakwood Ave, Venice, CA 90291",venice,CA,90291,8459.0,11000.0,,,Zillow,
+2025-01-12 17:18:54.140,5437023007,2950 Tyburn St,Los Angeles,CA,90039,3800.0,4500.0,,,Zillow,
+2025-01-12 17:21:06.904,2280006031,15701 Royal Ridge Rd,Sherman Oaks,CA,91403,8995.0,9900.0,,,Zillow,
+2025-01-12 17:24:36.704,4286017023,114 Pacific Ave,Venice,CA,90291,8995.0,11500.0,,,Zillow,
+2025-01-12 17:25:57.997,na,"1302 N Gardner St,",Los Angeles,CA,90046,3300.0,4500.0,,,Zillow,
+2025-01-12 17:26:20.154,5677025001,"1427 Columbia Dr,",Glendale,CA,91205,8500.0,19500.0,,,Zillow,
+2025-01-12 17:32:13.328,4281009063,848 15th St APT 2,Santa Monica,CA,90403,3500.0,4450.0,,,Zillow,
+2025-01-12 17:32:43.272,4176013017,425 29th St.,Manhattan Beach,CA,90266,8250.0,18000.0,,,Zillow,"Looks like the place was being rented and then was sold, and is now being rented again for more than double its rental cost in 2021."
+2025-01-12 17:33:25.038,2456035010,1026 E Verdugo Ave,Burbank,CA,91501,7865.0,12000.0,,,Zillow,"Price increased from $7,865 to $12,000 (52.6%) between 1/7/25 and 1/9/25, then dropped to $8,650 on 1/11/25 (net 9.98% increase)"
+2025-01-12 17:38:49.169,,240 Howland Canal Ct,Venice,CA,90291,20500.0,35000.0,,,Zillow,
+2025-01-12 17:40:17.146,,12243 Gorham Ave #A,Los Angeles,CA,90049,5500.0,7000.0,,,Zillow,
+2025-01-12 17:41:51.697,4228016039,640 Harbor St Apt 1,Venice,CA,90291,20000.0,29500.0,,,Zillow,
+2025-01-12 17:43:04.713,5066008031,1741 Stearns Dr,Los Angeles,CA,90035,14995.0,19999.0,,,Zillow,"Listing was removed January 10, and relisted January 10"
+2025-01-12 17:44:18.239,4320003072,2311 Malcolm Ave,Los Angeles,CA,90064,4500.0,7500.0,,,Zillow,
+2025-01-12 17:45:50.187,2610012002,16754 Armstead St,Granada Hills,CA,91344,6000.0,7000.0,,,Zillow,
+2025-01-12 17:47:17.284,7554005014,2219 Estribo Dr,Rolling Hills,CA,90274,9500.0,10500.0,,,Zillow,
+2025-01-12 17:47:22.765,5576015017,2229 willetta st,los angeles,CA,90068,10500.0,16500.0,,,Zillow,
+2025-01-12 17:48:01.047,4272007003,1812 Navy St,Santa Monica,CA,90405,12750.0,28000.0,,,Zillow,"119.6 percent increase, 9 dollars per sq ft"
+2025-01-12 17:49:14.524,5312015007,5900 Hellman Ave,Los Angeles,CA,90042,4950.0,6950.0,,,Zillow,"Owner raised the rent from $4,950 to $7,950 on January 8th. On January 11th, he dropped it to $6,950."
+2025-01-12 17:50:40.355,,427 Manhattan Ave,Hermosa Beach,CA,90254,7400.0,8900.0,,,Zillow,
+2025-01-12 17:51:02.474,,10919 Ayres Ave,Los Angeles,CA,90064,8000.0,8900.0,,,Zillow,
+2025-01-12 17:51:28.527,4260028003,11708 Exposition Blvd,Los Angeles,CA,90064,5000.0,7000.0,,,Zillow,"40 percent increase, 6 dollars a sq ft. Listed for rent on 12/13/2024, removed on 12/28, re listed on 1/11"
+2025-01-12 17:52:26.713,5481005027,907 pine grove ave,los angeles,CA,90042,5250.0,5800.0,,,Zillow,
+2025-01-12 17:53:34.273,,208 Marine Ave,Manhattan Beach,CA,90266,7900.0,8900.0,,,Zillow,
+2025-01-12 17:54:29.508,4494010023,716 Rochedale Way,Los Angeles,CA,90049,8995.0,12000.0,,,Zillow,33.4 percent increase
+2025-01-12 17:54:41.942,,10 20th Ave,Venice,CA,90291,10000.0,19000.0,,,Zillow,
+2025-01-12 17:54:44.989,5481005027,907 Pine Grove Ave,Los Angeles,CA,90042,5250.0,5800.0,,,Zillow,"Price has been consistently dropping the last few months until 1/12/25, when it was raised more than 10.5%. I toured this property on 1/3/25 and it was unoccupied."
+2025-01-12 17:56:31.195,,undisclosed,burbank,CA,91504,17900.0,20950.0,,,Zillow,
+2025-01-12 17:57:06.287,5429020022,3512 Crestmont Ave,Los Angeles,CA,90026,9000.0,11000.0,,,Zillow,22.2 percent increase
+2025-01-12 17:57:55.713,7503004033,700 N Irena Ave,Redondo Beach,CA,90277,7320.0,8820.0,,,Zillow,
+2025-01-12 17:58:30.901,5068020027,1610 S Hayworth Ave,Los Angeles,CA,90035,6995.0,8790.0,,,Zillow,"i believe this is price gouging because of the date of the change (1/10/25, a 25/7% increase). The listing was previously removed on 6/29/24, having previously been listed as $6.995 per month. I'm not sure if that time period is too long to justify price gouging but the % increase still seems insane within the same year."
+2025-01-12 18:00:08.290,5329016004,705 Chaucer Rd,San Marino,CA,91108,10500.0,11900.0,,,Zillow,"Listed for $10,500 on January 3rd and raised to $13,980 on January 9th. Decreased it to $11,900 on January 10th. Still over 10% increase."
+2025-01-12 18:00:36.539,4169035007,2727 El Oeste Dr,Hermosa Beach,CA,90254,9900.0,10890.0,,,Zillow,
+2025-01-12 18:00:53.939,,6255 W Olympic Blvd #2,Los Angeles,CA,90048,7500.0,15000.0,,,Zillow,They removed the listing lol
+2025-01-12 18:01:17.321,,614 Midvale Ave,Los Angeles,CA,90024,3350.0,5250.0,,,Zillow,
+2025-01-12 18:02:10.445,4175013024,3408 Alma Ave,Manhattan Beach,CA,90266,4500.0,12500.0,,,Zillow,
+2025-01-12 18:02:10.594,5560024013,1222 Hilldale Ave,Los Angeles,CA,90069,24500.0,50000.0,,,Zillow,"Note that last rental listing/price was in Feb. 2023, and listing was removed in March 2023; the increase still seems significant but should be cross referenced average pre-fire rent for the area and property type"
+2025-01-12 18:03:21.906,5560025007,8966 Shoreham Dr,Los Angeles,CA,90069,8500.0,11500.0,,,Zillow,35.3 percent increase
+2025-01-12 18:04:24.623,4181035018,3100 The Strand,Hermosa Beach,CA,90254,16000.0,22000.0,,,Zillow,
+2025-01-12 18:05:00.358,4365004017,11570 W Sunset Blvd,Los Angeles,CA,90049,11999.0,25999.0,,,Zillow,
+2025-01-12 18:05:37.257,5558002013,1923 Sunset Plaza Dr,Los Angeles,CA,90069,11850.0,13500.0,,,Zillow,13.9 percent increase
+2025-01-12 18:07:54.030,,undisclosed address,Los Angeles,CA,90046,11500.0,15000.0,,,Zillow,30.4 percent increase
+2025-01-12 18:08:10.888,4178006020,233 17th St,Manhattan Beach,CA,90266,10000.0,19700.0,,,Zillow,
+2025-01-12 18:10:21.964,2280012027,3600 Valley Meadow Rd,Sherman Oaks,CA,91403,8500.0,9500.0,,,Zillow,"posted for rent in oct 2024, rent lowered in nov 2024, listing removed dec 2024, reposted 1/8/25 with an 11.8% increase"
+2025-01-12 18:10:45.946,5066004003,1915 S Crescent Heights Blvd,Los Angeles,CA,90034,6600.0,15000.0,,,Zillow,"Removed listing 1/7, relisted 1/9"
+2025-01-12 18:11:18.067,4171035018,500 14th St,Manhattan Beach,CA,90266,12500.0,23000.0,,,Zillow,
+2025-01-12 18:14:34.490,4216030008,11246 Segrell Way,Culver City,CA,90230,4200.0,5500.0,,,Zillow,
+2025-01-12 18:14:56.391,,23716 Archwood St,West Hils,CA,91307,10500.0,11000.0,,,Zillow,"Raised it to 12k on 1/9, then again up to 13k on the 11th, back down to 11k on the 13th"
+2025-01-12 18:15:09.500,2480012011,918 N Screenland Dr,Burbank,CA,91505,3200.0,3600.0,,,Zillow,"Price lowered to $3,500 on 1/12/25"
+2025-01-12 18:16:07.432,2381029002,8147 Mulholland Ter,Los Angeles,CA,90046,15900.0,20000.0,,,Zillow,"listed on 1/7/25 for $15,900. Removed listing on 1/10. Relisted on 1/13 for $20,000, a 25.8% increase."
+2025-01-12 18:17:31.880,4337014045,711 Huntley Dr,West Hollywood,CA,90069,17000.0,18500.0,,,Zillow,
+2025-01-12 18:18:44.207,5711012026,825 N Pasadena Ave,Pasadena,CA,91103,3750.0,4200.0,,,Zillow,
+2025-01-12 18:18:51.776,4178006020,233 17th St,Manhattan Beach,CA,90266,10000.0,19700.0,,,Zillow,Owner did not include phone number or email. 97% increase on rent.
+2025-01-12 18:19:56.416,5559009004,1321 Londonderry Pl,Los Angeles,CA,90069,17400.0,18500.0,,,Zillow,
+2025-01-12 18:22:32.037,5558014002,1920 Sunset Plaza Dr,Los Angeles,CA,90069,35000.0,50000.0,,,Zillow,
+2025-01-12 18:23:39.193,na,870 Hilgard Ave #315,Los Angeles,CA,90024,2995.0,3395.0,,,Zillow,"it may be a weaker case because technically it was unlisted before conveniently coming back on the market just in time to price gouge, instead of being a 'price change' it's a 'listed for rent'"
+2025-01-12 18:24:08.319,4377015003,1801 Roscomare Rd,Los Angeles,CA,90077,13500.0,18900.0,,,Zillow,"zillow lists the price change date as 1/13/25, but i'm submitting this on 1/12/25, i'm not sure what that means. at any rate, this property was listed on 1/7/25 for $13,500, then changed on 1/13/25 to $20,000 a month, lol. A 40% increase."
+2025-01-12 18:24:45.200,4345034007,815 N Whittier Dr,Beverly Hills,CA,90210,29000.0,67500.0,,,Zillow,
+2025-01-12 18:25:14.656,,8911 Cynthia St APT 9,West Hollywood,CA,90069,6240.0,7000.0,,,Zillow,"Last rental price was established on Nov. 7, 2024; the listing was both removed and relisted on 1/12/25 -- not sure if this is a way to get around the terms of price gouging? Or is a listed by default removed/relisted when prices change?"
+2025-01-12 18:25:54.491,na,274 S La Fayette Park Pl #2B-2BA,Los Angeles,CA,90057,2395.0,3295.0,,,Zillow,absolutely wack 37% increase
+2025-01-12 18:27:58.848,5852008029,2070 Layton St,Pasadena,CA,91104,3100.0,3500.0,,,Zillow,
+2025-01-12 18:28:47.420,2163017019,5514 Sylvia Ave,Tarzana,CA,91356,17000.0,20000.0,,,Zillow,
+2025-01-12 18:31:29.629,na,1221 Myra Ave #PENTHOUSE 605,los angeles,CA,90029,2832.0,3245.0,,,Zillow,these people might have a bot adjusting prices to match some average for the area or something? the price changed frequently and by large percentages.
+2025-01-12 18:33:45.628,5437023007,2950 Tyburn St,Los Angeles,CA,90039,3800.0,4500.0,,,Zillow,
+2025-01-12 18:46:37.608,4332009026,"446 S Almont Dr, Beverly Hills, CA 90211",Beverly hills,CA,90211,11000.0,13000.0,,,Zillow,
+2025-01-12 18:48:04.873,4358014024,1106 Maybrook dr,Beverly hills,CA,90210,13950.0,18000.0,,,Zillow,
+2025-01-12 18:48:17.276,4358014024,1106 Maybrook D,Beverly Hills,CA,90210,13950.0,18000.0,,,Zillow,Last price listing was Nov 2020.  Just listed today with a 29% increase
+2025-01-12 18:52:20.570,5560024013,1222 Hilldale Ave,Los Angeles,CA,90069,24500.0,50000.0,,,Zillow,
+2025-01-12 18:54:33.024,2423040017,10734 Bloomfield St,North Hollywood,CA,91602,3980.0,4800.0,,,Zillow,They may be doing this for multiple properties.
+2025-01-12 18:56:48.260,2279026021,15105 Mulholland Dr,Los Angeles,CA,90077,58500.0,70000.0,,,Zillow,
+2025-01-12 19:05:27.565,4358014024,1106 Maybrook Dr,Beverly Hills,CA,90210,13950.0,18000.0,,,Zillow,
+2025-01-12 19:12:04.823,2483-018-407,201 N California St,Burbank,CA,91505,7900.0,12734.8,,,Zillow,
+2025-01-12 19:13:04.831,5559015004,8666 Hollywood Blvd,Los Angeles,CA,90069,14995.0,17500.0,,,Zillow,
+2025-01-12 19:18:01.226,4210018031,10714 Franklin Ave,Culver City,CA,90230,4200.0,5000.0,,,Zillow,
+2025-01-12 19:24:41.497,,2903 Lincoln Blvd #221,Santa Monica,CA,90405,3249.0,31490.0,,,Zillow,
+2025-01-12 19:28:55.301,,7599 W Coastal Dr,Los Angeles,CA,90045,25000.0,33333.0,,,Zillow,
+2025-01-12 19:31:31.270,4368-011-012,1104 Casiano Rd,Los Angeles,CA,90049,9500.0,12500.0,,,Zillow,
+2025-01-12 19:33:05.374,4249023015,3552 Federal Ave,Los Angeles,CA,90066,8000.0,24000.0,,,Zillow,
+2025-01-12 19:34:41.621,5066008031,1741 Stearns Dr,Los Angeles,CA,90035,14995.0,19999.0,,,Zillow,"Returned listing back to original price on 1/12/2025 from $19,999 to $14,995"
+2025-01-12 19:35:31.882,5576015017,2229 Willetta St,Los Angeles,CA,90068,10500.0,16500.0,,,Zillow,
+2025-01-12 19:35:42.958,4216022014,11455 Segrell Way,Culver City,CA,90230,8950.0,9970.0,,,Zillow,
+2025-01-12 19:36:01.743,5563001012,11310 Valley Spring Ln,north hollywood,CA,91602,10950.0,12950.0,,,Zillow,"has been vacant a while, price was dropped twice since September 2024. all of a sudden a huge increase in spike since the LA fires"
+2025-01-12 19:37:30.273,N/a,10919 Ayres Ave,Los angeles,CA,90064,8000.0,8900.0,,,Zillow,
+2025-01-12 19:38:53.735,4244010003,3452 Maplewood Ave,Los Angeles,CA,90066,16750.0,28000.0,,,Redfin,Listing has been removed
+2025-01-12 19:39:26.833,5215016011,2010 Vineburn Street,Los Angeles,CA,90032,3395.0,3800.0,,,Zillow,
+2025-01-12 19:40:01.608,272007003,1812 Navy St,Sant Monica,CA,90405,12750.0,28000.0,,,Zillow,
+2025-01-12 19:40:49.766,,1302 N Gardner St,Los Angeles,CA,90046,3300.0,4500.0,,,Zillow,
+2025-01-12 19:44:33.674,,1405 Elkgrove Cir FLR 2-ID71,Venice,CA,90291,3910.0,4390.0,,,Zillow,
+2025-01-12 19:45:37.454,5549022024,"1941 Glencoe Way,",Los Angeles,CA,90068,8500.0,12500.0,,,Zillow,
+2025-01-12 19:45:57.132,5527009007,724 N Ogden Dr,Los Angeles,CA,90046,1.0,25000.0,,,Zillow,
+2025-01-12 19:46:22.867,4392017016,"9314 Sierra Mar Dr, Los Angeles, CA 90069",los angeles,CA,90069,10000.0,14000.0,,,Zillow,"listing was posted 1/11/2025 for $10,000 as of tomorrow (1/13/2025) they raised it $4,000"
+2025-01-12 19:46:25.654,4377046018,11730 Stonehenge Ln,Los Angeles,CA,90077,48500.0,65000.0,,,Zillow,
+2025-01-12 19:48:00.341,5434016015,3205 Waverly Dr,Los Angeles,CA,90027,19000.0,25000.0,,,Zillow,Monthly rent was lowered twice in November 2024
+2025-01-12 19:48:19.105,5435014021,3663 Edenhurst Ave,Los Angeles,CA,90039,8000.0,9000.0,,,Zillow,
+2025-01-12 19:48:28.648,Zillow,8911 Cynthia St APT 9,West Hollywood,CA,90069,6240.0,7000.0,,,Zillow,
+2025-01-12 19:49:33.438,4352006014,1659 Waynecrest Dr,Beverly Hills,CA,90210,1.0,65000.0,,,Zillow,
+2025-01-12 19:49:34.082,,11842 Culver Blvd,Los Angeles,CA,90066,2945.0,3680.0,,,Zillow,
+2025-01-12 19:50:03.316,4344003017,715 N Rexford Dr,Beverly Hills,CA,90120,37500.0,55000.0,,,Zillow,
+2025-01-12 19:51:53.905,5549013020,"2260 Maravilla Dr,",Los Angeles,CA,90068,29900.0,34999.0,,,Zillow,
+2025-01-12 19:54:07.615,5585011001,2655 Creston Dr,Los Angeles,CA,90068,1.0,19500.0,,,Zillow,
+2025-01-12 19:58:10.104,,3935 Inglewood Blvd #3935,Los Angeles,CA,90066,3999.0,4500.0,,,Zillow,
+2025-01-12 19:58:55.175,4311009018,2929 S Beverly Dr,Los Angeles,CA,90034,1.0,19500.0,,,Zillow,
+2025-01-12 20:00:26.720,4233014037,4188 Marcasel Ave,Los Angeles,CA,90066,8955.0,9000.0,,,Zillow,"Listed for 	$9,950 in 11/2024"
+2025-01-12 20:01:53.064,,726 Pier Ave #C,Santa Monica,CA,90405,3499.0,4000.0,,,Zillow,Originally listed 2 days before the fire and only 1 day after fires started they raised the price by 14% on an already overpriced unit.
+2025-01-12 20:05:18.193,2340007003,12354 Tiara street,valley village,CA,91607,15900.0,18500.0,,,Zillow,"has been vacant for months, dropped price several times up until the LA fires"
+2025-01-12 20:06:34.570,2265011027,4531 Van Nuys Blvd,Los Angeles,CA,91403,3500.0,3950.0,,,Zillow,
+2025-01-12 20:07:34.196,4309006023,2442 Beverwil Dr,LA,CA,90034,6300.0,12500.0,,,Zillow,
+2025-01-12 20:08:07.432,4286009124,700 Main St UNIT 25,Venice,CA,90291,11000.0,15000.0,,,Zillow,"1/12/2025	Price change	$9,100-39.3%
+1/10/2025	Price change	$15,000+11.1%
+1/8/2025	Price change	$13,500+22.7%
+12/16/2024	Price change	$11,000+20.9%"
+2025-01-12 20:10:26.778,5089016026,823 S Sierra Bonita Ave,Los Angeles,CA,90036,17995.0,19950.0,,,Zillow,
+2025-01-12 20:12:37.132,4116014007,241 Rees St,Playa Del Rey,CA,90293,2795.0,12000.0,,,Zillow,
+2025-01-12 20:20:23.821,4238016019,518 Rialto Ave #A,Venice,CA,90291,4500.0,5100.0,,,Zillow,
+2025-01-12 20:24:13.054,,927 N Fairview St,Burbank,CA,91505,14950.0,19750.0,,,Zillow,
+2025-01-12 20:27:29.017,4405042019,12318 W Sunset Blvd,Los Angeles,CA,90049,29500.0,30000.0,,,Zillow,
+2025-01-12 20:29:01.512,4306001030,1444 Beverwil Dr,LA,CA,90035,19950.0,38000.0,,,Zillow,Zillow listing has been removed but retained rental history; Redfin listing is still live:
+2025-01-12 20:29:21.477,5559015004,8666 Hollywood Blvd,Los Angeles,CA,90069,14995.0,17500.0,,,Zillow,
+2025-01-12 20:30:46.321,,4418 S Slauson Ave #402,Culver City,CA,90230,4350.0,4950.0,,,Zillow,
+2025-01-12 20:31:33.916,5559015004,"8666 Hollywood Blvd, Los Angeles, CA 90069",Los Angeles,CA,90069,14995.0,17500.0,,,Zillow,
+2025-01-12 20:33:23.435,2416020015,"5516 Willowcrest Ave, North Hollywood, CA 91601",north hollywood,CA,91601,4500.0,7000.0,,,Zillow,
+2025-01-12 20:34:17.758,2042005102,22809 Del Valle St APT 10,Woodland Hills,CA,91364,2800.0,3200.0,,,Zillow,
+2025-01-12 20:36:01.252,4356023014,9892 Beverly Grove Dr,Beverly hills,CA,90210,25000.0,33000.0,,,Zillow,
+2025-01-12 20:36:54.734,2182007006,"17841 Tarzana St, Encino, CA 91316",Encino,CA,91316,6750.0,18480.0,,,Zillow,
+2025-01-12 20:38:09.581,,20 28th Ave APT C,Venice,CA,90291,3500.0,4000.0,,,Zillow,
+2025-01-12 20:42:00.405,,22527 Cass Ave #1,Woodland Hills,CA,91364,14000.0,17000.0,,,Zillow,
+2025-01-12 20:43:46.690,4385004019,13318 Mulholland Dr,Beverly Hills,CA,90210,49850.0,59850.0,,,Zillow,the property has its own website:
+2025-01-12 20:47:15.258,,20500 Ventura Blvd FLOOR 3-ID681,Woodland Hills,CA,91364,2320.0,2730.0,,,Zillow,
+2025-01-12 20:47:39.821,4368-016-049,11361 Ovada Pl Apt 2,Los Angeles,CA,90049,3100.0,3600.0,,,Zillow,
+2025-01-12 20:48:54.646,Parcel number: 2381029002,8147 Mulholland Ter,Los Angeles,CA,90046,15900.0,20000.0,,,Zillow,
+2025-01-12 20:51:23.515,,4521 Alla Rd,Marina Del Rey,CA,90292,6250.0,7000.0,,,Zillow,
+2025-01-12 20:51:25.329,2040-011-011,22731 Burbank Blvd,Los Angeles,CA,91367,1625.0,1895.0,,,Zillow,
+2025-01-12 20:52:40.696,4388016030,9031 Alto Cedro Dr,Beverly Hills,CA,90210,42000.0,50000.0,,,Zillow,
+2025-01-12 20:53:41.250,4004013018,3731 W 59th Pl,Los Angeles,CA,90043,1.0,13000.0,,,Zillow,
+2025-01-12 20:54:34.358,2040011011,22731 Burbank Blvd,Woodland Hills,CA,91367,1625.0,1895.0,,,Zillow,
+2025-01-12 20:56:15.220,2166-012-006,20500 Ventura Blvd,Los Angeles,CA,91364,2320.0,2730.0,,,Zillow,
+2025-01-12 20:58:34.953,2153032002,"5709 Calvin Ave, Tarzana, CA 91356",Tarzana,CA,91356,4800.0,26000.0,,,Zillow,
+2025-01-12 20:59:56.273,2075-011-021,22527 Cass Ave Apt 1,Los Angeles,CA,91364,14000.0,17000.0,,,Zillow,
+2025-01-12 21:01:25.894,Na,Undisclosed,Culver City,CA,90232,5950.0,8950.0,,,Zillow,2/1 999 sq ft
+2025-01-12 21:02:46.100,2274022013,3310 Coy Dr.,Sherman Oaks,CA,91423,11000.0,12000.0,,,Zillow,
+2025-01-12 21:03:56.359,5558019012,8680 Franklin Ave,Los Angeles,CA,90069,20000.0,26000.0,,,Zillow,"Listed on 8/2/23 for rent for $20k, price increase after the fires by 30% on 1/8/25 to $26K."
+2025-01-12 21:08:15.072,5089002014,748 S Cloverdale Ave,Los Angeles,CA,90036,19500.0,26000.0,,,Zillow,"Was last on the market for $19,500 and removed on 5/7/24. Relisted on 1/12/25 after the fires at a 33.3% increase to $26k."
+2025-01-12 21:09:14.299,4238006015,543 Rialto Ave,Venice,CA,90291,22500.0,27500.0,,,Zillow,Zillow listing removed; still live on Compass
+2025-01-12 21:12:28.415,5569015062,2461 Jupiter Dr,Los Angeles,CA,90046,20000.0,26000.0,,,Zillow,Price was lowered in Oct 2024 and removed from market on 12/19/24 at $20K. Relisted after the fires on 1/8/25 at a 30% increase for $26k.
+2025-01-12 21:14:17.667,4208001009,4045 Jackson Ave,Culver City,CA,90232,7450.0,14500.0,,,Zillow,Was an Air B and B until today. 2/1 1146 sq ft
+2025-01-12 21:15:29.732,,710 Westbourne Dr,West Hollywood,CA,90069,9500.0,11995.0,,,Zillow,"$19,000 security deposit"
+2025-01-12 21:16:43.981,,Undisclosed Address,Sherman Oaks,CA,91423,18500.0,25000.0,,,Zillow,"Last listed on the market for $18,500 and removed on 3/1/23. Relisted after the fires on 1/11/25 at a 35.1% increase to $25K. 
+
+In description: Short and Long term, Filming and Insurance claims welcome"
+2025-01-12 21:19:32.282,4492009037,2242 Jeffersonia Way,Los Angeles,CA,90049,16950.0,24995.0,,,Zillow,Listing removed; screenshots from Google show price change
+2025-01-12 21:20:44.617,4356009006,1807 San Ysidro Dr,Beverly Hills,CA,90210,19500.0,25000.0,,,Zillow,"Previously on the market for $19,500 and removed on 12/25/24. Relisted after the fires on 1/9/25 with a 28.2% increase to $25K."
+2025-01-12 21:21:17.082,,"8517 Valley Flores Dr #B, West Hills, CA 91304",West Hills,CA,91304,1650.0,7000.0,,,Zillow,"2BR, last listed in '18 for $1,650, now listed for $7,000 as of last Thursday, a 324% increase."
+2025-01-12 21:24:41.762,4378032012,15541 Aqua Verde Dr,Los Angeles,CA,90077,19000.0,25000.0,,,Zillow,Previously listed for $19k and removed on 12/4/24. Relisted after the fires on 1/12/25 with a 31.6% increase to $25k.
+2025-01-12 21:27:31.494,4429011034,11964 Brentwood Grove Dr,LA,CA,90049,9500.0,50000.0,,,Zillow,Listing removed
+2025-01-12 21:27:44.344,,802 N Edinburgh Ave,Los Angeles,CA,90046,4500.0,4999.0,,,Zillow,
+2025-01-12 21:31:39.072,5569034027,1881 Mount Olympus Dr,Los Angeles,CA,90046,14500.0,25000.0,,,Zillow,"Previously on the market for $14,500 before the listing was removed on 9/29/23. This was relisted after the fires initiall on 1/8/25 at a 106.9% price increaase to $30k, then 3 days later on 1/11 the price was reduced to $25k...still an overall increase of 72% from previous listing.
+
+The description also notes:
+
+For lease, short or long term completely furnished!
+Black on black Ford Explorer available for an additional monthly fee! 
+Open to any type of lease needed
+Open to 1-6 month lease terms"
+2025-01-12 21:35:22.005,4239017002,1106 Oakwood Ave,Venice,CA,90291,8459.0,11000.0,,,Zillow,Listing removed
+2025-01-12 21:38:21.898,4494022015,774 N Kenter Ave,Los Angeles,CA,90049,20970.0,24995.0,,,Zillow,"This listing was previously listed at a reduced rate of $20,970 on 11/4/24. It was removed after the fires on 1/12/25 and readded the next day at a 19.2% increase to $24,995.
+
+Description also states:
+
+FULLY FURNISHED SHORT TERM OR LONG TERM RENTAL AVAILABLE"
+2025-01-12 21:41:28.228,4207026028,4260 Revere Pl,Culver City,CA,90232,6500.0,8500.0,,,Zillow,Listing removed; price history can be seen in screenshots of Zillow and Google search
+2025-01-12 21:44:24.909,5569008011,2369 Jupiter Dr,Los Angeles,CA,90046,18500.0,23500.0,,,Zillow,"Previously listed for $18,500 and removed on 12/31/24. Relisted on 1/12/25 at a 27% increase after the fires at $23,500.
+
+Description also states:
+This home and all our listings are available immediately to assist displaced victims from the fires. Available full-furnished and turnkey for short or long-term rentals."
+2025-01-12 21:45:27.596,5556030012,1540 Marlay Dr,LA,CA,90069,7000.0,12000.0,,,Zillow,
+2025-01-12 21:46:00.185,5638019021,634 W California Ave,Glendale,CA,91203,3200.0,5500.0,,,Zillow,"Price was $3200 as of November 2024; unit is being advertised as for short-term monthly rental, in addition to long-term"
+2025-01-12 21:49:37.306,4371024018,920 N Beverly Glen Blvd,LA,CA,90077,10000.0,12000.0,,,Zillow,
+2025-01-12 21:49:50.790,2610012002,16754 Armstead St,Granada Hills,CA,91344,6000.0,7000.0,,,Zillow,
+2025-01-12 21:51:38.706,4327004003,1416 Pandora Ave,Los Angeles,CA,90024,12000.0,22000.0,,,Zillow,"Was last listed at $12k and removed on 12/7/23. Relisted after the fires on 1/9/25 at $22k for a 83.3% increase in a little over a year.
+
+Description also states:
+
+Available for SHORT RENTAL & MONTH TO MONTH"
+2025-01-12 21:54:29.867,,354 S Spring St FLOOR 10-ID1208,Los Angeles,CA,90013,4140.0,5400.0,,,Zillow,"Price lowered twice in Dec. 2024, most recently to $4140 on 12/24/24; raised to $5400 on 1/10/25; offers short-term leases"
+2025-01-12 21:55:06.313,,929 Marco Pl,Venice,CA,90291,17995.0,26500.0,,,Zillow,listing removed
+2025-01-12 21:55:45.548,2182007006,17841 Tarzana St,Encino,CA,91316,6750.0,18480.0,,,Zillow,
+2025-01-12 21:56:18.813,2259018011,4906 Rubio Ave,Encino,CA,91436,19500.0,21500.0,,,Zillow,"Listing was removed on 12/3/24 at $17,760. Relisted on 1/6/25 at a 9.8% increase to $19,500 and then increased again  a few days later on 1/10/25 another 10.3% to $21,500. 
+
+Description also states it's furnished and move in ready."
+2025-01-12 21:58:39.266,2284001021,4707 Libbit Ave,Encino,CA,91436,20000.0,32000.0,,,Zillow,
+2025-01-12 22:02:02.917,2381029002,8147 Mulholland Ter,Los Angeles,CA,90046,15900.0,20000.0,,,Zillow,"Listed on 1/7/25 for $15,900 and removed on 1/10/25 then relisted on 1/13 at an increase of 25.8% to $20k.
+
+Description also states:
+
+NOTE lease can be anything from one month to 12 months but short term lease under 6 months may be more"
+2025-01-12 22:02:53.181,2153032002,5709 Calvin Ave,Tarzana,CA,91356,4800.0,26000.0,,,Zillow,
+2025-01-12 22:08:12.879,4305024009,1723 S Durango Ave,Los Angeles,CA,90035,17995.0,19995.0,,,Zillow,"Previously listed and reduced multile times in 2024 before being removed on 12/14/24 at $17,995. Relisted after the fires on 1/10/25 at an 11.1% increase to $19,995."
+2025-01-12 22:10:43.615,5157027044,1916 W Court St,Los Angeles,CA,90026,9995.0,14500.0,,,Zillow,"They increased the rent a few days after the fire, I think they removed the listing as a rental though. It is now listed as a house for sale."
+2025-01-12 22:12:00.898,5068022035,1445 S Ogden Dr,Los Angeles,CA,90019,15000.0,19995.0,,,Zillow,"Listed for rent on 12/2/24 at $15k, rent increase by 33.3% to $19,995 after the fires on 1/9/25.
+
+Available starting Jan 26th 2025
+
+Description also states:
+Fully Furnished with flexible lease terms."
+2025-01-12 22:13:21.072,,11361 Ovada Pl APT 2,Los Angeles,CA,90049,3100.0,3600.0,,,Zillow,
+2025-01-12 22:15:36.860,4303013046,1637 S Sherbourne Dr,Los Angeles,CA,90035,14995.0,19995.0,,,Zillow,"Previously listed and price reduced to $14,995 on 10/1/24. Price increased after the fires on 1/8/25 to $19,995 fir a 33.3% increase."
+2025-01-12 22:16:37.485,5429020022,3512 Crestmont Ave,Los Angeles,CA,90026,9000.0,11000.0,,,Zillow,I thin they removed the listing as a rental
+2025-01-12 22:17:07.065,,1533 Marlay Dr,West Hollywood,CA,90069,26000.0,30000.0,,,Zillow,Rental price was lowered from $29k in 11/24 to $26k on 12/24/24; price raised 15.4% to $30k on 1/9/25
+2025-01-12 22:19:04.676,na,274 S La Fayette Park Pl #2B-2BA,los angeles,CA,90057,2395.0,3295.0,,,Zillow,no one wanted their shitty apartment for 83 days and they suddenly decided to hike the price by 37% in the middle of a wildfire
+2025-01-12 22:19:07.940,5089016026,823 S Sierra Bonita Ave,Los Angeles,CA,90036,17995.0,19950.0,,,Zillow,"Listed for rent on 11/4/24 for $17,995 + price increased after the fires on 1/10/25 by 10.9%."
+2025-01-12 22:20:11.541,,20 28th Ave APT C,Venice,CA,90291,3500.0,4000.0,,,Zillow,
+2025-01-12 22:20:31.006,2779034003,8401 Remmet Ave,Canoga Park,CA,91304,5500.0,7000.0,,,Zillow,
+2025-01-12 22:22:47.502,,7901 Limerick Ave #1,Winnetka,CA,91306,5500.0,7500.0,,,Zillow,
+2025-01-12 22:22:56.360,na,17808 Sherman Way APT 127,Reseda,CA,91335,1675.0,2078.0,,,Zillow,"this one actually feels like a particularly strong case because they listed it on 1/5 for the initial price, then the fires started, and then on 1/12 they hiked it by 24%"
+2025-01-12 22:24:30.084,5423021011,1636 N Occidental Blvd,Los Angeles,CA,90026,3500.0,4500.0,,,Zillow,
+2025-01-12 22:24:38.410,2042005102,22809 Del Valle St APT 10,Woodland Hills,CA,91364,2800.0,3200.0,,,Zillow,
+2025-01-12 22:26:55.373,na,5535 Carlton Way #1B-1BA,los angeles,CA,90028,1850.0,2095.0,,,Zillow,"it's been listed since early december with (relatively) little interest, suddenly price increased by 10.6%"
+2025-01-12 22:29:38.315,5569008011,2369 Jupiter Dr,Los Angeles,CA,90046,18500.0,23500.0,,,Zillow,
+2025-01-12 22:31:23.230,5431021002,3055 Landa St,Los Angeles,CA,90039,9000.0,12000.0,,,Zillow,
+2025-01-12 22:32:05.801,4382011014,2559 Hutton Dr,Beverly Hills,CA,90210,7999.0,10500.0,,,Zillow,
+2025-01-12 22:34:32.869,,4418 S Slauson Ave #402,Culver City,CA,90230,4350.0,4950.0,,,Zillow,
+2025-01-12 22:34:51.960,4378028024,2390 Nalin Dr,Los Angeles,CA,90077,8350.0,9950.0,,,Zillow,
+2025-01-12 22:37:08.990,5435014021,3663 Edenhurst Ave,Los Angeles,CA,90039,8000.0,9000.0,,,Zillow,
+2025-01-12 22:39:07.359,4209001009,4045 Jackson Ave,Culver City,CA,90232,7450.0,14500.0,,,Zillow,
+2025-01-12 22:44:39.884,5549022024,1941 Glencoe Way,Los Angeles,CA,90068,8500.0,12500.0,,,Zillow,
+2025-01-12 22:46:29.355,5089002014,748 S Cloverdale Ave,Los Angeles,CA,90036,19500.0,26000.0,,,Zillow,
+2025-01-12 22:51:39.041,5576015017,2229 Willetta St,Los Angeles,CA,90068,10500.0,16500.0,,,Zillow,"The rental was listed for 10,500 in October then it was removed, he resisted it on the 11th for 12,500. An increase of 57.1%."
+2025-01-12 22:59:19.127,,110 Bennett Ave,Long Beach,CA,90803,3500.0,7800.0,,,Zillow,
+2025-01-12 23:03:40.710,4187022001,747 Monterey Blvd,Hermosa Beach,CA,90254,6500.0,8500.0,,,Zillow,
+2025-01-12 23:06:35.532,4161015014,1211 Goodman Ave,Redondo Beach,CA,90278,6550.0,7050.0,,,Zillow,
+2025-01-12 23:08:47.745,4220004040,12117 Alberta Dr,Los Angeles,CA,90230,5200.0,7200.0,,,Zillow,
+2025-01-12 23:09:53.141,5711012026,825 N Pasadena Ave,Pasadena,CA,91103,3750.0,4200.0,,,Zillow,
+2025-01-12 23:11:53.696,,"817 Manhattan Ave,",Hermosa Beach,CA,90254,5100.0,6000.0,,,Zillow,
+2025-01-12 23:13:45.888,,2666 Hutton Dr,", Beverly Hills",CA,90210,65000.0,75000.0,,,Zillow,
+2025-01-12 23:16:00.881,4384031034,2328 San Ysidro Dr,Beverly Hills,CA,90210,25000.0,45000.0,,,Zillow,
+2025-01-12 23:17:26.412,5048008049,2639 S Genesee Ave,Los Angeles,CA,90016,6930.0,14500.0,,,Zillow,
+2025-01-12 23:17:45.748,,"13204 Hansworth Ave,",Hawthorne,CA,90250,5300.0,5750.0,,,Zillow,
+2025-01-12 23:18:09.485,4229014069,745 Oxford Ave,Marina Del Rey,CA,90292,9900.0,12900.0,,,Zillow,
+2025-01-12 23:20:39.928,4408005008,1185 Corsica Dr,Pacific Palisades,CA,90272,40000.0,49500.0,,,Zillow,inside the evac zone???
+2025-01-12 23:22:34.987,4344003017,715 N Rexford Dr,Beverly Hills,CA,90210,37500.0,55000.0,,,Zillow,
+2025-01-12 23:25:02.756,,"1802 Belmont Ln,",Redondo Beach,CA,90278,5950.0,6450.0,,,Trulia,
+2025-01-12 23:27:20.987,5711009034,190 Arroyo Ter APT 202,Pasadena,CA,91103,3095.0,3995.0,,,Zillow,
+2025-01-12 23:27:51.819,4368011012,1104 Casiano Rd,Los Angeles,CA,90049,8950.0,12500.0,,,Zillow,
+2025-01-12 23:30:29.258,5766006019,1815 Oak View Ln,Arcadia,CA,91006,4500.0,5900.0,,,Zillow,
+2025-01-12 23:31:08.274,,1931 Nelson Ave,Redondo Beach,CA,90278,7400.0,8200.0,,,Trulia,
+2025-01-12 23:32:43.382,,(Undisclosed Address),Burbank,CA,91505,14950.0,19750.0,,,Zillow,
+2025-01-12 23:34:04.316,,"592 30th St,",Manhattan Beach,CA,90266,25000.0,35000.0,,,Trulia,
+2025-01-12 23:42:58.137,,1302 N Gardner St,Los Angeles,CA,90046,3300.0,4500.0,,,Zillow,
+2025-01-13 04:55:54.042,4116014007,241 Rees street,Playa del rey,CA,90293,4000.0,12000.0,,,Zillow,
+2025-01-13 07:04:46.419,,917 S Berendo St #401,Los Angeles,CA,90006,3200.0,5400.0,,,Zillow,
+2025-01-13 07:12:59.404,,724 S Gramercy Dr,Los Angeles,CA,90005,5200.0,5800.0,,,Zillow,
+2025-01-13 08:30:24.724,,8038 Blackburn Ave #7,Los Angeles,CA,90048,2500.0,3500.0,,,Zillow,
+2025-01-13 08:36:40.409,5525009014,748 N Detroit St,Los Angeles,CA,90046,18000.0,30000.0,,,Zillow,
+2025-01-13 08:39:30.935,5431021002,3055 Landa Street,Los Angeles,CA,90026,9000.0,12000.0,,,Zillow,
+2025-01-13 08:49:28.224,5534015002,6056 fountain avenue,los angeles,CA,90028,5565.0,6100.0,,,Zillow,
+2025-01-13 08:52:22.291,,845 N Formosa Ave,Los Angeles,CA,90046,2850.0,5995.0,,,Zillow,
+2025-01-13 08:56:27.821,5434035021,2901 Angus Street,Los Angeles,CA,90039,2800.0,6000.0,,,Zillow,
+2025-01-13 09:06:04.859,5677025001,1427 Columbia Dr,Glendale,CA,91205,8500.0,19500.0,,,Zillow,Looks like in 2019 the listing was $2500/mo and the in 2020 in was gouged to $8500/mo and now it’s even higher with no changes until 1/13/2025 to $19500. It says it’s fully furnished.
+2025-01-13 09:15:54.758,5556031008,1533 Marlay Drive,West Hollywood,CA,90069,26000.0,30000.0,,,Zillow,"Initially listed at $29,000, price lowered in December to $26,000, then went back up. It’s furnished and not clear if this is new, so perhaps an increase for furnishing which would make ok."
+2025-01-13 09:28:39.718,,Undisclosed,Pacific Palisades,CA,90272,8900.0,18500.0,,,Zillow,Hasn’t been updated in a year and says it’s available tomorrow with its new high price. Includes being fully furnished which is a common theme for the gouging.
+2025-01-13 09:43:53.404,,3425 W Olive Ave #335,Burbank,CA,91505,4511.0,4784.0,,,Zillow,
+2025-01-13 09:51:10.840,,22720 Oxnard St,Woodland Hills,CA,91367,3900.0,5900.0,,,Zillow,
+2025-01-13 10:21:02.137,2014003005,22928 Roscoe Blvd,West Hills,CA,91304,1.0,25000.0,,,Zillow,"First time avail. for rent is 1/13/25; sold for ~$1mil in 07/2024, and comparable rents are closer to $4-5k."
+2025-01-13 10:23:57.983,7156014016,2948 Eckleson St,Lakewood,CA,90712,7900.0,8900.0,,,Zillow,"While they say they are primarily focused on helping displaced families and open to flexible lease terms and short terms, they brought up the price 12.7%"
+2025-01-13 10:26:02.390,,22349 Vanowen St,Canoga Park,CA,91303,7500.0,9500.0,,,Redfin,Listed for 7500 still on Zillow; up to 9500 on Redfin
+2025-01-13 10:29:53.720,4357015003,10123 Angelo View Dr,Beverly Hills,CA,90210,15750.0,24995.0,,,Zillow,Listed for 15750 in December 2024 - now up to 24995 as of 1/13/2025
+2025-01-13 10:36:43.213,,15541 Aqua Verde Dr,Los Angeles,CA,90077,19000.0,25000.0,,,Redfin,Listed in 2024 for 19k; now 25k
+2025-01-13 10:36:57.290,,2442 W Sunset Blvd,Los Angeles,CA,90026,4500.0,5500.0,,,Zillow,"I toured this property at the end of 2024 when the price was $4,500 and had all the same exact specs. Mark (the property owner) initially increased the rent from $4,500 to $12,500 on 1/8, one day after the fire. After being confronted, the listing was removed, and has now been reposted at a still illegal percentage increase (22%). He is relentless and must be stopped. He will also lie if he feels he's being accused. He also owns the apartments at 1032 Coronado behind this unit and I fear that he may be price gouging units there as well. I believe his name is Mark Stephen Perl but i'm not 100% sure - I overheard the current tenant say this name out loud when I was touring the unit."
+2025-01-13 10:38:49.930,,9343 White Oak Ave,Northridge,CA,91325,1.0,14000.0,,,Zillow,"Was not previously listed for rent, however, the price is obviously exceeding what is standard for the size and the area.  There is another, bigger, listing across the street for only 8500."
+2025-01-13 10:39:25.947,4178006020,233 17th Street,Manhattan Beach,CA,90266,10000.0,19700.0,,,Zillow,
+2025-01-13 10:44:43.924,2706011050,20850 Kingsbury St,Chatsworth,CA,91311,1800.0,4500.0,,,Zillow,"$1,800 per month was last posted on August 27, 2024 so may be too long, but 150% increase vs. August seems egregious"
+2025-01-13 10:52:31.482,5481005027,907 Pine Grove Ave,Los Angeles,CA,90042,5250.0,5800.0,,,Zillow,"This one may have already been entered, just fyi!  - Laura Matter"
+2025-01-13 10:55:35.457,8604002065,915 Edie Dr,Duarte,CA,91010,9995.0,11995.0,,,Zillow,"This one may have already been entered, just fyi! -Laura Matter"
+2025-01-13 10:56:15.556,,7901 Limerick Ave #1,Winnetka,CA,91306,5500.0,7500.0,,,Zillow,Last priced 5500 in June 2024
+2025-01-13 11:01:38.775,2010006011,22147 Gresham St,West Hills,CA,91304,14000.0,19900.0,,,Zillow,"Priced at 14K jan of 2024, may be too long but 42% increase in just under a year"
+2025-01-13 11:02:48.614,1880191225,1533 Twin Tides Pl,Oxnard,CA,93035,9000.0,13000.0,,,Zillow,Highest the property was listed was for 10k on 9/30/23
+2025-01-13 11:08:39.818,2021004017,7540 Quimby Ave,West Hills,CA,91307,3995.0,4900.0,,,Zillow,
+2025-01-13 11:14:29.316,2021022020,22958 Cantlay St,West Hills,CA,91307,5300.0,7000.0,,,Zillow,
+2025-01-13 11:17:29.198,2070120795,686 Island View Ct,Port Hueneme,CA,93041,1.0,6800.0,,,Zillow,"This one is tough because it hasn't been listed for rent before now, but the price that the owner listed it is significantly higher than what rentals have historically been going for within that area for a 2/2. There is a 3/2 a few blocks away listed for 4500/mo with consistent renal history showing that's more in line with demand."
+2025-01-13 11:19:09.104,4387029012,9530 Cedarbrook Dr,Beverly Hills,CA,90210,8500.0,15000.0,,,Zillow,
+2025-01-13 11:20:55.948,5215015017,2021 Vineburn Ave,Los Angeles,CA,90032,4995.0,5995.0,,,Zillow,
+2025-01-13 11:31:47.589,5089016026,823 S Sierra Bonita Ave,Los Angeles,CA,90036,17995.0,19750.0,,,Zillow,
+2025-01-13 11:36:49.615,4286025001,16 Park Ave,Venice,CA,90291,7995.0,30000.0,,,Zillow,"12/11/24 posted at $7995. 1/9/25 listing removed. Reposted on 1/13/25 at $30,000, 275% increase. insane."
+2025-01-13 11:36:50.351,2766020029,9337 Shoshone Ave,Northridge,CA,91325,7000.0,8500.0,,,Zillow,"Slowly have been raising the rent ~6-7%, have raised it 3 times since listing in November for 7K"
+2025-01-13 11:44:00.148,5514010050,"317 N Flores St, Los Angeles, CA 90048",Los angeles,CA,90048,14000.0,25000.0,,,Zillow,They said the owners increased the price
+2025-01-13 11:55:10.696,2013030032,22660 Baltar St,West Hills,CA,91304,9000.0,10000.0,,,Zillow,"Listed for 7K in November, raised to 9K in december and then another raise to 10K on the 8th - total 43% increase since Nov"
+2025-01-13 12:04:30.554,na,1455 N Los Robles Ave #1B-1BA,Pasadena,CA,91104,1995.0,2200.0,,,Zillow,"they've had it on the market since early october and have been lowering the price repeatedly, presumably because they didn't have any bites. suddenly raise the price by 10% on the 10th of january."
+2025-01-13 12:11:32.037,5556015005,1622 Viewmont Dr.,Los Angeles,CA,90069,50000.0,59900.0,,,Zillow,
+2025-01-13 12:17:34.763,na,2730 Earle Ave,Rosemead,CA,91770,2100.0,4000.0,,,Zillow,"ugh, I haven't really been submitting listings here where the place went off market for a while and then came back on the market this week at a hiked price because it feels like a weaker case to make legally (ie they could have made changes to the property to iNcReAsE vAlUe or whatever they'd argue) but this one came back at a 90% increase which is just so gross. unfortunately it's been unlisted since 2017 :( so, if this is actionable cool; if not sorry for the noise"
+2025-01-13 12:21:17.278,2763032005,9572 Rhea Ave,Northridge,CA,91324,5000.0,5650.0,,,Zillow,"Raised twice totaling +13% increase, though only 9.7% on the 13th vs. increase in late Dec"
+2025-01-13 12:34:47.742,na,1235 Highland Oaks Dr,Arcadia,CA,91006,5495.0,6250.0,,,Zillow,listing removed mid november and then went back up this week with 13.7% increase
+2025-01-13 12:38:24.887,2697024001,17063 San Fernando Mission Blvd,Granada Hills,CA,91344,1800.0,1999.0,,,Zillow,
+2025-01-13 12:43:47.894,5660029045,3816 San Augustine Dr,Glendale,CA,91206,5000.0,8200.0,,,Zillow,wasn't listed for 5 years and then put on the market 1/6 with a 60% increase
+2025-01-13 12:46:22.688,,828 Westmount Dr,Los Angeles,CA,90069,5895.0,8900.0,,,Redfin,Last asking price was in December 2023.
+2025-01-13 12:51:56.329,2783007015,8434 Shirley Ave,Northridge,CA,91324,4500.0,5000.0,,,Zillow,
+2025-01-13 12:53:25.503,na,512 Griswold St APT 6,Glendale,CA,91205,2295.0,2595.0,,,Zillow,"went off market in 2021 at lower price, became available today at 13% increase from previous"
+2025-01-13 12:58:29.007,4401026052,11633 Chenault St UNIT 202,Los Angeles,CA,90049,4995.0,7500.0,,,Zillow,
+2025-01-13 12:58:49.454,na,325 E Stocker St APT 5,Glendale,CA,91207,2929.0,3200.0,,,Zillow,not over 10% but dickish nonetheless
+2025-01-13 13:01:48.086,,724 S Gramercy Dr,Los Angeles,CA,90005,5200.0,5800.0,,,Zillow,I know this unit has been used as an illegal Airbnb in the past.
+2025-01-13 13:02:07.000,2279026021,15105 Mulholland Dr,Los Angeles,CA,90077,58500.0,70000.0,,,Zillow,
+2025-01-13 13:02:58.398,4178006020,233 17th Street,Manhattan beach,CA,90266,10000.0,19700.0,,,Zillow,
+2025-01-13 13:09:15.777,5375018016,6354 N Charlotte Ave,San Gabriel,CA,91775,6500.0,7000.0,,,Zillow,
+2025-01-13 13:09:44.220,4175007010,472 36th street,Manhattan beach,CA,90266,8750.0,19750.0,,,Zillow,
+2025-01-13 13:10:42.300,7409006013,23608 Pineforest Lane,Harbor City,CA,90710,4900.0,5900.0,,,Zillow,
+2025-01-13 13:14:01.821,5431021002,3055 Landa st,Los Angeles,CA,90039,9000.0,12000.0,,,Zillow,I live in the neighborhood. He has never asked this much.
+2025-01-13 13:14:15.474,4460018023,26865 Via Linda St,Malibu,CA,90265,15000.0,25000.0,,,Zillow,
+2025-01-13 13:14:53.213,,119 W Live Oak St APT J,San Gabriel,CA,91776,1895.0,2485.0,,,Zillow,
+2025-01-13 13:15:26.879,,"Unknown, 90028",Los angeles,CA,90028,2350.0,2950.0,,,Zillow,
+2025-01-13 13:19:12.847,,31678 Cottontail Ln,Malibu,CA,90265,12500.0,15000.0,,,Zillow,
+2025-01-13 13:20:22.666,,16070 W Sunset Blvd FLOOR 1-ID361,Pacific Palisades,CA,90272,4300.0,4900.0,,,Zillow,
+2025-01-13 13:22:32.984,,900 S Orange Grove Blvd APT C,Pasadena,CA,91105,3800.0,6500.0,,,Zillow,
+2025-01-13 13:23:00.973,4176013017,425 29th street,Manhattan beach,CA,90266,8250.0,18000.0,,,Zillow,
+2025-01-13 13:23:31.416,5431032010,1850 San Jacinto St,Los Angeles,CA,90026,6500.0,6900.0,,,Zillow,
+2025-01-13 13:23:51.347,4416012020 (unlisted),Undisclosed Address on Zillow - but it's 17614 Posetano Rd,Pacific Palisades,CA,90272,8900.0,18500.0,,,Zillow,Address is unlisted but I've confirmed it to be 17614 Posetano Rd. Duplicate photos found on Redfin page
+2025-01-13 13:24:34.754,,286 N Madison Ave FLOOR 3-ID1153,Pasadena,CA,91101,2970.0,3450.0,,,Zillow,
+2025-01-13 13:25:29.920,4470013005,30830 Broad Beach Rd,Malibu,CA,90265,30000.0,75000.0,,,Zillow,Off market as of Jan 13.
+2025-01-13 13:26:31.351,,"3608 The Strand APT 2, Manhattan Beach, CA 90266",Manhattan beach,CA,90266,3450.0,33000.0,,,Zillow,
+2025-01-13 13:27:27.813,4470020020,31777 Broad Beach Rd,Malibu,CA,90265,11000.0,15000.0,,,Zillow,
+2025-01-13 13:28:31.893,,909 El Centro St FLOOR 2-ID1158,South Pasadena,CA,91030,2630.0,3120.0,,,Zillow,
+2025-01-13 13:30:39.775,4356009006,1807 San Ysidro Dr,Beverly Hills,CA,90210,19500.0,25000.0,,,Zillow,
+2025-01-13 13:30:52.353,,500 14th Street,Manhattan beach,CA,90266,12000.0,23009.0,,,Zillow,
+2025-01-13 13:34:10.475,Na,"1205 Highview Ave, Manhattan Beach, CA 90266",Manhattan beach,CA,90266,3000.0,30000.0,,,Zillow,
+2025-01-13 13:34:44.815,,8417 Harold Way,Los Angeles,CA,90069,14995.0,16500.0,,,Redfin,
+2025-01-13 13:40:30.400,,314 Upper Lake Rd,Westlake Village,CA,91361,5400.0,7500.0,,,Zillow,
+2025-01-13 13:40:48.765,2151035034,20752 Collins St,Woodland Hills,CA,91367,6000.0,7500.0,,,Zillow,"Lots of price adjustments but most recently grew +15%, lowest is 6K but was listed for 7K in september"
+2025-01-13 13:41:53.644,4286025001,16 Park Ave,Venice,CA,90291,7995.0,30000.0,,,Zillow,
+2025-01-13 13:47:37.399,,20202 Clark St,Woodland Hills,CA,91367,2400.0,2900.0,,,Zillow,
+2025-01-13 13:50:01.232,,Undisclosed address,Van Nuys,CA,91406,3480.0,5500.0,,,Zillow,
+2025-01-13 13:50:23.912,4180030002,716 the Strand,Manhattan beach,CA,90266,135000.0,135000.0,,,Zillow,
+2025-01-13 13:51:43.415,,3977 Dalton Ave #1,Los Angeles,CA,90062,1900.0,3000.0,,,Zillow,
+2025-01-13 13:55:00.390,4176003013,"592 30th St, Manhattan Beach, CA 90266",Manhattan beach,CA,90266,25000.0,35000.0,,,Zillow,
+2025-01-13 13:55:35.066,2168023047,5358 Baza Ave,Woodland Hills,CA,91364,4495.0,5495.0,,,Zillow,
+2025-01-13 13:57:06.212,Na,"Toscana Apartments, 15736 Vanowen St APT 205",Lake Balboa,CA,91406,1699.0,1906.0,,,Zillow,
+2025-01-13 13:57:25.434,,359 E Broadway,Long Beach,CA,90802,3595.0,4500.0,,,Zillow,
+2025-01-13 13:58:17.882,Na,"425 29th St, Manhattan Beach, CA 90266",Manhattan beach,CA,90266,8200.0,18000.0,,,Zillow,
+2025-01-13 14:03:07.089,Na,"Sherway Villa, 17808 Sherman Way APT 127",Reseda,CA,91335,1664.0,2091.0,,,Zillow,"Price has been raised on 01/05/2025, again on 01/12/2025 (by over 20%), and again on 01/13/2025"
+2025-01-13 14:03:21.277,Na,( undisclosed) Hermosa Beach,Hermosa Beach,CA,90254,7500.0,17050.0,,,Zillow,Dude is putting in details and erasing to show the rent increase is in the negative
+2025-01-13 14:03:22.657,2039013053,6229 Fallbrook Ave,Woodland Hills,CA,91367,3950.0,6900.0,,,Zillow,
+2025-01-13 14:04:52.022,,1070 S Bedford St #405A,Los Angeles,CA,90035,4690.0,10000.0,,,Zillow,"On 1/7, the first day of the fires it was listed for $4,690. On 1/13 it raised to $10,000."
+2025-01-13 14:05:07.187,,6358 La Rocha Dr,Los Angeles,Other,90068,18500.0,23500.0,,,Redfin,
+2025-01-13 14:05:52.088,5431021002,3055 Landa St,Los Angeles,CA,90039,9000.0,12000.0,,,Zillow,"Per a post on X.com, it looks like this potential property owner Edward Kay had another property that he price gouged on as well (3512 Crestmont Ave Los Angeles, CA 90026), which incidentally enough, I also got a Zillow alert about this morning that I was going to add, but it looks like it's been reported on the excel already + listing now offline."
+2025-01-13 14:06:41.160,Na,"414 Monterey Blvd, Hermosa Beach, CA 90254","Hermosa Beach, CA 90254",CA,90254,5250.0,10000.0,,,Zillow,
+2025-01-13 14:07:00.696,,632 N Hayworth Ave APT 3,Los Angeles,CA,90048,4600.0,5600.0,,,Zillow,
+2025-01-13 14:07:52.837,24447324,5571 Camp Street,Cypress,CA,90630,7500.0,10000.0,,,Zillow,"+33% increase. Was listed to rent for $7,500 on 11/29/2024."
+2025-01-13 14:10:28.101,4334016074,8568 Burton Way APT 301,Los Angeles,CA,90048,5495.0,6995.0,,,Zillow,
+2025-01-13 14:13:27.615,,5669 Tuxedo Ter,Los Angeles,CA,90068,6750.0,8250.0,,,Redfin,
+2025-01-13 14:14:22.813,2263032009,14649 Addison St,Sherman Oaks,CA,91403,13500.0,15300.0,,,Zillow,"Listing removed december 19th, put back up jan 10 with +13% increase vs. december."
+2025-01-13 14:14:58.369,,4643 1/2 Pickford St,LA,CA,90019,2195.0,2795.0,,,Zillow,
+2025-01-13 14:19:51.488,,8038 Blackburn Ave #7,Los Angeles,CA,90048,2500.0,3500.0,,,Zillow,
+2025-01-13 14:23:10.236,,672 Walther Way,Los Angeles,CA,90049,12000.0,17000.0,,,Zillow,Listing removed Jan 13
+2025-01-13 14:24:46.953,,108 W 2nd St #206,Los Angeles,CA,90012,3250.0,4000.0,,,Redfin,
+2025-01-13 14:26:14.611,5561026008,1646 Blue Jay Way,Los Angeles,CA,90069,39500.0,45000.0,,,Zillow,
+2025-01-13 14:28:26.061,5561010016,1470 Blue Jay Way,Los Angeles,CA,90069,21000.0,28500.0,,,Zillow,
+2025-01-13 14:31:39.021,5558016025,1702 Sunset Plaza Dr,Los Angeles,CA,90069,20000.0,22500.0,,,Zillow,
+2025-01-13 14:34:32.075,4344003017,715 N Rexford Dr,Beverly Hills,CA,90210,37500.0,55000.0,,,Zillow,
+2025-01-13 14:37:57.456,,1661 259th St Unit 235,Los Angeles,CA,90710,2000.0,2495.0,,,Redfin,
+2025-01-13 14:38:10.603,5570024023,7665 Woodrow Wilson Dr,Los Angeles,CA,90046,10000.0,12500.0,,,Zillow,
+2025-01-13 14:40:04.905,,5109 Longridge Ave,Sherman Oaks,CA,91423,18500.0,21500.0,,,Zillow,
+2025-01-13 14:40:13.956,4344007003,508 N Canon Dr,Beverly Hills,CA,90210,20000.0,30000.0,,,Zillow,
+2025-01-13 14:42:43.848,5436013011,"3365 Tyburn St, Los Angeles, CA 90039",Los Angeles,CA,90039,3750.0,6500.0,,,Zillow,In 2021 the rental price was 3750 and just 4 days ago it went on the market at a 73.3% increase. It seems newly remodeled and maybe the timing was just a coincidence but I doubt it.
+2025-01-13 14:44:46.606,2345016001,"5344 Leghorn Ave,",Van Nuys,CA,91401,20000.0,36000.0,,,Zillow,
+2025-01-13 14:45:37.021,5635011022,745 Patterson Ave,Glendale,CA,91202,6250.0,7500.0,,,Zillow,he removed the listing on Zillow but I found it on WestSide Rentals for 7k
+2025-01-13 14:45:49.492,4334012048,138 N Hamel Dr,Beverly Hills,CA,90211,9500.0,15500.0,,,Zillow,
+2025-01-13 14:46:10.824,,1237 S Holt Ave Unit 206,Los Angeles,CA,90035,4695.0,6450.0,,,Redfin,
+2025-01-13 14:48:06.594,,"3418 Glendale Blvd #1/2, Los Angeles, CA 90039",Los Angeles,CA,90039,2800.0,3400.0,,,Zillow,Raised the rent 21.4% on 1/13
+2025-01-13 14:51:39.320,,812 N Croft Ave APT 201,Los Angeles,CA,90069,9950.0,12950.0,,,Zillow,
+2025-01-13 14:54:41.095,,"3771 Keystone Ave, #06",Los Angeles,CA,90034,3075.0,3845.0,,,Zillow,"This unit was listed in October 2024 for $3,150 (Listed as Unit 06). The listing was removed and reuploaded several times between Oct-Dec 2024. On December 30, they even reduced the price to $3,075. They accidentally made a new unit listing under the building on January 12 (Listed as Unit 14106) with an increased rent of $3,845. This is a very clear instance of price gouging and Ben Leeds is a repeat offender, with multiple listings at over a 10% increase."
+2025-01-13 14:55:02.073,2247017002,13918 Chandler Blvd,Van Nuys,CA,91401,35000.0,50000.0,,,Zillow,
+2025-01-13 14:56:48.991,2428010032,7177 Pacific View Dr,Los Angeles,CA,90068,14995.0,17500.0,,,Zillow,
+2025-01-13 14:58:08.823,,13018 Chandler Blvd,Van Nuys,CA,91401,40000.0,45000.0,,,Zillow,
+2025-01-13 15:00:33.919,2245029036,14143 Hatteras St,Sherman Oaks,CA,91401,7500.0,7950.0,,,Zillow,6% jump on 1/13/25
+2025-01-13 15:02:08.509,2101036001,7801 White Oak Ave,Reseda,CA,91335,5450.0,7450.0,,,Zillow,
+2025-01-13 15:02:56.255,,240 Howland Canal Ct,Venice,CA,90291,20500.0,35000.0,,,Zillow,
+2025-01-13 15:04:22.958,,3935 Inglewood Blvd #3935,Los Angeles,CA,90066,3999.0,4500.0,,,Zillow,
+2025-01-13 15:05:06.255,2039013053,6229 Fallbrook Ave,Woodland Hills,CA,91367,3950.0,6900.0,,,Zillow,
+2025-01-13 15:05:20.295,5549022024,1941 Glencoe Way,Los Angeles,CA,90068,8500.0,12500.0,,,Redfin,"They somehow scrubbed the updated listing from Zillow, but the price history is there.($8,500). The new listing is on Redfin ($12,500)."
+2025-01-13 15:06:30.149,4225001066,3215 Ocean Front Walk #101,Marina Del Rey,CA,90292,9000.0,12500.0,,,Zillow,"I complained via Zillow to the listing agent and she told me the following load of crap about the owner: 
+""He lives out of state and this ocean front unit is his vacation home that he and his family enjoy frequently.  I believe that from time to time, he would rent it for shorter, defined periods of time that would allow him to still use it when he wanted to. $9,000 (a reduced rent according to the comps) simply allowed him the flexibility to rent short terms within timeframes that worked for him and his family so they could still enjoy their asset. I was not involved in those leases and I’m not even sure if he did actually lease it out or how many times he did.   
+
+Until these horrific wildfires, he never considered renting it for a long duration. Given the current events, he wants to help a family and is willing to forgo his beloved vacation home for a long term lease, furnished with his personal belongings - all while leaving him without an opportunity to use it himself.  
+
+For this, he is simply asking a market rent price that JUST covers his expenses, without considering the fact that it is furnished. He is making no profit it this endeavor.  I ran the comps and market price for a furnished, ocean view unit with 2 parking spaces in prime Marina Del Rey could easily extend past the fair price he is asking.""
+
+SO...if he would normally rent it for short periods for $9K, why is this $12.5K what he needs to ask now ""to cover his expenses?"" F this guy and the broker who is helping him."
+2025-01-13 15:08:42.859,2245001019,14133 Tiara St,Sherman Oaks,CA,91401,5699.0,7999.0,,,Zillow,
+2025-01-13 15:08:58.322,4225001066,3215 Ocean Front Walk #101,Marina Del Rey,CA,90292,9000.0,12500.0,,,Zillow,
+2025-01-13 15:15:51.477,,10923 Ayres Ave #1,Los Angeles,CA,90064,8500.0,9500.0,,,Zillow,
+2025-01-13 15:16:46.798,2280006031,15701 Royal Ridge Rd,Sherman Oaks,CA,91403,8995.0,9900.0,,,Zillow,
+2025-01-13 15:18:28.439,,2084 N Vine St,Los Angeles,CA,90068,17499.0,29995.0,,,Zillow,
+2025-01-13 15:18:31.019,2345016001,5344 Leghorn Ave,Van Nuys,CA,91401,20000.0,36000.0,,,Zillow,"Listing was taken down 2/7/22 and not put up again until 1/13/25, 80% increase from price in 2022"
+2025-01-13 15:23:40.026,2280012039,3701 Royal Meadow Rd,Sherman Oaks,CA,91403,9950.0,15000.0,,,Zillow,"Raised prices by 50.8% on 1/8/25, then lowered their price 27.3% on 1/11/25 (still the overall price has risen enough to be illegal)"
+2025-01-13 15:26:34.930,4238024021,306 N Venice Blvd,Venice,CA,90291,2800.0,5000.0,,,Zillow,"Last listed in 2009, listing added again on 1/12/2025"
+2025-01-13 15:32:29.708,,10802 Wilkins Ave,Los Angeles,CA,90024,2500.0,2800.0,,,Zillow,Listing was removed on 2/1/24 and then reposted on 1/12/25
+2025-01-13 15:36:45.310,,15541 Aqua Verde Dr,Los Angeles,CA,90077,19000.0,25000.0,,,Redfin,
+2025-01-13 15:42:40.153,2265016044,14320 Hortense St,Sherman Oaks,CA,91423,6495.0,7200.0,,,Zillow,
+2025-01-13 15:49:44.814,5634021015,714 South St,Glendale,CA,91202,8950.0,11000.0,,,Compass.com,"My family's home was severely damaged in the Eaton fire, and I am looking for a rental for them to reside in while they wait for remediation/repair. My mother (67 years old), grandmother (89 years old), and brother (28 years old) are seeking a single-story one-bedroom home to rent while we remediate the damage. I had our real estate agent reach out requesting to rent the property. My family is well-qualified and able to pay the posted rent of $8,950/month. The agent responded to our agent saying that ""multiple people wanted the property"" and that the landlord gave her a response saying that ""he is likely putting the property on airbnb"" so he could list for ""$16,000 a month for a 2-month rental or $14,000 for 3-months."" We just heard back that they accepted the highest offer at $11,000/month for 6 month even though we tried to apply first, and even offered to pay an additional $600/month for utilities. I have attached texts between his agent and our agent, and the original listing."
+2025-01-13 15:50:49.828,,11633 Chenault St #202,Brentwood,CA,90049,4995.0,7500.0,,,Redfin,
+2025-01-13 15:53:38.105,4102013016,6617 S Sherbourne Dr,los angeles,CA,90056,10500.0,16600.0,,,Zillow,The advantageous date of the price increase and there is no reason stated for it (example: price change reflects furnished home).
+2025-01-13 16:05:21.297,5707023018,325 Woodcliffe Rd,Pasadena,CA,91105,1510000.0,2174900.0,,,Zillow,
+2025-01-13 16:06:49.648,5460001092,3945 Eagle Rock Blvd Unit 49,Los Angeles,CA,90065,4250.0,4350.0,,,Zillow,
+2025-01-13 16:10:41.241,,5117 Bakman Ave,North Hollywood,CA,91601,3400.0,5000.0,,,Zillow,
+2025-01-13 16:12:54.023,6960241205,878 Hartglen Ave,Westlake Village,CA,91361,6250.0,6900.0,,,Zillow,
+2025-01-13 16:16:46.131,4341-021-005,610 N Foothill Rd,Beverly Hills,CA,90210,69500.0,95000.0,,,The MLS,
+2025-01-13 16:17:15.662,5586006006,1933 N Vista Del Mar Ave,Los Angeles,CA,90068,5500.0,6495.0,,,Zillow,Here's the realtor's instagram
+2025-01-13 16:17:42.733,,1719 Wellesly Ave.,West LA,CA,90025,8495.0,14995.0,,,Redfin,
+2025-01-13 16:21:28.270,na,7171 La Presa Dr,Los Angeles,CA,90068,19500.0,29950.0,,,Zillow,
+2025-01-13 16:24:16.551,5404019008,Uundisclosed but IDed as 1026 Echo Park Ave,Los Angeles,CA,90026,5995.0,9995.0,,,Zillow,
+2025-01-13 16:24:47.410,4229006075,3108 Yale Ave,Marina Del Rey,CA,90292,13000.0,25000.0,,,Zillow,rent increased to $25K on 1/12/2025 from $13K in 2020. No mention of price change reflecting furnishing or renovations.
+2025-01-13 16:27:21.065,15711169,18220 Fallenleaf Cir,Fountain Valley,CA,92708,5800.0,8000.0,,,Zillow,
+2025-01-13 16:28:24.497,5088004056,6111 San Vincente Blvd,Los Angeles,CA,90048,6950.0,14950.0,,,Zillow,Property listing was removed in 2014 and then relisted after the fires began
+2025-01-13 16:29:12.944,5510011002,6119 Maryland Dr,Los Angeles,CA,90048,19500.0,23500.0,,,Zillow,
+2025-01-13 16:30:23.837,2275009015,14550 Round Valley Dr,Sherman Oaks,CA,91403,8950.0,13000.0,,,Zillow,
+2025-01-13 16:36:37.004,,undisclosed address,Woodland Hills,CA,91367,3300.0,4600.0,,,Zillow,Listing was removed on 10/6/22 and then relisted 1/13/25
+2025-01-13 16:37:12.701,17806232,16412 Ardsley Cir,Huntington Beach,CA,92649,25000.0,29000.0,,,Zillow,
+2025-01-13 16:39:42.339,5523037022,534 Wilcox Ave,Los Angeles,CA,90004,11995.0,13000.0,,,Zillow,
+2025-01-13 16:41:31.553,,1612 Courtney Ave,Hollywood,CA,90046,9000.0,10500.0,,,Redfin,
+2025-01-13 16:48:49.149,4369033017,1030 Somera Rd,Los Angeles,CA,90077,49000.0,70000.0,,,Excell doc with agent listings:,The link to a doc has orobaby a lot of listings that are gouged
+2025-01-13 16:51:11.268,,undisclosed address,Pacific Palisades,CA,90272,8900.0,18500.0,,,Zillow,listing was removed 3/6/24 and relisted on 1/13/25
+2025-01-13 17:00:25.316,4273005029,2227 Pearl St,Santa Monica,CA,90405,7200.0,8400.0,,,Zillow,Posted that they will consider a short-term lease
+2025-01-13 17:00:48.550,,2390 Nalin Dr.,Encino,CA,90077,8350.0,9950.0,,,Redfin,
+2025-01-13 17:01:29.709,4380028023,10290 Seabury Ln,Los Angeles,CA,90077,10995.0,19500.0,,,Zillow,
+2025-01-13 17:02:24.626,,NOT PROVIDED,NOT PROVIDED,CA,90046,11500.0,15000.0,,,Zillow,
+2025-01-13 17:07:10.812,,2071 Paramount Dr,Los Angeles,CA,90068,13500.0,17500.0,,,Zillow,
+2025-01-13 17:08:53.843,4369022011,10824 Chalon Rd,Los Angeles,CA,90077,65000.0,78000.0,,,Zillow,Listing was removed 9/12/24 and then relisted 1/13/25
+2025-01-13 17:09:05.923,Parcel number: 2151002008,20300 Oxnard St,Woodland Hills,CA,91367,7250.0,8050.0,,,Zillow,
+2025-01-13 17:13:13.361,,6557 Laramie Ave,Winnetka,CA,91306,6500.0,7500.0,,,Zillow,Originally listed for rent on 12/30/24 and price was changed on 1/13/25
+2025-01-13 17:21:02.260,5550010013,1524 N Sierra Bonita Ave,Los Angeles,CA,90046,15000.0,19500.0,,,Zillow,"$39,000 security deposit"
+2025-01-13 17:21:50.685,2332013003,6248 Teesdale Ave,North Hollywood,CA,91606,1750.0,1950.0,,,Zillow,Listing was removed on 6/6/23 and relisted on 1/11/25 with increased rent
+2025-01-13 17:26:34.634,4429024001,110 N Barrington Ave,Los Angeles,CA,90049,12000.0,15000.0,,,Zillow,
+2025-01-13 17:27:36.754,,449 North Bonhill Road,Los Angeles,CA,90049,12500.0,20000.0,,,Redfin,"this rental was rented previously at 12K they were then going to rent it for 12,5K starting week of 1/6 and then post fires increased price to $20K."
+2025-01-13 17:30:23.459,4380028023,Undisclosed but IDed as 10290 Seabury Lane,Los Angeles,CA,90077,10995.0,19500.0,,,Zillow,
+2025-01-13 17:30:42.234,4327012067,1250 S Beverly Glen Blvd APT 107,Los Angeles,CA,90024,4195.0,5000.0,,,Zillow,
+2025-01-13 17:40:43.415,37474127,2414 N Millstream Ln,Orange,CA,92865,3500.0,4500.0,,,Zillow,
+2025-01-13 17:41:44.818,4239026037,550 San Juan Ave,Venice,CA,90291,30000.0,35000.0,,,Zillow,
+2025-01-13 17:43:41.361,,7320 Balboa Blvd,Van Nuys,CA,91406,2950.0,3295.0,,,Zillow,"Listed for rent 1/31/22, then removed 2/14/22; listed for sale 1/2/23 and removed by 2/1/23; relisted 1/11/25"
+2025-01-13 17:44:24.032,Na,2470 Venus Drive,Los angeles,CA,90046,13999.0,15999.0,,,Zillow,
+2025-01-13 17:45:01.122,5085019036,1252 Masselin Ave,Los Angeles,CA,90019,6500.0,7900.0,,,Zillow,"Owner was able to scrub price history from Zillow, but I found it listed from August priced at $6500"
+2025-01-13 17:47:44.206,4208015018,10767 Oregon Ave,Culver City,CA,90232,8500.0,9250.0,,,Zillow,8.8% rent increase starting today
+2025-01-13 17:48:26.650,4330013089,1318 S Roxbury Dr #111,Los Angeles,CA,90035,5490.0,7000.0,,,Zillow,
+2025-01-13 17:53:02.875,8291034049,15705 Gun Tree Dr,Hacienda Heights,CA,91745,3950.0,5490.0,,,Zillow,"Last listed rent was 2018, but still a 39% increase"
+2025-01-13 17:53:10.931,4330013089,1318 South Roxbury Dr. #111,Los Angeles,CA,90035,4590.0,7000.0,,,Zillow,"The property is a condo. It was was listed for rent on 7/18/2024 for $5,490 and on 8/13/2024, the listing was removed. It was listed again today for $7,000 which is a 27.5% increase. It states that it is fully furnished and they are looking for it to be rented from 30 days to a year."
+2025-01-13 17:54:28.765,2734026003,10228 Encino Ave,Northridge,CA,91325,3800.0,5900.0,,,Zillow,Listing removed 8/28/21 and relisted 1/10/25
+2025-01-13 18:01:32.584,4273005029,2227 Pearl St,Santa Monica,CA,90405,7200.0,8400.0,,,Zillow,"No number listed, but matching name and address found here:  and the same company listed here:"
+2025-01-13 18:02:56.378,Not listed,"316 Market St, Venice, CA 90291",Venice,CA,90291,8000.0,11000.0,,,Zillow,
+2025-01-13 18:04:30.376,,9907 National Blvd,Los Angeles,CA,90034,4000.0,5000.0,,,Zillow,Listing removed on 8/15/24 and then relisted 1/7/25
+2025-01-13 18:05:07.119,4021027014,709 E Manchester Blvd,Inglewood,CA,90301,3825.0,5000.0,,,Zillow,Repeat offender
+2025-01-13 18:13:35.841,Not listed,225 Sherman Canal Ct,Venice,CA,90291,11000.0,15000.0,,,Zillow,
+2025-01-13 18:15:39.709,5555016012,8590 Hollywood Boulevard,Los Angeles,CA,90069,25000.0,55000.0,,,Zillow,"This property was listed on 10/4/2024 for $25,000, removed on 10/29/2024, then listed again for $55,000 (a 120% increase) on 1/14/2024. I'm not sure how it says 1/14/2024 as that is tomorrow's date - perhaps it's scheduled to increase tomorrow. It says the property is available January 20th, furnished and for ""short term lease."""
+2025-01-13 18:20:25.148,5085001018,1023 S Stanley Ave,Los Angeles,CA,90019,5800.0,6500.0,,,Zillow,Listing was removed on 1/5/22 and then relisted 1/9/25
+2025-01-13 18:26:13.502,,2333 Grand Canal Walk,Venice,CA,90291,11000.0,16500.0,,,Zillow,
+2025-01-13 18:30:01.632,,Undisclosed address,Tarzana,CA,91356,16000.0,24000.0,,,Zillow,listing was removed on 3/2/24 and relisted 1/9/25
+2025-01-13 18:30:13.769,,700 Main St UNIT 25,Venice,CA,90291,11000.0,15000.0,,,Zillow,
+2025-01-13 18:35:47.843,2263016011,15236 Hesby St,Sherman Oaks,CA,91403,3300.0,6450.0,,,Zillow,listing was removed 3/7/22 and relisted 1/10/25
+2025-01-13 18:44:18.251,,3138 Drew Street,Los Angeles,CA,90065,6372.0,8333.0,,,Airbnb,"I was no-fault evicted of this RSO property as a protected disabled tenant 12/2023 for “owner occupancy.” Rent was $2950 when I was evicted and I filed right to return on time if she were within 2 years no longer occupy. 8/2024 she listed it on Airbnb. I happened to look at it on airbnb days before the fire and it was $6372/month (see screenshot) for the month and literally a week later she raised it to $8333/month. Making it an illegal rent increase, violating right to return (which she has been since August) and illegal price gouging. I’m simply too fatigued due to my disabilities to fight this. Thank you for making this list."
+2025-01-13 18:44:53.023,,4952 N Figueroa St APT F,Los Angeles,CA,90042,2888.0,3888.0,,,Zillow,
+2025-01-13 18:45:36.119,,19500 Oxnard St,Tarzana,CA,91356,5500.0,6500.0,,,Zillow,listing removed 11/28/24 and relisted 1/9/25
+2025-01-13 18:53:18.314,2033017030,23863 Friar St,Woodland Hills,CA,91367,3300.0,4500.0,,,Zillow,Listing removed 7/11/20 and relisted 1/11/25
+2025-01-13 19:00:12.482,2820017017,18821 Kirkcolm Ln,Porter Ranch,CA,91326,3950.0,4850.0,,,Zillow,listing removed 6/21/21 and relisted 1/11/25
+2025-01-13 19:00:19.234,4473016012,32802 Pacific Coast Hwy,Malibu,CA,90265,40000.0,50000.0,,,Zillow,
+2025-01-13 19:01:25.073,2345016001,5344 Leghorn Ave,Van Nuys,CA,91401,20000.0,36000.0,,,Zillow,
+2025-01-13 19:02:08.375,,256 N Rafael Walk,Long Beach,CA,90803,6500.0,15000.0,,,Zillow,
+2025-01-13 19:08:00.992,,1330 N Harper Ave #100,Los Angeles,CA,90046,3495.0,6950.0,,,Zillow,
+2025-01-13 19:10:15.221,,729 Raymond Ave,Santa Monica,CA,90405,6950.0,8000.0,,,Zillow,
+2025-01-13 19:10:35.540,4105029001,5625 W 83rd St,Los Angeles,CA,90045,4495.0,4995.0,,,Zillow,Rent raised 11.1% from just two months ago
+2025-01-13 19:11:35.071,2168023047,5358 Baza Ave,Woodland Hills,CA,91364,4495.0,5495.0,,,Zillow,
+2025-01-13 19:13:37.731,5090028052,822 S Plymouth Blvd #2,Los Angeles,CA,90005,5900.0,6700.0,,,Zillow,
+2025-01-13 19:20:07.502,2181010005,52004 Etiwanda Ave,Tarzana,CA,91356,5795.0,6500.0,,,Zillow,"Listed from 4/11/2024 - 4/19/2024 for $4,995"
+2025-01-13 19:34:32.231,,14729 Otsego Street,Sherman Oaks,CA,91403,18000.0,29500.0,,,Compass,
+2025-01-13 19:34:47.334,5762005019,Undisclosed Address (likely 3142 Drew Street),Los Angeles,CA,90065,4400.0,5000.0,,,Zillow,Name is probably Liz Neumayr. Price raised 13.6% from just three weeks ago
+2025-01-13 19:35:19.150,4102013016,6617 S Sherbourne Drive,Los Angeles,CA,90056,10500.0,16600.0,,,Zillow,"Originally listed at 10,500 in the summer of 2024, then price jumped to 16000 1/10/25 and by $600 more on 1/12/25"
+2025-01-13 19:35:29.959,Na,3055 Landa Street,Los Ángeles,CA,90039,9000.0,12000.0,,,Zillow,
+2025-01-13 19:37:20.638,,10097 Tujunga Canyon Blvd,Tujunga,CA,91042,1800.0,2495.0,,,Zillow,
+2025-01-13 19:38:47.242,,13918,Van Nuys,CA,91401,35000.0,50000.0,,,Zillow,"It's been for rent since 2011, its been off the market since 2023 and suddenly up for rent today for a 42.9% increase"
+2025-01-13 19:47:21.080,,5222 Ventura Canyon Ave,Sherman Oaks,CA,91401,18000.0,21000.0,,,Compass,$38k security deposit
+2025-01-13 19:49:11.684,,6130 Galahad Rd,Malibu,CA,90265,19000.0,24750.0,,,Redfin,30% rental increase
+2025-01-13 19:53:39.239,,3351 N Knoll Dr,Los Angeles,CA,90068,16000.0,18500.0,,,Redfin,15% rent increase
+2025-01-13 19:57:48.088,,626 University Ave,Burbank,CA,91504,4299.0,5999.0,,,Zillow,
+2025-01-13 20:01:13.083,5513012010,166 S McCadden Pl,Los Angeles,CA,90004,16500.0,20000.0,,,Zillow,
+2025-01-13 20:06:42.787,4169029003,710 Longfellow Ave,Hermosa Beach,CA,90254,5999.0,6999.0,,,Zillow,
+2025-01-13 20:10:06.517,4371037038,1516 N Beverly Glen Blvd,Los Angeles,CA,90077,12000.0,15000.0,,,Zillow,
+2025-01-13 20:11:23.547,4178013054,208 Marine Ave,Manhattan Beach,CA,90266,7900.0,8900.0,,,Zillow,
+2025-01-13 20:13:30.433,2064007013,27553 Country Glen Rd,Agoura Hills,CA,91301,9000.0,10477.0,,,Zillow,"Listed for rent at $9,000 12/24, price increased to $10,477 1/8"
+2025-01-13 20:15:02.791,zNa,16 Park Ave,venice,CA,90291,7995.0,30000.0,,,Zillow,
+2025-01-13 20:17:49.219,4348013030,1141 Summit Dr,Beverly Hills,CA,90210,175000.0,195000.0,,,Zillow,Listing was removed in November 2024 and posted again before fires began at 165k. 30k more 2 days later.
+2025-01-13 20:24:32.515,7509003008,220 Avenue A,Redondo Beach,CA,90277,7500.0,10000.0,,,Zillow,"Initially raised price from $7,500 to $13,000 on Jan 10th, then back down to $10,000 shorly thereafter"
+2025-01-13 20:25:28.334,,220 Avenue A,Redondo beach,CA,90277,8000.0,17500.0,,,Redfin,
+2025-01-13 20:26:00.889,,330 W California Blvd,Pasadena,CA,91105,4750.0,4900.0,,,Zillow,
+2025-01-13 20:32:06.227,2181010005,5204 Etiwanda Ave,Tarzana,CA,91356,5795.0,6500.0,,,Zillow,"Listed on 1/2/25 for $5795, price increased to $6500 (12.2% increase) on 1/10/25"
+2025-01-13 20:37:31.358,4401026052,11633 Chenault St UNIT 202,Los Angeles,CA,90049,4995.0,7500.0,,,Zillow,
+2025-01-13 20:39:31.347,4350019025,1165 Coldwater Canyon Dr,Beverly Hills,CA,90210,12900.0,15000.0,,,Zillow,
+2025-01-13 20:40:06.783,4405039006,12267 San Vicente Blvd,Los Angeles,CA,90049,29750.0,59500.0,,,Zillow,
+2025-01-13 20:42:20.714,4368011012,1104 Casiano Rd,Los Angeles,CA,90049,9500.0,12500.0,,,Zillow,"This property had two rapid price increases. Last posted price was $8950 on 11/2/24. On 1/9/25, jumped to $9500. THEN on 1/14/25, jumped to $12500!"
+2025-01-13 20:42:44.340,4429024001,110 N Barrington Ave,Los Angeles,CA,90049,12000.0,15000.0,,,Zillow,
+2025-01-13 20:45:19.126,4391016004,380 Trousdale Pl,Beverly Hills,CA,90210,50000.0,88000.0,,,Zillow,
+2025-01-13 20:45:58.345,4368014005,11788 Bellagio Rd,Los Angeles,CA,90049,1895.0,13500.0,,,Zillow,
+2025-01-13 20:46:22.333,,724 S Gramercy Dr,Los Angeles,CA,90005,5200.0,5800.0,,,Zillow,"Zillow website indicates 1/13/25 price change was +11.5%; previously listed for unknown amount on 1/4/2024, then for $5200 on 1/7/2025."
+2025-01-13 20:49:00.877,,Address not disclosed,Marina Del Rey,CA,90292,11000.0,16500.0,,,Trulia,
+2025-01-13 20:49:25.475,,6686 Drexel Ave #2,Los Angeles,CA,90048,5500.0,7200.0,,,Zillow,
+2025-01-13 20:51:29.601,4286025001,16 Park Ave,Venice,CA,90291,7995.0,30000.0,,,Zillow,
+2025-01-13 20:54:52.895,5548001093,7135 Hollywood Blvd APT 702,Los Angeles,CA,90046,6950.0,7600.0,,,Zillow,"Based on the pricing history it looks like they have been struggling to fill this unit since March, decreasing the rent steadily month over month then suddenly increasing 10% on 1/13"
+2025-01-13 20:55:52.313,5466020032,536 Quail Dr,Los Angeles,CA,90065,4750.0,5850.0,,,Zillow,
+2025-01-13 20:57:33.674,5676025034,1270 Boynton St Apt 2,Glendale,CA,91205,2950.0,3500.0,,,Zillow,
+2025-01-13 21:00:41.946,5666012005,2604 Perkins Cir,Glendale,CA,91206,7000.0,8500.0,,,Zillow,
+2025-01-13 21:01:24.477,5230153135,1568 Stoddard Ave,Thousand Oaks,CA,91360,9000.0,13000.0,,,Zillow,"All I can tell you is that they were trying to rent it for $9,000 in November of last year.  On 11/23, they removed the listing (according to my neighbors, it was possibly being used as a short term rental or Air BNB). Then it was listed for rent again on Jan 9th for $13,000."
+2025-01-13 21:02:36.759,4386002013,3035 Lake Glen Dr,Beverly Hills,CA,90210,17500.0,22000.0,,,Zillow,
+2025-01-13 21:05:44.492,4212006123,4609 Alla Rd Unit 3,Marina Del Rey,CA,90292,6550.0,7700.0,,,Zillow,Listed 1/2 for $6550. Raised by 17.6% on 1/14
+2025-01-13 21:10:47.785,,6355 De Soto Ave,Woodland Hills,CA,91367,3534.0,6890.0,,,elaraliving.com // compared to Zillow advertisement,"Current resident, sharing property to help others find affordable place until I saw price jump."
+2025-01-13 21:16:45.161,2419015007,5028 Willowcrest Ave,North Hollywood,CA,91601,8500.0,10500.0,,,Zillow,
+2025-01-13 21:31:26.011,4286025001,16 Park Ave,Venice,CA,90291,7995.0,30000.0,,,Zillow,
+2025-01-13 21:31:49.982,,1945 Glendon Ave FLOOR 1-ID1279,Los Angeles,CA,90025,3630.0,4080.0,,,Zillow,
+2025-01-13 21:37:48.105,,10787 Wilshire Blvd #PENTHOUSE,Los Angeles,CA,90024,11995.0,13500.0,,,Zillow,
+2025-01-13 21:39:06.583,,"108 W 2nd-St, Unit 206",Los Angeles,CA,90012,3250.0,4000.0,,,Redfin,23% rent increase
+2025-01-13 21:41:29.313,,2111 Rio Grande,Pomona,CA,91766,3700.0,4500.0,,,Zillow,
+2025-01-13 21:41:56.790,,1707 Brockton Ave APT 12,Los Angeles,CA,90025,3695.0,4250.0,,,Zillow,
+2025-01-13 21:46:00.184,,1536 Blue Jay Way,Los Angeles,CA,90069,80000.0,120000.0,,,Compass,"$170,000 security deposit"
+2025-01-13 21:52:44.184,4467013120,6467 Zuma View Pl #160,Malibu,CA,90275,6800.0,9800.0,,,Zillow,We messaged about the property the weekend before the fire and she confirmed it was $6800 and then after the fires she asked for $9800
+2025-01-13 22:02:47.455,4344003017,715 N Redford Dr,Beverly Hills,CA,90210,37500.0,55000.0,,,Zillow,"It was listed for 37,500 in NOVEMBER of 2024. It is now 55,000 as of Jan 13, 2025"
+2025-01-13 22:03:07.990,,7309 North Eaton St,Los Angeles,CA,90042,7495.0,9995.0,,,Compass,
+2025-01-13 22:16:35.634,,8159 Hollywood Boulevard,Los Angeles,CA,90069,225000.0,250000.0,,,Compass,
+2025-01-13 22:24:40.681,,616 North Fuller Ave,Los Angeles,CA,90036,17500.0,25000.0,,,Compass,
+2025-01-13 22:26:35.761,5047019097,"5763 1/2 Clemson St, Los Angeles, CA 90016",Los Angeles,CA,90016,370000.0,419000.0,,,Zillow,Sale property I was looking at buying in November (never made contact ) so it was not sold in October
+2025-01-13 22:30:44.580,,10518 Woodbridge St,Los Angeles,CA,91602,11000.0,17000.0,,,Compass,
+2025-01-13 22:34:52.689,2355003027,11814 Hesby Street,Valley Village,CA,91607,9900.0,16000.0,,,Zillow,"Originally listed for rent on 1/3, at $9900. Seven days later, up to $16000."
+2025-01-13 22:36:47.031,,7962 Oceanus Dr,Los Angeles,CA,90046,13500.0,19995.0,,,Compass,
+2025-01-13 22:41:38.540,5157027044,1916 w court st.,Los angeles,CA,90026,9995.0,14995.0,,,Zillow,I want to submit this in regards the listing on row 11 of this spreadsheet: 1916 W Court St - I was a tenant of the listing agent Ofir Malul and want to provide his phone number as he is a total slumlord asshole it is [PHONE REDACTED]
+2025-01-13 22:41:49.577,,Undisclosed address,Baldwin Park,CA,91706,6999.0,8500.0,,,Zillow,
+2025-01-13 22:45:53.094,,6760 Gill Way,Los Angeles,CA,90068,6500.0,9999.0,,,Compass,
+2025-01-13 22:48:08.122,2345016001,5344 Leghorn Ave,Van Nuys,CA,91401,20000.0,36000.0,,,Zillow,last listing was in 2022
+2025-01-13 22:50:33.062,2247017002,13918 Chandler Blvd,Van Nuys,CA,91401,35000.0,50000.0,,,Zillow,
+2025-01-13 22:52:06.340,,4536 Maycrest Ave,Los Angeles,CA,90036,3300.0,5400.0,,,Compass,
+2025-01-13 22:52:34.200,4161015014,1211 Goodman Ave,Redondo Beach,CA,90278,6550.0,7050.0,,,Zillow,
+2025-01-13 22:54:02.320,5088004056,6111 San Vicente Blvd,Los Angeles,CA,90048,6950.0,14950.0,,,Zillow,
+2025-01-13 22:56:22.590,,1155 Englewild Dr.,Glendora,CA,91741,9000.0,20999.0,,,Zillow,
+2025-01-13 22:56:58.290,4369022011,10824 Chalon Road,LOs Angeles,CA,90077,65000.0,78000.0,,,Zillow,
+2025-01-13 22:57:14.689,,724 N Ogden,Los Angeles,CA,90046,16000.0,25000.0,,,Compass,"Sorry, I know this is a duplicate, but Compass has proof of the crazy rent price fluctuation"
+2025-01-13 23:03:57.875,2263016011,15326 Hesby St,Sherman Oaks,CA,91403,3300.0,6450.0,,,Zillow,
+2025-01-13 23:09:34.722,5754025023,3577 Thorndale Rd,Pasadena,CA,91107,4600.0,5500.0,,,Zillow,
+2025-01-13 23:13:04.855,4383024020,10023 Westwanda Drive,Beverly Hills,CA,90210,16950.0,19950.0,,,Zillow,"Had listed on 12/19 as $16,950, changed listing to $19,950 on 1/8, then removed the listing on 1/12 and then reposted as $18,600"
+2025-01-13 23:16:04.962,,10941 Cardamine Pl,Tujunga,Other,91042,2900.0,9900.0,,,Compass,
+2025-01-13 23:16:36.864,5329016004,705 Chaucer Rd,San Marino,CA,91108,10500.0,11900.0,,,Zillow,"The house has been listed at $10,500 and unable to be rented for months. On 1/9/25, Chao increased the rental price to $13,980 and on 1/10/25, reduced it back to $11,900"
+2025-01-13 23:18:17.174,4369022011,10824 Chalon Road,Los Angeles,CA,90077,78000.0,65000.0,,,Zillow,"last listing on 9/12 was for $65,00 - posted on 1/13/2025 with $78,000"
+2025-01-13 23:40:19.203,5854020013,2075 Minoru Dr,Altadena,CA,91001,6800.0,7800.0,,,Zillow,
+2025-01-13 23:48:10.227,2419015007,5028 Willowcrest Ave,North Hollywood,CA,91601,8500.0,10500.0,,,Zillow,
+2025-01-13 23:54:10.850,,1901 N Catalina St,Los Feliz,CA,90027,8700.0,19500.0,,,Compass,"Sorry, I know this listing was already posted, but my screenshot shows the huge increase in rental prices that the Zillow listing does NOT show."
+2025-01-13 23:56:57.707,5771018012,1235 Highland Oaks Dr,Arcadia,CA,91006,5495.0,6250.0,,,Zillow,
+2025-01-13 23:57:40.440,CRMLS #OC24253930,15333 Lemay St.,Van Nuys,CA,91406,8000.0,12800.0,,,Redfin,
+2025-01-13 23:58:49.131,,12354 Tiara St,Valley Village,CA,91607,15900.0,17200.0,,,Zillow,"Listed at $15,900/mo on Jan 6, 2025 - Increased to $18,500 on Jan 10, 2025 - Decreased to $17,200 on Jan 13, 2025"
+2025-01-14 00:03:06.556,na,420 S Sunset Canyon Dr,Burbank,CA,91501,7000.0,13800.0,,,Zillow,
+2025-01-14 00:04:37.076,2075024016,4968 Reforma Rd,Woodland Hills,CA,91364,9995.0,11000.0,,,Zillow,
+2025-01-14 00:06:43.979,2172021064,20955 Marmora St,Woodland Hills,CA,91364,5500.0,8500.0,,,Zillow,
+2025-01-14 00:09:44.934,CRMLS #OC24253933,15335 Lemay St,Lake Balboa,CA,91406,6000.0,9600.0,,,Redfin,changed price back after gouging attempt
+2025-01-14 00:11:59.579,,,Los Angeles,CA,90068,13750.0,20000.0,,,Zillow,"Listed on 11/13/24 for $13,750 - Removed on 11/23/24 - Listed for rent on 1/6/2025 for $20,000 (+45.5% increase)"
+2025-01-14 00:14:23.316,6970091155,2181 Hillsbury Rd,Westlake Village,CA,91361,8500.0,33000.0,,,Zillow,
+2025-01-14 00:15:09.269,Na,726 N Van Ness Ave #103,Los Angeles,CA,90038,1191.0,4100.0,,,Zillow,The listing still has the original offer of $1191 for the first 12 months after that price increases to 1300.
+2025-01-14 00:16:58.676,,"7566 West Sunset Boulevard, Unit 423PHW",Los Angeles,CA,90046,8332.0,9700.0,,,Compass,
+2025-01-14 00:17:34.059,na,4335 Jubilo Dr,Tarzana,CA,91356,12500.0,16500.0,,,Zillow,
+2025-01-14 00:23:36.769,5144020145,801 S Grand Ave APT 2010,Los Angeles,CA,90017,5500.0,8500.0,,,Zillow,"Listing removed 10/5/24 when it was at $5,500. Put back up 1/14/25 at $8,500 a 54.5% increase"
+2025-01-14 00:29:01.225,4360004009,10798 Lindbrook Dr,Los Angeles,CA,90024,14750.0,25000.0,,,Zillow,
+2025-01-14 00:33:17.709,5087025012,1049 S Hayworth Ave,Los Angeles,CA,90035,5995.0,8500.0,,,Zillow,"Listed on 1/11/25 at 8,500 for a 41.8%, lowered to 8,000 on 1/13/25, still a 35.9% increase from before"
+2025-01-14 00:35:32.332,,1537 Wildwood Dr,Eagle Rock,CA,90041,7300.0,11500.0,,,Compass,$4200 increase in rent over the course of one year
+2025-01-14 00:41:47.753,5577032002,6445 Deep Dell Pl,Los Angeles,CA,90068,9500.0,11995.0,,,Zillow,"Owners names are Sepideh and Mehrdad Mashhoon. Their home address is 4421 Via Abrigada, Santa Barbara CA 93110-2301"
+2025-01-14 00:47:19.266,CLAW #23-323305,240 El Camino Dr,Beverly Hills,CA,90212,13500.0,32000.0,,,Redfin,Also available on zillow
+2025-01-14 01:10:43.025,4179026046,1304 The Strand #C,Manhattan Beach,CA,90266,7500.0,8250.0,,,Zillow,
+2025-01-14 01:14:09.147,8511019009,2844 Ashmont Ave,Arcadia,CA,91006,3300.0,4449.0,,,Zillow,
+2025-01-14 01:22:02.827,,16679 Calneva Dr,Encino,CA,91436,11900.0,14750.0,,,Zillow,Was quickly unlisted afterwards but still important that it's documented
+2025-01-14 01:41:30.004,5424022015,1410 Coronado Ter,Los Angeles,CA,90026,20000.0,22000.0,,,Zillow,
+2025-01-14 03:11:10.665,5549022033,2069 Paramount Dr,Los Angeles,CA,90068,6900.0,8900.0,,,Zillow,
+2025-01-14 03:32:11.139,4336004016,8700 Dorrington Ave,West Hollywood,CA,90048,13999.0,20000.0,,,Zillow,
+2025-01-14 03:37:18.797,,233 3/4 S Gale Dr,Beverly Hills,CA,90211,2850.0,3500.0,,,Zillow,
+2025-01-14 03:38:08.644,,400 Huntley Dr,Los Angeles,CA,90048,15500.0,18500.0,,,Zillow,
+2025-01-14 03:41:43.539,,133 S Elm Dr APT L,Beverly Hills,CA,90212,2025.0,3495.0,,,Zillow,
+2025-01-14 03:45:24.441,4334012048,138 N Hamel Dr,Beverly Hills,CA,90211,9500.0,15500.0,,,Zillow,
+2025-01-14 03:48:38.367,4340013017,9060 Harland Ave,West Hollywood,CA,90069,8500.0,16000.0,,,Zillow,"88.2% increase only to realize that's beyond illegal to turn around and drop it back to it's price on 12/26/24 $7,950"
+2025-01-14 03:49:37.021,4328034021,240 El Camino Dr,Beverly Hills,CA,90212,13500.0,32000.0,,,Zillow,Price went up 137% from 2023
+2025-01-14 03:58:52.624,,9297 Burton Way #B,Beverly Hills,CA,90210,6995.0,9750.0,,,Zillow,
+2025-01-14 04:04:01.822,4348013030,1141 Summit Dr,Beverly Hills,CA,90210,175000.0,195000.0,,,Zillow,
+2025-01-14 04:08:11.691,4344003017,715 N Rexford Dr,Beverly Hills,CA,90210,37500.0,55000.0,,,Zillow,
+2025-01-14 04:09:23.029,,1070 s bedford st #405a,los angeles,CA,90035,4690.0,10000.0,,,Zillow,
+2025-01-14 04:11:47.683,4344007003,508 N Canon Dr,Beverly Hills,CA,90210,20000.0,30000.0,,,Zillow,
+2025-01-14 04:16:13.163,,620 N Walden Dr,Beverly Hills,CA,90210,49500.0,55000.0,,,Zillow,
+2025-01-14 04:19:09.464,4254003004,2935 Westwood Blvd,Los Angeles,CA,90064,4985.0,6485.0,,,Zillow,
+2025-01-14 04:19:52.808,4345034007,815 N Whittier Dr,Beverly Hills,CA,90210,29000.0,67500.0,,,Zillow,
+2025-01-14 04:34:49.657,8940435012,"4267 Marina City Dr, UNIT 102",Marina Del Rey,CA,90292,5200.0,6500.0,,,Zillow,
+2025-01-14 05:24:24.487,5066009022,1847 Stearns Dr.,Los Angeles,CA,90035,1.0,16990.0,,,Zillow,
+2025-01-14 08:03:09.214,2265004009,"4504 Cedros Ave,","Sherman Oaks,",CA,91403,18000.0,25000.0,,,Zillow,
+2025-01-14 08:13:57.307,,16 park avenue,Venice,CA,90291,7995.0,30000.0,,,Zillow,
+2025-01-14 08:20:23.559,4360004009,10798 Lindbrook Dr,Los Angeles,CA,90024,14750.0,25000.0,,,Zillow,
+2025-01-14 08:49:03.897,Notice of change in terms of tenancy posted to door,673 Flower Ave,Venice,CA,90291,4150.0,10500.0,,,I am a tenant and received a notice posted to my door,"I’ve lived here for 19 years, the roof was leaking for 6+ years and i repeatedly requested repairs which were ignored for years. In Jan 2024 I reported mold and water damage and rat infestation to Landlord and then later the LA Health Dept. and Landlord took no action until December 2024. The mold has now been remediated and yesterday we received a notification taped to our door of a rent increase far above the 10% allowable by law. I have always had roommates to share in cost of rent and now landlord is saying I am unable to sublet the rooms in the house which I believe is retaliatory and illegal."
+2025-01-14 09:06:24.374,5431021002,3055 Landa St,Los Angeles,CA,90039,9000.0,12000.0,,,Zillow,
+2025-01-14 09:09:01.725,4238004028,"1439 Cabrillo Ave, Venice","Venice, Los Angeles",CA,90291,7200.0,8500.0,,,Zillow,
+2025-01-14 09:19:15.167,5550010013,1524 N Sierra Bonita Ave,Los Angeles,CA,90046,15000.0,19500.0,,,Zillow,"This landlord has had the house for rent for several months at $15,000/ month. Immediately after the fires he raised the rent 30% to $19,500/month"
+2025-01-14 09:30:34.595,,420 S Sunset Canyon Dr,Burbank,CA,91501,7000.0,13800.0,,,Zillow,"Up 97% from 2020- 5 year gap so an increase is understandable, but the rental price is much higher compared to similar properties (sq ft, bedrooms, etc) in the area"
+2025-01-14 09:55:39.638,5436009020,3180 Casitas Ave,Los Angeles,CA,90039,2400.0,3200.0,,,Zillow,
+2025-01-14 10:09:10.018,2380020012,11410 Dona Pegita Drive,Studio City,CA,91604,12000.0,14000.0,,,Zillow,
+2025-01-14 10:29:24.707,5431021002,3055 Landa Street,Los Angeles,CA,90039,9000.0,12000.0,,,Zillow,
+2025-01-14 10:32:39.321,,644 E 97th st Apt 7,Inglewood,CA,90301,1495.0,1600.0,,,Zillow,
+2025-01-14 11:10:35.630,5431021002,3055 Landa St,Los Angeles,CA,90039,9000.0,12000.0,,,Zillow,
+2025-01-14 11:18:28.110,5575007040,6665 Franklin Ave APT 6,Los Angeles,CA,90028,4000.0,4800.0,,,Zillow,
+2025-01-14 11:24:40.163,,"1140 N Clark St, Apt 209A",West Hollywood,CA,90069,1810.0,1995.0,,,Zillow,"I live in this building and the management company is so shit, with all the crap they've tried to pull on us, they're definitely just trying to maximize profits"
+2025-01-14 11:28:45.912,5431021002,3055 Landa St,Los Angeles,CA,90039,9000.0,12000.0,,,Zillow,
+2025-01-14 11:36:33.645,,2315 Glendale Blvd,Los Angeles,CA,90039,2400.0,2800.0,,,Zillow,
+2025-01-14 11:40:21.542,4227023010,2822 Grayson Ave,Venice,CA,90291,16000.0,18000.0,,,Zillow,
+2025-01-14 11:40:45.465,,8911 Cynthia St Apt 10,West Hollywood,CA,90069,4264.0,4950.0,,,Zillow,
+2025-01-14 11:42:12.374,,undisclosed,Los Angeles,CA,90004,2995.0,5295.0,,,Zillow,They initially raised it to $5495 on 1/11 but then lowered to $5295 the following day
+2025-01-14 11:43:40.122,,600 Flower Ave,Venice,CA,90291,3750.0,4795.0,,,Zillow,Sandstone Realty Inc
+2025-01-14 11:46:42.148,4286025001,16 Park Ave,Venice,CA,90291,7995.0,30000.0,,,Zillow,
+2025-01-14 11:46:42.768,5523014039,532 N Rossmore Ave Apt 103,Los Angeles,CA,90004,2950.0,3300.0,,,Zillow,
+2025-01-14 11:47:41.959,,1525 Selby Ave APT 203,Los Angeles,CA,90024,2725.0,4200.0,,,Zillow,
+2025-01-14 11:49:36.327,,233 3/4 S Gale Dr,Beverly Hills,CA,90211,3100.0,3500.0,,,Zillow,
+2025-01-14 11:52:55.423,4265017160,11863 Darlington Ave UNIT 308,Los Angeles,CA,90049,5950.0,7500.0,,,Zillow,
+2025-01-14 11:54:37.267,,417 1/2 S Cochran Ave,Los Angeles,CA,90036,2250.0,2800.0,,,Zillow,
+2025-01-14 11:55:30.819,4360034101,10501 Wilshire Blvd UNIT 1501,Los Angeles,CA,90024,5700.0,7000.0,,,Zillow,
+2025-01-14 11:57:46.612,4320005031,2346 Selby Ave,Los Angeles,CA,90064,17900.0,25500.0,,,Zillow,
+2025-01-14 11:58:08.738,5587002021,5661 Spreading Oak Dr,Los Angeles,CA,90068,7500.0,9500.0,,,Zillow,
+2025-01-14 11:59:03.410,,523 N Rossmore Ave Apt 103,Los Angeles,CA,90004,2950.0,3300.0,,,Zillow,
+2025-01-14 12:00:50.024,8678044031,6884 Warm Springs Ave,La Verne,CA,91750,3750.0,5100.0,,,Zillow,"Off the market for 5 years so not sure if this qualifies, but 36% increase since 2020"
+2025-01-14 12:03:16.801,,1524 N Sierra Bonita Ave,Los Angeles,CA,90046,15000.0,19500.0,,,Zillow,
+2025-01-14 12:04:08.656,5623029048,1036 Ruberta Ave,Glendale,CA,91201,1400.0,2700.0,,,Zillow,
+2025-01-14 12:05:08.369,,1016 S Wooster Apt 8,Los Angeles,CA,90035,2757.0,3504.0,,,Zillow,"Rent-controlled building. previous tenets payed $2K a month, they moved out summer of 2024"
+2025-01-14 12:06:04.197,,918 7th St,Santa Monica,CA,90403,3245.0,4055.0,,,Zillow,
+2025-01-14 12:11:46.081,,2822 Oak Point Dr,Los Angeles,CA,90068,7850.0,10250.0,,,Zillow,"2bed 2bath - price listed even higher on 1/8 ($12k), then down slightly but still over the legal limit"
+2025-01-14 12:16:01.603,,412 Westminster Ave #1,Venice,CA,90291,2650.0,2850.0,,,Zillow,"Offering 2 free months for a one year lease which may mean their intentions aren't bad, but still posted with an increased price nonetheless"
+2025-01-14 12:19:42.900,,"12530 Braddock Drive, Apt. 129",Los Angeles,CA,90066,3064.0,3753.0,,,"The old price is still listed on www.zillow.com, but their updated prices is on www.casademarinaapartments.com","I lived in this complex and moved out about 6 months ago due to slumlord conditions, constant disrepair, and shady pricing practices and weird frequent rent increases despite rent control.  Sure enough, they jacked up rents and are placing ads on their site about ""helping"" displaced people from the fire. Jones and Jones are the worst this is the first property of many they will jack the rents up on ."
+2025-01-14 12:20:05.337,,"12530 Braddock Drive, Apt. 222",Los Angeles,CA,90066,3195.0,3890.0,,,"The old price is still listed on www.zillow.com, but their updated prices is on www.casademarinaapartments.com","I lived in this complex and moved out about 6 months ago due to slumlord conditions, constant disrepair, and shady pricing practices and weird frequent rent increases despite rent control.  Sure enough, they jacked up rents and are placing ads on their site about ""helping"" displaced people from the fire. Jones and Jones are the worst this is the first property of many they will jack the rents up on ."
+2025-01-14 12:39:59.519,4259007007,12426 Idaho Ave,Los Angeles,CA,90025,14500.0,18500.0,,,Zillow,"Price raised twice since 12/26 listing - to $16,500 on 1/9, then they decided that wasn't enough of a gouge and raised it to $18,500 on 1/14. 27.58% increase"
+2025-01-14 12:42:39.375,5743002001,2084 E Washington Blvd,Pasadena,CA,91104,2600.0,2900.0,,,Zillow,
+2025-01-14 12:42:45.873,,750  S Oxford Ave #669,Los Angeles,CA,90005,3230.0,3996.0,,,Compass,31.1% rent increase (repeat offender with multiple rentals that are currently price gauged)
+2025-01-14 12:44:00.589,2184037029,17862 Via Vallarta,Encino,CA,91316,30000.0,36000.0,,,Zillow,
+2025-01-14 12:45:48.852,8233011029,10320 Newcomb Ave,Whittier,CA,90603,2900.0,3850.0,,,Zillow,
+2025-01-14 12:45:59.213,,1812 Navy St.,Santa Monica,CA,90405,12750.0,28000.0,,,Zillow,"After a reporter called the realtor to ask about the 119% monthly rent increase, the listing was pulled down. Please keep an eye on it as I'm sure it will go back on the market when they think nobody is paying attention. One more thing ... I cropped out the browser bar URL because keeping it on screen reveals identifying information about me in my bookmarks bar."
+2025-01-14 12:48:17.080,5127003014,2016 Trinity St,Los Angeles,CA,90011,3500.0,5000.0,,,Zillow,
+2025-01-14 12:52:17.159,,717  W OLYMPIC BLVD #1903,Los Angeles,CA,90015,2472.0,2985.0,,,Compass,20.8% rent increase (repeat offender with multiple listings currently price gauged)
+2025-01-14 12:52:43.481,5467019020,336 Museum Dr,Los Angeles,CA,90065,3900.0,4400.0,,,Zillow,"NOTE: previous rental price not in price history on Zillow, but found listed on Compass website in 2023 with same photos."
+2025-01-14 12:52:57.058,5741002019,1224 Wesley Ave,Pasadena,CA,91104,3800.0,4900.0,,,Zillow,
+2025-01-14 12:59:15.724,,11908 Exposition Blvd #408,Los Angeles,CA,90064,2595.0,3175.0,,,Compass,22.4% rent increase
+2025-01-14 13:00:37.048,4284013028,1017 Pearl St UNIT C,Santa Monica,CA,90405,4500.0,5500.0,,,Zillow,
+2025-01-14 13:01:15.254,5726008019,267 Barthe Dr #14,Pasadena,CA,91103,2292.0,2850.0,,,Zillow,This property has been under going major renovations. The owners and their agents have been trying get the tenants out through harassment and threats for over a year. I have personal knowledge of this property and it's issues. This unit is covered by the Pasadena RSO.
+2025-01-14 13:02:56.727,,802 N Edinburgh Ave,Los Angeles,CA,90046,4500.0,4999.0,,,Zillow,"This is an update to the entry for listing mentioned already, as I know that the realtor Dylan Mantay is employed by Highpoint Real Estate (property managment company) due to being a tenant at one of their other (slumlord) properties. Here is the link to the listing on their own website as well for proof:"
+2025-01-14 13:05:46.112,4401026052,11633 Chenault St UNIT 202,Los Angeles,CA,90049,4995.0,7500.0,,,Zillow,
+2025-01-14 13:11:27.572,4218010043,11822 Marshall St,Los Angeles,CA,90230,9200.0,10500.0,,,Zillow,
+2025-01-14 13:14:23.052,4392009014,9243 Cordell Dr,Los Angeles,CA,90069,16000.0,29000.0,,,Zillow,
+2025-01-14 13:22:57.088,,1612 Courtney Ave,Los Angeles,CA,90046,9000.0,10500.0,,,Compass,16.7% rent increase
+2025-01-14 13:23:09.521,,1525 Selby Ave APT 203,Los Angeles,CA,90024,2725.0,4200.0,,,Zillow,"Was originally listed at $3,300 in October. Then, price lowered to $2,725, presumably due to lack of interest. Raised in January."
+2025-01-14 13:26:59.084,4244008006,3464 Greenwood Abe,Los Angeles,CA,90066,15000.0,22000.0,,,Redfin,This property has been on the market for a very long time with limited interest even at its $15k price but obviously with the fires people are looking for housing and the listing agent took advantage of this.
+2025-01-14 13:29:16.367,4391016004,380 Trousdale Pl,Beverly HIlls,CA,90210,50000.0,88000.0,,,Zillow,
+2025-01-14 13:32:36.159,,2470 VENUS DR,Los Angeles,CA,90046,13999.0,15999.0,,,Compass,14.3% rent increase
+2025-01-14 13:34:09.709,5523014039,532 N Rossmore Ave APT 103,Los Angeles,CA,90004,2950.0,3300.0,,,Zillow,
+2025-01-14 13:34:59.258,4293019129,201 Ocean Ave UNIT 1702P,Santa Monica,CA,90402,3800.0,4500.0,,,Zillow,Page saved to archive.org
+2025-01-14 13:38:40.504,4350018047,1293 Monte Cielo Dr,Beverly Hills,CA,90210,29500.0,38950.0,,,Zillow,Saved to archive.org
+2025-01-14 13:40:58.148,4344003017,715 N Rexford Dr,Beverly HIlls,CA,90210,37500.0,55000.0,,,Zillow,
+2025-01-14 13:42:21.156,,695 S Santa Fe AVE #302,Los Angeles,CA,90021,3931.0,4606.0,,,Compass,17.2% rent increase
+2025-01-14 13:42:23.667,2601068003,12036 Wood Ranch Rd,Granada Hills,CA,91344,9950.0,13000.0,,,Zillow,For rent. Last price was $9950 in August of 2024
+2025-01-14 13:55:52.561,,800 W 1st St #3106,Los Angeles,CA,90012,4900.0,5500.0,,,Redfin,12.2% rent increase
+2025-01-14 13:57:46.782,4344007003,508 N Canon Dr,Beverly Hills,CA,90210,20000.0,30000.0,,,Zillow,
+2025-01-14 13:59:08.048,5550010013,1524 N Sierra Bonita Ave,Los Angeles,CA,90046,15000.0,19500.0,,,Zillow,
+2025-01-14 14:00:41.448,,"1331 N Cahuenga Blvd, unit 4701",Los Angeles,CA,90028,3464.0,3866.0,,,Redfin,11.6% rent increase
+2025-01-14 14:04:18.963,,2463 Treelane Ave,Monrovia,CA,91016,2680.0,3900.0,,,Trulia,"Sometime today (1/14/25) the listing was removed from Trulia, but prior to it being removed, the price had been raised to $3,900. I have a screenshot of the Trulia price history showing that, even though somehow the new number is no longer visible since the owner pulled it off the market."
+2025-01-14 14:05:26.404,159500021000,1460 Parkway Dr,Rohnert Park,CA,94928,449950.0,1000000.0,,,Zillow,"This is a listing is for a condo for sale outside of LA County in Sonoma County. I have been looking at listings in this area for quite some time and was alarmed seeing this asking price. It is more than double what condos are worth here and owner is specifically listing this for wildfire victims, as seen in their sale listing details. This listing was just listed 24 hours ago. In form, I submitted price of another condo for sale now in that area (before price increase section) and the sale price of this listing (after price increase section). This is link for other listing that is a normal asking price:"
+2025-01-14 14:05:54.802,4259007007,12426 Idaho Ave,Los Angeles,CA,90025,14500.0,18500.0,,,Zillow,They have actually raised prices twice since the fires started
+2025-01-14 14:08:20.631,5562019012,2189 SUNSET PLAZA DR,Los Angeles,CA,90069,35000.0,45000.0,,,Zillow,28% rent increase
+2025-01-14 14:18:45.024,,6015 Saturn St,Los Angeles,CA,90035,3000.0,3400.0,,,Zillow,13.3% rent increase
+2025-01-14 14:32:41.459,,Undisclosed,Pasadena,CA,91104,3500.0,4000.0,,,Zillow,"The price history includes the CRMLS #ND23124775 from when the property was sold in 2023. Looking up this number leads to the specific address 1094 E Topeka St, Pasadena, CA 91104, which further research seems to confirm was purchased by Jeana Nordstrom."
+2025-01-14 14:32:57.077,,540 W Knoll Dr,West Hollywood,CA,90048,9950.0,10950.0,,,Zillow,"Price was $9,850 on 12/27/24, then shifted to $9,950 1/12/25, and is now $10,950 on 1/13/25"
+2025-01-14 14:33:14.217,,748 N Detroit St,Los Angeles,CA,90046,25000.0,30000.0,,,Zillow,"20% rent increase verified via MLS report and 60,000 security deposit!"
+2025-01-14 14:39:01.317,5514010049,323  N Flores St,Los Angeles,CA,90048,20750.0,26750.0,,,Zillow,28.9% rent increase
+2025-01-14 14:39:43.850,,Undisclosed,Woodland Hills,CA,91364,9449.0,10900.0,,,Zillow,"Price history shows it was listed at $9,449 on 12/6/24, removed on 1/1/25 and relisted on 1/9/25 at $10,500"
+2025-01-14 14:41:12.756,4392009014,9243 Cordell Dr,Los Angeles,CA,90069,16000.0,29000.0,,,Zillow,
+2025-01-14 14:45:34.037,2046003025,24375 Hatteras St,Woodland Hills,CA,91367,6900.0,8750.0,,,Zillow,
+2025-01-14 14:46:03.158,4259007007,12426 Idaho Ave,Los Angeles,CA,90025,14500.0,18500.0,,,Zillow,
+2025-01-14 14:46:33.301,4262017099,1745 S Barrington Ave,Los Angeles,CA,90025,6000.0,6600.0,,,Zillow,"This property has been seemingly unrented for months based on the listing history. It was listed for 6,450 on 11/8/24 and was actually lowered to 6,000 on 1/8/25, at the start of the fires, but was raised 10% to 6,600 on 1/13/25."
+2025-01-14 14:47:25.640,5561011015,1536 Blue Jay Way,Los Angeles,CA,90069,80000.0,120000.0,,,Zillow,50% rent increase
+2025-01-14 14:55:04.006,2184037029,17862 Via Vallarta,Encino,CA,91316,30000.0,36000.0,,,Zillow,
+2025-01-14 15:01:10.430,2305033052,12830 Elkwood St,North Hollywood,CA,91605,5500.0,6500.0,,,Zillow,
+2025-01-14 15:01:16.552,,(Undisclosed Address),Van Nuys,CA,91406,10950.0,12950.0,,,Zillow,
+2025-01-14 15:05:53.796,6490234100,110 Box Canyon Rd,Canoga Park,CA,91304,10050.0,12500.0,,,Zillow,
+2025-01-14 15:09:02.646,,458 S Ramona Ave #B,Monterey Park,CA,91754,1995.0,2350.0,,,Trulia,
+2025-01-14 15:16:57.998,5588024017,2324 N Vermont Ave,Los Angeles,CA,90027,17850.0,20000.0,,,Trulia,
+2025-01-14 15:18:39.955,5436013011,3365 Tyburn St,Los Angeles,CA,90039,3750.0,6500.0,,,Zillow,This is a 1 bedroom / 1 bathroom absolutely tiny property. It is not worth this at all. Also charging $13065 to actually move in.
+2025-01-14 15:22:02.836,2053030064,30028 Torrepines Pl,Agoura Hills,CA,91301,6500.0,7500.0,,,Zillow,"First raised rent to $7950 on 1/12/25, then set it to $7500 on 1/14"
+2025-01-14 15:23:10.466,5549032032,6760 W Gill Way,Los Angeles,CA,90068,6975.0,9999.0,,,Trulia,
+2025-01-14 15:23:31.743,,629 Traction Ave,Los Angeles,CA,90013,3500.0,4900.0,,,Zillow,
+2025-01-14 15:23:51.727,,(Undisclosed Address),Van Nuys,CA,91406,10950.0,12950.0,,,Zillow,
+2025-01-14 15:25:27.784,,1123 4th Ave,Los Angeles,CA,90019,4200.0,5000.0,,,Zillow,EDGE CASE - property off market for 7 years
+2025-01-14 15:26:02.167,,2928 Las Alturas St,Los Angeles,CA,90068,12000.0,24500.0,,,Trulia,
+2025-01-14 15:28:39.510,2427009018,2955 Passmore Dr,Los Angeles,CA,90068,40000.0,50000.0,,,Trulia,
+2025-01-14 15:28:46.729,41027133,406 W Sierra Dr,Santa Ana,CA,92707,6800.0,12000.0,,,Zillow,
+2025-01-14 15:32:17.574,2811036001,23621 Dunsmore Ln,Santa Clarita,CA,91354,9900.0,12000.0,,,Zillow,
+2025-01-14 15:32:17.888,4333001033,141 S La Peer Dr,Beverly Hills,CA,90211,9000.0,10000.0,,,Zillow,
+2025-01-14 15:33:22.665,4263013094,1255 Federal Ave #407,LA,CA,90025,999999.0,1150000.0,,,Zillow,
+2025-01-14 15:35:35.216,2378001015,3763 Lankershim Blvd,Los Angeles,CA,90068,14000.0,17900.0,,,Trulia,
+2025-01-14 15:37:59.794,5532017023,1156 N. Orange Drive,Los Angeles,CA,90038,6400.0,7000.0,,,Zillow,"listed on 10/24 as  $6400, removed on 12/2 then relisted on 1/14 as $7k"
+2025-01-14 15:38:05.564,2260005008,5041 Noeline Ave,Encino,CA,91436,18000.0,25000.0,,,Zillow,
+2025-01-14 15:39:58.828,5555028013,8262 Woodshill Trl,Los Angeles,CA,90069,22995.0,29150.0,,,Zillow,"rent on 6/23/24 was $26995, lowered on 1/2/25 to $22995, then raised to $29150.00"
+2025-01-14 15:41:58.289,4327007003,10364 Eastborne Ave,Los Angeles,CA,90024,9950.0,18000.0,,,Zillow,
+2025-01-14 15:45:12.879,5512021002,173 S Alta Vista Blvd,Los Angeles,CA,90036,15000.0,16995.0,,,Zillow,
+2025-01-14 15:46:38.305,5013019025,5107 11th Ave,Los Angeles,CA,90043,6800.0,8000.0,,,Zillow,
+2025-01-14 15:49:33.910,5510005014,6740 Colgate Ave,Los Angeles,CA,90048,6500.0,10000.0,,,Zillow,
+2025-01-14 15:52:03.296,2172031007,4256 Rosario Rd,Woodland Hills,CA,91364,7999.0,6999.0,,,Zillow,
+2025-01-14 15:54:04.122,5510018029,6132 Maryland Dr,Los Angeles,CA,90048,26000.0,29995.0,,,Zillow,
+2025-01-14 15:55:57.468,2168016069,5247 Calatrana Dr,Woodland Hills,CA,91364,7450.0,8500.0,,,Zillow,
+2025-01-14 15:56:51.902,5077027026,2606 James M Wood Blvd,Los Angeles,CA,90006,4750.0,5500.0,,,Zillow,"The price gouging increase isn't listed/amended on the Zillow listing, HOWEVER, on the Google doc of rental properties available going around, it's listed for $5,500. # Tab: West Hollywood / Hancock Park / Mid-City/Hollywood Line 30 (Koreatown or search by address: 2606 James M. Wood)"
+2025-01-14 15:57:27.217,4114008015,7901 Berger Ave,Playa Del Rey,CA,90293,15000.0,17000.0,,,Zillow,
+2025-01-14 15:58:55.879,,"1831 Federal Ave, Unit 11",Los Angeles,CA,90025,1295.0,1500.0,,,Zillow,Link to listing on HP's site:
+2025-01-14 16:02:08.332,2729027040,10214 Candleberry Ln,Northridge,CA,91324,15900.0,19900.0,,,Zillow,
+2025-01-14 16:05:37.953,4345034006,817 N Whittier Dr,Beverly Hills,CA,90210,150000.0,195000.0,,,Zillow,
+2025-01-14 16:12:10.818,7542007022,1808 Paseo Del Mar,Palos Verdes Estates,CA,90274,15000.0,17500.0,,,Zillow,
+2025-01-14 16:12:43.414,2172021064,20955 Marmora St,Woodland Hills,CA,91364,5500.0,8500.0,,,Zillow,
+2025-01-14 16:15:32.697,37228102,9562 Center Dr,Villa Park,CA,92861,13700.0,19800.0,,,Zillow,
+2025-01-14 16:18:56.431,2328009080,13616 Vose St,Van Nuys,CA,91405,8000.0,10000.0,,,Zillow,
+2025-01-14 16:22:36.431,5144020145,801 S Grand Ave APT 2010,Los Angeles,CA,90017,8500.0,5500.0,,,Zillow,
+2025-01-14 16:32:05.573,5529005011,934 n orlando,los angeles,CA,90069,15000.0,20000.0,,,Zillow,"listed at $15,000 until 12/25. listing removed on 12/25. reposted on 1/15 at $20,000 (33% increase)"
+2025-01-14 16:42:07.896,4306027020,9509 Cresta Dr,Los Angeles,CA,90035,13500.0,17000.0,,,Zillow,
+2025-01-14 16:43:37.739,2014003005,22928 Roscoe Blvd,West Hills,CA,91304,1.0,25000.0,,,Zillow,There was no before price but home prices in this area are far lower than this comparably.
+2025-01-14 16:48:12.012,4209001009,4045 Jackson Ave,Culver City,CA,90232,7450.0,14500.0,,,Zillow,
+2025-01-14 16:55:42.092,5529005011,934 N Orlando Ave,Los Angeles,CA,90069,15000.0,20000.0,,,Zillow,
+2025-01-14 16:57:16.803,2079020031,22740 Liberty Bell Rd,Calabasas,CA,91302,7950.0,9750.0,,,Redfin,"The house was listed on Zillow at $7950 on 12/31/2024 and then on Redfin for $9,750 They are now touting a guest house that is not permitted that can be rented with the property or without but if rented without the landlord will rent out the un-permitted ADU."
+2025-01-14 17:09:10.362,,907 Pine Grove,LA,CA,90042,5250.0,5800.0,,,Zillow,I went to see the listing on Tuesday afternoon around 3PM to go see the place unrelated to the fires and it was listed at 5250. I told him id fill out an application but obviously the fires were happening and it wasn't a priority. then I check on thursday or friday and he actually made it more expensive which is psychotic. he's had the listing up and down since november.
+2025-01-14 17:10:46.579,11111111,111 test street,test,CA,11111,1000.0,1000.0,,,Zillow,
+2025-01-14 17:32:06.408,,"1653 Micheltorena St APT 3, Los Angeles, CA 90026",Los Angeles,CA,90026,4000.0,4500.0,,,Zillow,I sent a message through zillow warning them.
+2025-01-14 17:35:12.246,,(Undisclosed Address),Los Angeles,CA,90056,10000.0,12000.0,,,Zillow,
+2025-01-14 17:47:51.742,5089002014,748 S Cloverdale Ave,Los Angeles,CA,90036,19500.0,26000.0,,,Zillow,
+2025-01-14 17:47:54.118,4276016016,2213 Arizona ave,Santa Monica,CA,90404,5500.0,7000.0,,,Zillow,I screenshotted the listing price increase. It’s no longer active since I reached out to owner about their price gouging
+2025-01-14 17:50:05.121,,1105 S Barrington Ave. # 8,Los Angeles,CA,90049,4795.0,5495.0,,,,Property Management is Southland Inland Properties LLC [PHONE REDACTED]
+2025-01-14 18:05:00.291,2844011006,17837 Blackbrush Dr,Santa Clarita,CA,91387,9500.0,10500.0,,,Zillow,
+2025-01-14 18:09:22.694,,7599 Coastal View Dr,Los Angeles,CA,90045,25000.0,33333.0,,,Redfin,
+2025-01-14 18:20:10.635,4295003055,4411 Roma Ct,Marina Del Rey,CA,90292,20500.0,25000.0,,,Zillow,
+2025-01-14 18:25:11.841,42220306,2154 Miner St,Costa Mesa,CA,92627,8000.0,10000.0,,,Zillow,
+2025-01-14 18:27:45.578,,600 N Soto St APT 101,Los Angeles,CA,90033,1828.0,2700.0,,,Zillow,
+2025-01-14 18:47:58.616,4327007003,10364 Eastborne Ave,Los Angeles,CA,90024,9950.0,18000.0,,,Zillow,
+2025-01-14 18:59:15.594,4378032012,15541 Aqua Verde Dr,Los Angeles,CA,90077,19000.0,22500.0,,,Zillow,
+2025-01-14 19:06:10.692,1080140275,6952 Solano Verde Dr,Somis,CA,93066,17000.0,23000.0,,,Zillow,
+2025-01-14 19:13:45.077,5729004010,1378 N Raymond Ave,Pasadena,CA,91103,1600.0,2500.0,,,Zillow,25 days on Zillow
+2025-01-14 19:16:02.967,2415020007,5737 Cartwright Ave,North Hollywood,CA,91601,5250.0,6000.0,,,Zillow,
+2025-01-14 19:18:03.235,2184045005,3856 Vista Linda Dr,Encino,CA,91316,13900.0,16000.0,,,Zillow,
+2025-01-14 19:22:01.946,2357006034,12501 Sapphire Pl,Valley Village,CA,91607,4330.0,4940.0,,,Zillow,
+2025-01-14 19:23:14.225,5330033048,2444 E Del Mar Blvd UNIT 115,Pasadena,CA,91107,2400.0,2650.0,,,Zillow,Compass Management Company
+2025-01-14 19:28:02.888,,4832 Whitsett Ave,Valley Village,CA,91607,4500.0,4950.0,,,Zillow,
+2025-01-14 19:44:43.902,4285033014,3019 Linda Ln,Santa Monica,CA,90405,5400.0,6800.0,,,Zillow,
+2025-01-14 19:45:07.620,na,7826 Fallbrook Ave #7826,West Hills,CA,91304,2000.0,2500.0,,,Zillow,
+2025-01-14 19:45:26.442,5625029004,427 W Riverside Dr,Burbank,CA,91506,3300.0,4000.0,,,Zillow,
+2025-01-14 19:46:16.397,5445027006,2249 Shoredale Ave,Los Angeles,CA,90031,6200.0,7500.0,,,Zillow,
+2025-01-14 19:47:17.923,,15 Outrigger St APT 102,Marina Del Rey,CA,90292,3800.0,4300.0,,,Zillow,
+2025-01-14 19:51:19.336,4461021006,4322 Escondido Dr,Malibu,CA,90265,22000.0,25000.0,,,Zillow,
+2025-01-14 19:52:58.917,4365005017,321 Beloit Ave,Los Angeles,CA,90049,7000.0,8240.0,,,Zillow,
+2025-01-14 19:56:16.271,1080140275,6952 Solano Verde Dr,Somis,CA,93066,17000.0,23000.0,,,Zillow,
+2025-01-14 19:57:48.126,4286016025,414 Pacific Ave,Venice,CA,90291,12500.0,8195.0,,,Zillow,"Previous listing before this one was Aug 2019 ($8,195), a 52.5% increase. Hasn't been active for years before now."
+2025-01-14 20:01:12.790,,5059 Hermosa Ave,Eagle Rock,CA,90041,2995.0,3600.0,,,Zillow,
+2025-01-14 20:02:41.963,4293001045,222 7th St UNIT 202,Santa Monica,CA,90402,3295.0,3795.0,,,Zillow,
+2025-01-14 20:05:07.346,,934 N Orlando Ave,LOS ANGELES,CA,90069,15000.0,20000.0,,,Zillow,
+2025-01-14 20:05:20.244,2364011007,4400 Carpenter Ave,Valley Village,CA,91607,14500.0,16000.0,,,Trulia,
+2025-01-14 20:05:53.277,4289015025,207 Hollister Ave,Santa Monica,CA,90405,40000.0,44000.0,,,Zillow,
+2025-01-14 20:09:01.840,4293018006,547 Palisades Beach Rd,Santa Monica,CA,90402,21000.0,200000.0,,,Zillow,
+2025-01-14 20:09:46.442,,3362 1/2 Descanso Dr,Los Angeles,CA,90026,1995.0,2795.0,,,Zillow,
+2025-01-14 20:10:29.075,5555028013,8262 Woodshill Trail,Los Angeles,CA,90069,22995.0,40000.0,,,Zillow,
+2025-01-14 20:12:58.759,4208025033,4104 Huron Ave,Culver City,CA,90232,2750.0,4500.0,,,Zillow,"Had been off the market for 6 years, relisted on 1/14/2025 at 63.6% increase."
+2025-01-14 20:16:37.924,,1067 Palos Verdes Blvd #A,Redondo beach,CA,90277,1600.0,2000.0,,,Zillow,
+2025-01-14 20:22:35.636,4238015029,411 Grand Blvd,Venice,CA,90291,16995.0,19950.0,,,Zillow,
+2025-01-14 20:27:59.358,4344003017,715 N Rexford Dr,Beverly Hills,CA,90210,37500.0,55000.0,,,Zillow,
+2025-01-14 20:31:17.924,4225008060,120 Galleon St,Los Angeles,CA,90292,8030.0,25000.0,,,Zillow,"Had previously been rented to someone displaced by the fires. Newly renovated, but rent increased by over 200% for the next renter in Feb!!"
+2025-01-14 20:34:30.906,,1433 19 th street Unit C,Santa Monica,CA,90404,3195.0,3350.0,,,Zillow,
+2025-01-14 20:35:51.144,4469005018,5190 Horizon Dr,Malibu,CA,90265,3200.0,25000.0,,,Zillow,
+2025-01-14 20:41:43.404,,"1217 Douglas St, 101",Los Angeles,CA,90026,1630.0,1711.0,,,Craigslist,"I started renting here in 2023 for the price of $1600. In 2024, they increased my rent to $1630 and now they’re increasing again to 1711.00. They also came to “check” my gas appliances then told me the appliances are now my responsibility and not contact them should something go wrong with my heater and/or stove. They’ve also sent me a 3 day or pay notice multiple times for being late with rent, which I paid before the 3 days"
+2025-01-14 20:46:02.308,5810017015,2152 crescent ave,Montrose,CA,91029,8200.0,12500.0,,,Pocket listing,"Bidding war resulting in price going from $8,200 to $12,500. Landlord asked for 24 months rent up from in cash and negotiated to 18 months. Two families bidding both lost their homes in Eaton fire. This seems illegal. How are families that don’t have 300k in cash going to compete??"
+2025-01-14 20:46:16.008,7567014002,2 El Concho Ln,Rolling Hills,CA,90274,15000.0,20000.0,,,Zillow,
+2025-01-14 20:48:39.633,,49 Aria St,South El Monte,CA,91733,7000.0,11200.0,,,Redfin,"This rental went from $7000 to $11,200 on January 10. However, it went back to $7000 on January 11. This was a clear attempt at price gouging."
+2025-01-14 20:54:01.789,,25247 Bigelow Rd #503-02,Torrance,CA,90505,1795.0,2195.0,,,Zillow,"Listing last removed in July 2020, listed 1/9 at +22.3% increase"
+2025-01-14 20:55:52.445,4470019017,31663 Broad Beach Rd,Malibu,CA,90265,14950.0,16500.0,,,Zillow,
+2025-01-14 20:56:22.694,,843 N Spaulding Ave,Los Angeles,CA,90046,25900.0,35000.0,,,Redfin,
+2025-01-14 20:59:39.580,4252014015,3761 Greenfield Ave,Los Angeles,CA,90034,3800.0,4999.0,,,Zillow,
+2025-01-14 21:01:18.560,Parcel number: 4175012024,3317 Vista Dr,Manhattan Beach,CA,90266,12000.0,22000.0,,,Zillow,
+2025-01-14 21:03:51.200,,5050 Casa Dr,Tarzana,CA,91356,8500.0,10000.0,,,Redfin,
+2025-01-14 21:07:52.497,4319011007,1900 Fox Hills Dr,Los Angeles,CA,90025,11000.0,15000.0,,,Zillow,
+2025-01-14 21:08:13.306,,637 N Gardner St,Los Angeles,CA,90036,22500.0,30000.0,,,Redfin,"This is another example of someone who price gouged and then walked it back. It was listed at $20,000 in November 2024, then jumped to $22,500 on 1/9/25, then jumped to $30,000 on 1/10/25, before dropping back to $22,000 on 1/13/25."
+2025-01-14 21:11:43.602,,610 N Stanley Ave,Los Angeles,CA,90036,22500.0,30000.0,,,Redfin,"Kai Cohen strikes again. Same as the 843 N Spaulding entry: $20,000 in November 2024, $22,500 on 1/9/25, $30,000 on 1/10/25, and back down to $22,000 on 1/13/25."
+2025-01-14 21:12:08.430,05047159,71 Linda Isle,Newport Beach,CA,92660,55000.0,65000.0,,,Zillow,
+2025-01-14 21:15:01.854,,7168 Rockridge Ter,West Hills,CA,91307,5900.0,6500.0,,,Redfin,There was also a price change to $6950 on 1/13/25 before changing to $6500 on 1/14/25
+2025-01-14 21:16:58.767,42314206,213 Via Cordova,Newport Beach,CA,92663,20000.0,29500.0,,,Zillow,
+2025-01-14 21:17:25.441,5550010013,"1524 N Sierra Bonita Ave, Los Angeles, CA 90046",Los Angeles,CA,90046,15000.0,19500.0,,,Zillow,"08/27/2024 property was listed at 15,000, removed on 10/1/2024, then reposted on 1/13/2025 at 19,500 (+30% increase)"
+2025-01-14 21:18:15.726,4325004014,10769-10771 Ashton Ave,Los Angeles,CA,90024,17500.0,35000.0,,,Zillow,"Price had originally gone up on 1/10, they lowered it on 1/12, but as of 1/14, it has been increased again. 100% increase from 1/14."
+2025-01-14 21:20:44.820,45915211,527 Seaward Rd,Corona Del Mar,CA,92625,22000.0,35000.0,,,Zillow,
+2025-01-14 21:25:35.450,6710360145,474 Rye Ct,Thousand Oaks,CA,91362,10000.0,12500.0,,,Zillow,
+2025-01-14 21:25:53.909,5569036003,"1914 Laurel Canyon Blvd, Los Angeles, CA 90046",Los Angeles,CA,90046,33000.0,45000.0,,,Zillow,listing removed in december 2024 then reposted Jan 14th for 36.4% more
+2025-01-14 21:28:56.060,4436012051,2529 Topanga Skyline Dr,Topanga,CA,90290,11000.0,13500.0,,,Zillow,
+2025-01-14 21:32:04.197,4365005017,321 Beloit Ave,Los Angeles,CA,90049,7000.0,8240.0,,,Zillow,No email provided for listing agent. 12/16/2024 listed for 7000 and removed. Relisted 1/15/2025 for 8240 (+17.7%)
+2025-01-14 21:32:10.289,4091017015,18007 Elgar Ave,Torrance,CA,90504,2695.0,4195.0,,,Zillow,+55.7% increase when listed 1/15/25 from 10/19/19
+2025-01-14 21:33:05.946,4344003017,"715 N Rexford Dr,",Beverly Hills,Other,90210,37500.0,55000.0,,,Zillow,
+2025-01-14 21:38:41.428,4344007003,508 N Canon Dr,Beverly Hills,CA,90210,20000.0,30000.0,,,Zillow,
+2025-01-14 21:39:47.853,5440026026,2438 Riverside Pl,Los Angeles,CA,90039,14000.0,22000.0,,,Zillow,"[EMAIL REDACTED] [PHONE REDACTED]) and [EMAIL REDACTED] [PHONE REDACTED]) listed as agents. Taken down on 1/1/2025 and was listed at 14K/mo, relisted 1/15/2025 at 22,000 (+57.1%)."
+2025-01-14 21:42:01.167,4377046018,11730 Stonehenge Ln,Los Angeles,CA,90077,48500.0,65000.0,,,Zillow,
+2025-01-14 22:01:13.424,7534017015,24438 Ward St,Torrance,CA,90505,1.0,7000.0,,,Zillow,"Had to enter ""1"" for the previous price to submit the form, but there's no previous rental listing. Meets definition of price gouging in subparagraph (B), even with the 5% increase for fully furnished housing - exceeds 165% of fair market rent for 3 bedrooms in 90505 (FMR is $3,810, 165% of FMR is $6,286.50)"
+2025-01-14 22:12:30.533,5660002009,3623 Saint Elizabeth Rd,Glendale,CA,91206,3500.0,7995.0,,,Zillow,"Listing was removed in 2017, listed again on 1/14/2025 at 128% increase."
+2025-01-14 22:14:27.633,4096015025,18027 Saint Andrews Pl,Torrance,CA,90504,3500.0,4200.0,,,Zillow,+20% from 9/7/21
+2025-01-14 22:14:57.504,5772025014,349 E Newman Ave,Arcadia,CA,91006,2400.0,3300.0,,,Zillow,"Listing removed in 2019, relisted 1/13/2025 at 37% increase."
+2025-01-14 22:20:08.224,5325012033,1425 Wentworth Ave,Pasadena,CA,91106,8800.0,15000.0,,,Zillow,Listing removed Jan 2019. Relisted on 1/14/2025 at 70% increase.
+2025-01-14 22:20:54.305,7369006016,22601 Iris Ave,Torrance,CA,90505,3600.0,4800.0,,,Zillow,+33.3% from 12/15/19 listing
+2025-01-14 22:24:35.704,5789012017,161 E Las Flores Ave,Arcadia,CA,91006,3200.0,4200.0,,,Zillow,Listing removed Feb 2018. Relisted on 1/13/2025 at 31% increase.
+2025-01-14 22:26:10.653,5791029020,2908 Foss Ave,Arcadia,CA,91006,2500.0,4500.0,,,Zillow,
+2025-01-14 22:27:39.455,4392017008,1341 Sierra Alta Way,Los Angeles,CA,90069,16500.0,18000.0,,,Zillow,
+2025-01-14 22:29:36.727,5372003018,815 E Chestnut Ave,San Gabriel,CA,91776,2800.0,3300.0,,,Zillow,
+2025-01-14 22:29:54.667,,3210 Merrill Dr Apt 9,Torrance,CA,90503,2250.0,2595.0,,,Zillow,+15.3% from 05/21/20 listing
+2025-01-14 22:31:45.944,5466020032,536 Quail Drive,Los Angeles,CA,90065,4750.0,5850.0,,,Zillow,
+2025-01-14 22:33:50.529,,3872 N Delta Ave,Rosemead,CA,91770,3400.0,3800.0,,,Zillow,
+2025-01-14 22:34:20.504,5709032022,280 Cherry Drive,Pasadena,CA,91105,5480.0,6800.0,,,Zillow,
+2025-01-14 22:37:14.925,5356016047,1621 S Atlantic Blvd,Alhambra,CA,91803,1880.0,3680.0,,,Zillow,Listing removed Mar 2018. Relisted on 1/10/2025 at 96% increase.
+2025-01-14 22:38:03.905,7522014025,19311 Inglewood Ave,Torrance,CA,90503,3100.0,4200.0,,,Zillow,+35.5% from 12/16/19
+2025-01-14 22:40:43.907,5251030017,1234 W 1st St,Monterey Park,CA,91754,1750.0,2400.0,,,Zillow,
+2025-01-14 22:44:45.873,,Undisclosed,Los Angeles,CA,90056,10000.0,12000.0,,,Zillow,"lowered the rent back in dec then raised it on 1/10, lowered on 1/14 but still 20% increase"
+2025-01-14 22:46:47.552,,1304 N Gardner St #1,Los Angeles,CA,90046,3300.0,4500.0,,,Zillow,I believe this to be a duplicate listing of 1302 N Gardner St to avoid price history being tracked. Pictures are identical
+2025-01-14 22:49:09.705,4286016025,414 Pacific Ave,Venice,CA,90291,8195.0,12500.0,,,Zillow,
+2025-01-14 22:49:58.932,,3321 E Colorado Blvd #25,Pasadena,CA,91107,1900.0,2300.0,,,Zillow,"Discounted rate for fire evacuated individuals, but still 10% increase. They have micro studios for extended stay."
+2025-01-14 22:51:25.153,4401002078,11750 W Sunset Blvd Apt 311,Los Angeles,CA,90049,2575.0,3200.0,,,Zillow,Page saved on archive.org
+2025-01-14 22:52:43.633,,850 S Rosemead Blvd APT 6,Pasadena,CA,91107,1695.0,1895.0,,,Zillow,
+2025-01-14 22:52:46.155,2135020003,19844 Schoolcraft St,Winnetka,CA,91306,3999.0,4500.0,,,Zillow,
+2025-01-14 22:56:44.470,,1141 Sunset Blvd #C,Arcadia,CA,91007,1100.0,2500.0,,,Zillow,
+2025-01-14 22:57:08.823,,3185 Larga Ave #C,Los Angeles,CA,90039,2850.0,3500.0,,,Zillow,Saved to archive.org
+2025-01-14 23:00:49.096,,95 N Michigan Ave #11,Pasadena,CA,91106,1720.0,2049.0,,,Zillow,
+2025-01-14 23:01:07.821,5147005181,420 S San Pedro APT 612,Los Angeles,CA,90013,2950.0,3399.0,,,Zillow,+15.2%
+2025-01-14 23:03:08.219,4329008163,2243 Century Hl,Los Angeles,CA,90067,8500.0,9400.0,,,Zillow,
+2025-01-14 23:03:49.637,,278 E Washington Blvd APT 7,Pasadena,CA,91104,1850.0,2895.0,,,Zillow,
+2025-01-14 23:06:57.204,,267 Barthe Dr #14,Pasadena,CA,91103,2292.0,2850.0,,,Zillow,"Price previously set at $2292 on Dec 2014, taken down on 1/9/2025 before increase on 1/14/2025"
+2025-01-14 23:09:13.647,2264005027,4703 Columbus Ave,Sherman Oaks,CA,91403,5300.0,7250.0,,,Zillow,
+2025-01-14 23:10:00.687,5178009022,2801 Winter St,Los Angeles,CA,90033,1.0,4995.0,,,Zillow,"New listing not fuurnished, exceeds 160% of fair market rent for 3 beds in 90033 (FMR 3b: 2940, 160%FMR=$4704)"
+2025-01-14 23:12:15.685,5734010097,501 E Del Mar Blvd APT 110,Pasadena,CA,91101,2800.0,3600.0,,,Zillow,
+2025-01-14 23:12:46.764,5514010008,332 N Orlando Ave,Los Angeles,CA,90048,12500.0,15000.0,,,Zillow,
+2025-01-14 23:14:59.542,5734005137,394 S Los Robles Ave APT 7,Pasadena,CA,91101,3350.0,4495.0,,,Zillow,
+2025-01-14 23:15:30.965,2263005043,5115 Kester Ave APT 9,Sherman Oaks,CA,91403,3250.0,4650.0,,,Zillow,
+2025-01-14 23:16:53.118,,3227 E 8th St #1,Los Angeles,CA,90023,1.0,3000.0,,,Zillow,"No previous listing; 2 bed furnished exceeds 165% FMR for 2b in 90023 (FMR = $1810, 165%FMR = $2896.5)"
+2025-01-14 23:22:57.497,,3406 Larissa Dr,Los Angeles,CA,90026,2295.0,3200.0,,,Zillow,
+2025-01-14 23:28:20.443,,137 N Doheny Dr #3,Los Angeles,CA,90048,16995.0,25000.0,,,Zillow,Preserved on archive.org
+2025-01-14 23:32:38.505,,"909 El Centro St FLOOR 2-ID1158, South Pasadena, CA 91030",South Pasadena,CA,91030,2630.0,3120.0,,,Zillow,"This property has been on the market for a while and has wildly oscillating rates. It’s been at this price before, but this seems to be a recent increase post fire. The landlord is a 3rd party property manager renting out furnished apartments."
+2025-01-14 23:33:00.970,2153032002,5709 Calvin Ave,Tarzana,CA,91356,4800.0,22000.0,,,Zillow,"Also listed for rent in 2020 for $12,400, so even if the $4800 price was offered in error, it's still a wild markup from 2020"
+2025-01-14 23:37:51.803,2375017114,4249 Longridge Ave UNIT 303,Studio City,CA,91604,2700.0,3100.0,,,Zillow,
+2025-01-14 23:44:24.131,,351 S Catalina St #351,Los Angeles,CA,90020,3400.0,4900.0,,,Zillow,
+2025-01-14 23:57:35.801,5555028013,8262 Woodshill Trl,Los Angeles,CA,90069,22995.0,40000.0,,,Zillow,
+2025-01-15 00:00:14.905,4401024193,11645 Montana Ave APT 304,Los Angeles,CA,90049,2500.0,3100.0,,,Zillow,
+2025-01-15 00:06:14.831,Na,"351 S Catalina St #351, Los Angeles, CA 90020",Los Angeles,CA,90020,3400.0,4900.0,,,Zillow,
+2025-01-15 00:06:25.028,Na,"351 S Catalina St #351, Los Angeles, CA 90020",Los Angeles,CA,90020,3400.0,4900.0,,,Zillow,
+2025-01-15 00:11:14.106,Na,"917 S Berendo St #402, Los Angeles, CA 90006",Los Angeles,CA,90006,2350.0,4000.0,,,Zillow,
+2025-01-15 00:55:39.461,,test,test,CA,11111,1000.0,1000.0,,,Zillow,
+2025-01-15 06:34:51.612,4286025001,16 Park Ave.,Venice,CA,90291,7000.0,30000.0,,,Zillow,
+2025-01-15 07:57:32.823,Parcel number: 4285033014,"3019 Linda Ln, Santa Monica, CA 90405",Santa Monica,CA,90405,5400.0,6800.0,,,Zillow,Listing brokerage is Coldwell Banker Residential Brokerage
+2025-01-15 08:26:40.766,2263032009,14649 Addison St,Sherman Oaks,CA,91403,13500.0,15300.0,,,Zillow,
+2025-01-15 08:33:24.808,,"17 Northstar Street, #105",Marina Del Rey,CA,90292,4998.0,5898.0,,,Zillow,"I sent the listing to my husband on 1/3/25 (it was listed at $4,498, but they apply a concession of $3k spread over 6 months, so the real rent was $4,998 after the first 6 months). I checked it this morning after hearing about landlords increasing rent and noticed it is now $5,898 (w/ $3k concession over 6 months so they show it as $5,398). Equates to 18% increase. The screenshot I have from this morning shows it as only a $700 increase, so they must have increased it $200 before in the past week. I only know this because our budget in Zillow is $4,500, which is how it originally came up about a week ago."
+2025-01-15 08:37:18.608,4405042027,134 S Carmelina Ave,Los Angeles,CA,90049,13995.0,15500.0,,,Zillow,
+2025-01-15 08:40:19.940,5325024014,262 Jaxine Drive,Altadena,CA,91001,12000.0,16000.0,,,Zillow,Wrote down the 12k listing price on 1/10/25 in my own notes (did not take screengrab but did type the amount 12k on my rental application). Toured and submitted application 1/11/25 without knowing the price jumped from 12k to 16k overnight.
+2025-01-15 08:40:38.481,5528011026,627 N Kilkea Dr,Los Angeles,CA,90048,8900.0,10100.0,,,Zillow,
+2025-01-15 08:44:34.726,5526020005,641 N Fuller Ave,Los Angeles,CA,90036,7000.0,8525.0,,,Zillow,Listing has since been removed
+2025-01-15 08:46:55.757,,6213 S Budlong Ave,Los Angeles,CA,90044,1700.0,1950.0,,,Zillow,
+2025-01-15 08:50:37.217,,3759 S Canfield Ave #204A,Los Angeles,CA,90034,1910.0,2150.0,,,Zillow,
+2025-01-15 08:53:49.148,,1821 W 25th St,Los Angeles,CA,90018,900.0,2300.0,,,Zillow,
+2025-01-15 08:57:33.788,4363007242,10982 Roebling Ave Apt. 565,Los Angeles,CA,90024,3900.0,4900.0,,,Zillow,
+2025-01-15 08:59:44.459,,8326 Blackburn Ave Unit 404,Los Angeles,CA,90048,6200.0,7000.0,,,Zillow,
+2025-01-15 09:01:55.518,,2025 S Sherbourne Dr,Los Angeles,CA,90034,2750.0,3200.0,,,Zillow,
+2025-01-15 09:03:56.463,,1508 S Beverly Glen Blvd,Los Angeles,CA,90024,2550.0,2850.0,,,Zillow,
+2025-01-15 09:06:58.053,2170009029,22015 Mulholland Way,Woodland Hills,CA,91364,6500.0,7500.0,,,Zillow,
+2025-01-15 09:09:09.150,2125027020,6927 Lindley Ave,Reseda,CA,91335,3850.0,6400.0,,,Zillow,
+2025-01-15 09:12:36.136,2770002012,18804 Nordhoff St,Northridge,CA,91324,3500.0,4000.0,,,Zillow,
+2025-01-15 09:14:26.715,,10780 Andora Ave,Chatsworth,CA,91311,3995.0,4800.0,,,Zillow,
+2025-01-15 09:20:44.694,,5704 La Mirada Ave #6A,Los Angeles,CA,90038,1450.0,2095.0,,,Zillow,
+2025-01-15 09:22:36.454,2023002025,22028 Covello St,Canoga Park,CA,91303,2550.0,5500.0,,,Zillow,
+2025-01-15 09:36:58.001,,15 Outrigger St APT 102,Marina Del Rey,CA,90292,3800.0,4300.0,,,Zillow,
+2025-01-15 09:37:00.128,4209001009,"4045 Jackson Ave, Culver City, CA 90232",Culver City,CA,90232,7450.0,14500.0,,,Zillow,"$14,500 monthly for a 2 bedroom 1 bath in Culver City does not reflect market value"
+2025-01-15 10:00:58.215,4392-009-014,9243 Cordell Dr,Los Angeles,CA,90069,16000.0,29000.0,,,Zillow,
+2025-01-15 10:03:38.656,4229013009,2523 Abbot Kinney Blvd,Venice,CA,90291,4500.0,5500.0,,,Zillow,Listing was posted on 12/7/24 at $4500 a month on Zillow. Listing was removed on 1/14/25 and reposted (the next day) on 1/15/25 at $5500 a month.
+2025-01-15 10:10:14.584,5579038006,3323 N Knoll Dr,"Los Angeles,",CA,90068,6495.0,12000.0,,,Zillow,
+2025-01-15 10:24:11.141,5555016012,8590 Hollywood Blvd,Los Angeles,CA,90069,25000.0,55000.0,,,Zillow,"I sent them a message telling them shame on them for price gouging during this tragic time. It had been listed for rent 10/29/2024 at 25,000/month and now up for rent 1/14/2025 at 55,000/month. It looks like the owner or realtor took it off the market."
+2025-01-15 10:32:20.991,,114 N Doheny Drive (multiple),West Hollywood,CA,90048,3798.0,4498.0,,,Zillow,"There are ~10 open units in this building, many had been on the market >30 days, prices all went up on 1/13/25"
+2025-01-15 10:33:13.731,5660002009,3623 Saint Elizabeth,Glendale,CA,91206,3500.0,7995.0,,,Zillow,
+2025-01-15 10:35:18.257,,254 Detroit St,Los Angeles,CA,90036,6600.0,9500.0,,,Zillow,
+2025-01-15 10:37:24.959,4329008163,2243 Century Hl,Los Angeles,CA,90067,8500.0,9400.0,,,Zillow,
+2025-01-15 10:49:47.412,,1239 Rossmoyne Ave,Glendale,CA,91207,7500.0,10000.0,,,Zillow,(Taken Down - Possibly Rented)
+2025-01-15 10:57:26.792,,2243 Century HI,Century Hill,CA,90067,8500.0,9400.0,,,Redfin,
+2025-01-15 11:08:49.204,4277-019-009,1038 25th Street,Santa Monica,CA,90403,8000.0,15000.0,,,C.L.A.W MLS #25-477907,"It was listed at $8,000 on 01/07/2025. It was an active lease before it was listed. So, not a new lease. It is non-owner occupied."
+2025-01-15 11:13:51.252,5729028001,405 E Claremont St,Pasadena,CA,91104,6500.0,15000.0,,,Zillow,This price far exceeds the fair market value by more than 160%
+2025-01-15 11:16:54.889,,10856 Plainview Ave,Tujunga,CA,91042,4100.0,8500.0,,,Trulia,
+2025-01-15 11:18:57.656,,3247B N Big Dalton Ave,Baldwin Park,CA,91706,3800.0,4200.0,,,Trulia,
+2025-01-15 11:18:57.925,2182016006,4800 Zelzah Ave,Encino,CA,91316,35000.0,49500.0,,,Zillow,
+2025-01-15 11:20:41.592,8616018034,705 W Hollyvale St,Azusa,CA,91702,4950.0,5950.0,,,Trulia,
+2025-01-15 11:21:11.750,4238021045,305 Venice Way,Venice,CA,90291,15000.0,20000.0,,,Zillow,owners are loopholing by listing as a sale but backdoor renting for 33% more
+2025-01-15 11:22:26.453,,286 N Madison Ave,Pasadena,CA,91101,2970.0,3470.0,,,Truilia,
+2025-01-15 11:24:09.879,,Melrose and N Harvard Blvd just below Western,Los Angeles,CA,90046,1999.0,2195.0,,,Facebook,
+2025-01-15 11:24:24.840,,267 Barthe Dr #14,Pasadena,CA,91103,2292.0,2850.0,,,Trulia,
+2025-01-15 11:25:08.222,2551046006,11141 McVine Ave,Sunland,CA,91040,6750.0,8075.0,,,Trulia,
+2025-01-15 11:33:42.531,2531010019,11843 Apple Grove Ln,Sylmar,CA,91342,8000.0,9546.0,,,Trulia,
+2025-01-15 11:45:52.582,5821003015,438 Somerset Pl,"La Canada Flintridge,",CA,91101,12500.0,16000.0,,,Zillow,
+2025-01-15 11:48:07.353,,190 S Marengo Ave #12,Pasadena,CA,91101,1458.0,1850.0,,,Trulia,
+2025-01-15 11:52:12.830,,202 S Raymond Ave #7,Pasadena,CA,91105,2020.0,3010.0,,,Trulia,
+2025-01-15 12:23:11.988,,3319 Lowry Rd,Los Angeles,CA,90027,11500.0,14995.0,,,Zillow,
+2025-01-15 12:25:19.013,,3321 E Colorado Blvd #25,Pasadena,CA,91107,1900.0,2300.0,,,Trulia,
+2025-01-15 12:32:14.929,8500091095,33 Sage Ln,Bell Canyon,CA,91307,25000.0,28000.0,,,Zillow,
+2025-01-15 12:35:38.303,,1016 Balboa Blvd E,Newport Beach,CA,92661,30000.0,35000.0,,,Zillow,
+2025-01-15 12:36:41.112,2265004009,4504 Cedros Ave,Sherman Oaks,CA,91403,18000.0,25000.0,,,Zillow,
+2025-01-15 12:37:24.746,,415 W. Lemon Ave.,Monrovia,CA,91016,2950.0,8700.0,,,Zillow,They have hidden the address since being called out on price gouging in a local facebook group. The rental rate is 3x the average here in Mornovia.
+2025-01-15 12:41:26.644,5259015008,202 S Sierra Vista St,Monterey Park,CA,91755,4500.0,4800.0,,,Zillow,"we've been looking for homes unrelated to the fires. this home was of interest and we have an ongoing spreadsheet with information on the listings. When I went back to check on this property I noticed that the price increased. there is no price history on homes.com, this information is only through my personal data."
+2025-01-15 12:41:34.943,4494010023,716 Rochedale Way,Los Angeles,CA,90049,8995.0,12000.0,,,Zillow,
+2025-01-15 12:43:31.661,2182016006,4800 Zelzah Ave,Encino,CA,91316,35000.0,49500.0,,,Zillow,
+2025-01-15 12:43:46.878,4352001008,1829 Coldwater Canyon Dr,Beverly Hills,CA,90210,34950.0,44000.0,,,Zillow,
+2025-01-15 12:44:11.246,,80 Virginia Ave,Pasadena,CA,91107,4150.0,8700.0,,,Zillow,"Another unit in this complex is $4150 per month and is also 1800 square feet, identical in size to this one. (please see these listings' rent estimate:"
+2025-01-15 12:46:09.556,,MW Lofts - 218 N El Molino Ave,Pasadena,CA,91101,4949.0,5240.0,,,,"I am attaching screenshots of the price fluctuation. This apartment building is right next to the evacuation zone in Pasadena. Shortly after the fire i saw rent prices almost double, and then keep fluctuating early this week. Today, the building lowered the rent. Every other day the rents keep changing. I dont think this is legal."
+2025-01-15 12:46:12.615,5970060115,3298 Sunset Hills Blvd,Thousand Oaks,CA,91362,5900.0,13500.0,,,Zillow,
+2025-01-15 12:51:38.103,,3420 Manhattan Ave,Manhattan Beach,CA,90266,13000.0,39000.0,,,Zillow,
+2025-01-15 12:53:09.375,4238009015,"1220 Cabrillo Ave, Venice, CA 90291",Venice,CA,90291,19975.0,27450.0,,,Zillow,
+2025-01-15 12:55:37.049,4452003071,22548 Pacific Coast Hwy UNIT 408,Malibu,CA,90265,11500.0,15000.0,,,Zillow,
+2025-01-15 12:59:02.821,2072013006,23625 Summit Dr,Calabasas,CA,91302,7500.0,12000.0,,,Zillow,
+2025-01-15 13:02:48.185,11771130,222 Evening Star Ln,Newport Beach,CA,92660,18900.0,25000.0,,,Zillow,
+2025-01-15 13:15:44.067,4291031036,1366 Palisades Beach Rd,Santa Monica,CA,90401,12500.0,19750.0,,,Zillow,
+2025-01-15 13:21:56.265,2184057001,3900 Hilton Head Way,Tarzana,CA,91356,14500.0,16900.0,,,Zillow,
+2025-01-15 13:27:42.593,,(Undisclosed Address),Calabasas,CA,91302,12950.0,23500.0,,,Zillow,
+2025-01-15 13:30:41.652,4345034006,817 N Whittier Dr,Beverly Hills,CA,90210,150000.0,195000.0,,,Zillow,
+2025-01-15 13:30:58.947,,(Undisclosed Address),West Hills,CA,91304,12800.0,19800.0,,,Zillow,
+2025-01-15 13:37:53.234,4329008163,2243 Century Hl,Los Angeles,CA,90067,8500.0,9400.0,,,Zillow,
+2025-01-15 13:39:02.051,4456035013,25736 Punto De Vista Dr,Calabasas,CA,91302,18000.0,35000.0,,,Zillow,"""INSURANCE CLAIMS REHOUSING WELCOMED!...generator in case there is a loss of power."""
+2025-01-15 14:13:31.402,2177008030,4338 Gayle Dr,Tarzana,CA,91356,22500.0,28000.0,,,Zillow,
+2025-01-15 14:34:53.514,09024320,1879 S Norma Ln,Anaheim,CA,92802,11000.0,16000.0,,,Zillow,
+2025-01-15 14:42:07.187,15331311,9372 Nantucket Dr,Huntington Beach,CA,92646,14000.0,22000.0,,,Zillow,
+2025-01-15 14:44:11.682,na,5923 Carlton Way #1B-1BA,Los Angeles,CA,90028,1650.0,1895.0,,,Zillow,
+2025-01-15 14:48:10.764,na,17 Northstar St #105,Marina Del Rey,CA,90292,4698.0,5398.0,,,Zillow,"the place was listed for even less on 1/1, they raised it 4% on 1/9 and then 14% more on the 13th. so it's even worse!"
+2025-01-15 14:58:11.612,16721403,17151 Orange St,Fountain Valley,CA,92708,10000.0,12000.0,,,Zillow,
+2025-01-15 15:01:28.495,47845217,4 Highpoint,Newport Coast,CA,92657,25000.0,29995.0,,,Zillow,
+2025-01-15 15:02:29.515,5440026026,2438 Riverside Pl,Los Angeles,CA,90039,14000.0,22000.0,,,Redfin,
+2025-01-15 15:04:58.490,,20305 Chapter Drive,Woodland Hills,CA,91364,7700.0,9500.0,,,Trulia,
+2025-01-15 15:26:52.645,4391-016-004,380 Trousdale Pl,Beverly Hills,CA,90210,50000.0,88000.0,,,Zillow,
+2025-01-15 15:32:06.441,4356-014-022,9982 Beverly Grove,Beverly Hills,CA,90210,65000.0,85000.0,,,Zillow,
+2025-01-15 15:37:53.408,4348-003-014,1124 Marilyn Dr,Beverly Hills,CA,90210,65000.0,75000.0,,,Zillow,
+2025-01-15 15:37:59.864,,1104 Casiano Road,Los Angeles,CA,90049,8950.0,12900.0,,,Trulia,
+2025-01-15 15:38:40.912,6345016043,204 N Woodland Ct,Montebello,CA,90640,3500.0,7500.0,,,Zillow,
+2025-01-15 15:42:03.963,5562-019-012,2189 Sunset Plaza Dr,Los Angeles,CA,90069,35000.0,45000.0,,,Zillow,
+2025-01-15 15:45:45.037,2839054022,16308 Mountain Ln,Santa Clarita,CA,91387,12350.0,13950.0,,,Zillow,
+2025-01-15 15:46:06.931,4341-036-014,813 N Doheny Dr,Beverly Hills,CA,90210,22975.0,39975.0,,,Zillow,This agent raised the prices on all his listings. Multiple violations
+2025-01-15 15:48:55.011,4459021017,26172 Pacific Coast Hwy,Malibu,CA,90265,16500.0,19500.0,,,Zillow,
+2025-01-15 15:50:50.745,5526-003-019,832 N Sierra Bonita Ave,Los Angeles,CA,90046,20950.0,27950.0,,,Zillow,
+2025-01-15 15:52:17.565,na,10660 W Wilshire Blvd #309,los angeles,CA,90024,7700.0,9000.0,,,Zillow,
+2025-01-15 15:52:21.775,2010008004,22008 Gresham St,Canoga Park,CA,91304,12000.0,14000.0,,,Zillow,
+2025-01-15 15:57:05.073,4352-001-053,1849 Coldwater Canyon Dr,Beverly Hills,CA,90210,24000.0,35000.0,,,Zillow,This agent dramatically raised the prices of at least 4 listings
+2025-01-15 15:58:40.497,2692012005,17025 Labrador St,Northridge,CA,91325,6800.0,8500.0,,,Zillow,
+2025-01-15 15:58:46.587,2040003013,5902 fallbrook Ave,woodland hills,CA,91367,4300.0,7500.0,,,Zillow,
+2025-01-15 16:04:10.505,5527-008-016,721 N Spaulding Ave,Los Angeles,CA,90046,20000.0,30000.0,,,Zillow,Agent repeat offender
+2025-01-15 16:07:03.777,,5450 Oakdale Ave,Woodland Hills,CA,91364,6900.0,8000.0,,,Zillow,
+2025-01-15 16:07:16.097,2153025005,5735 Melvin Ave,Tarzana,CA,91356,12000.0,15000.0,,,Zillow,
+2025-01-15 16:10:23.606,5527010018,735 N Ogden Dr,Los Angeles,CA,90046,10500.0,12000.0,,,Zillow,
+2025-01-15 16:10:48.967,Parcel number: 2163007022,5150 calvin ave,tarzana,CA,91356,14900.0,19000.0,,,Zillow,
+2025-01-15 16:18:31.987,5068027006,5911 Saturn St,Los Angeles,CA,90035,7000.0,8000.0,,,Zillow,
+2025-01-15 16:23:16.285,15139313,20111 Glacier Cir,Huntington Beach,CA,92646,6300.0,9000.0,,,Zillow,
+2025-01-15 16:23:50.757,,916 Georgia St,Los Angeles,CA,90016,1095.0,3200.0,,,Zillow,
+2025-01-15 16:25:20.688,Parcel number: 2174023033,20305 Chapter Dr,Woodland Hills,CA,91346,7700.0,9500.0,,,Zillow,
+2025-01-15 16:26:23.589,6790142075,2179 La Granada Dr,Thousand Oaks,CA,91362,5500.0,8500.0,,,Zillow,
+2025-01-15 16:27:31.610,5527010018,735 N ogden dr,los angeles,CA,90046,10500.0,12000.0,,,Zillow,
+2025-01-15 16:27:41.605,2692012005,17025 Labrador St,Northridge,CA,91325,6800.0,8500.0,,,Zillow,
+2025-01-15 16:27:53.101,2168007034,5252 Darro Rd,Woodland Hills,CA,91364,17999.0,24999.0,,,Zillow,
+2025-01-15 16:29:05.942,4339018038,8875 Cynthia St #B,West Hollywood,CA,90069,7999.0,9995.0,,,Zillow,
+2025-01-15 16:29:09.612,Parcel number: 2701050031,20552 Bergamo Way,Porter Ranch,CA,91326,13500.0,15500.0,,,Zillow,
+2025-01-15 16:30:37.668,4345008005,809 N Roxbury Dr,Beverly Hills,CA,90210,30000.0,37500.0,,,Zillow,
+2025-01-15 16:33:44.378,4388006011,2290 gloaming way,beverly hills,CA,90210,13500.0,14850.0,,,Zillow,
+2025-01-15 16:37:38.347,,"11019 Hartsook St, North Hollywood, CA 91601",North Hollywood,CA,91601,1050.0,1450.0,,,Zillow,
+2025-01-15 16:43:06.201,12722615,9631 Random Dr,Anaheim,CA,92804,7950.0,9950.0,,,Zillow,
+2025-01-15 16:47:01.864,,1716 N Sierra Bonita Ave,Pasadena,CA,91104,1881.0,2700.0,,,Zillow,Last listing in 2023
+2025-01-15 16:48:03.115,12752402,9962 Pacific Ave,Anaheim,CA,92804,3595.0,8500.0,,,Zillow,
+2025-01-15 16:49:28.806,,1915 Minoru Dr APT 1C,Altadena,CA,91001,1850.0,2095.0,,,Zillow,
+2025-01-15 16:49:33.989,na,5450 oakdale ave,woodland hills,CA,91364,6900.0,8000.0,,,Zillow,
+2025-01-15 16:56:25.987,53001202,13 Glorieta W,Irvine,CA,92620,5500.0,8000.0,,,Zillow,
+2025-01-15 16:57:28.309,,11271 Otsego St #204,North Hollywood,CA,91601,2195.0,2495.0,,,Zillow,
+2025-01-15 16:59:39.138,5068027006,5911 saturn st,los angeles,CA,90035,7000.0,8000.0,,,Zillow,
+2025-01-15 17:00:22.629,5555-028-013,8262 Woodshill Trl,Los Angeles,CA,90069,22995.0,40000.0,,,Zillow,
+2025-01-15 17:06:21.017,,3360 Tyburn St,Los Angeles,CA,90039,2300.0,5600.0,,,Zillow,
+2025-01-15 17:12:13.013,,141 HOLLISTER AVE,Santa Monica,CA,90405,25000.0,48000.0,,,Zillow,
+2025-01-15 17:12:20.223,5424022015,2511 Brighton Avenue NE,Minneapolis,Other,55418,2000.0,2000.0,,,Zillow,
+2025-01-15 17:12:26.711,,6015 Saturn Street,Los Angeles,CA,90035,3000.0,3400.0,,,Zillow,Originally found listing on Trulia (same prices & price hike)
+2025-01-15 17:12:51.739,,(Undisclosed Address),Reseda,CA,91335,3995.0,8500.0,,,Zillow,
+2025-01-15 17:18:24.885,5447013093,200 N San Fernando Rd APT 514,Los Angeles,CA,90031,4995.0,6000.0,,,Zillow,Last listing on 2023
+2025-01-15 17:19:46.553,5709032022,280 Cherry Drive,Pasadena,CA,91105,5480.0,6800.0,,,Zillow,
+2025-01-15 17:22:11.882,,11659 Chandler Blvd APT 8,north hollywood,CA,91601,1495.0,1695.0,,,Zillow,"three units available in the apartment, all prices updated 1/15/25"
+2025-01-15 17:22:12.412,,11659 Chandler Blvd APT 8,north hollywood,CA,91601,1595.0,1895.0,,,Zillow,
+2025-01-15 17:22:16.023,,11659 Chandler Blvd APT 4,north hollywood,CA,91601,1495.0,1895.0,,,Zillow,
+2025-01-15 17:23:28.905,,1526 E 1st St #1,Los Angeles,CA,90033,1500.0,2000.0,,,Zillow,
+2025-01-15 17:25:59.812,,4657 Tujunga Ave APT 101,North Hollywood,CA,91602,2400.0,3250.0,,,Zillow,
+2025-01-15 17:30:16.434,4345012009,2511 Brighton Avenue NE,Minneapolis,Other,55418,50000.0,60000.0,,,Zillow,
+2025-01-15 17:34:08.916,10333240,13341 Cromwell Dr,Tustin,CA,92780,6500.0,9000.0,,,Zillow,
+2025-01-15 17:34:27.496,5649023027,1928 Melwood Dr,Glendale,CA,91207,15000.0,25000.0,,,Zillow,The list price of this home rental increased 66.6% after the fires began. It has been rented and taken off the rental market as of 1/9/25.
+2025-01-15 17:39:46.436,7238009016,"6817 E Bacarro St,",Long Beach,CA,90815,6999.0,8999.0,,,Zillow,
+2025-01-15 17:39:58.568,,Undisclosed address,Los Angeles,CA,90019,6000.0,12500.0,,,Zillow,
+2025-01-15 17:40:41.760,5151027117,800 W 1st St Apt 1609,Los Angeles,CA,90012,2200.0,2500.0,,,Zillow,
+2025-01-15 17:43:37.006,5577032002,6445 Deep Dell Pl,Los Angeles,CA,90068,9500.0,10450.0,,,Zillow,
+2025-01-15 17:48:21.601,4337008019,613 Westmount Dr.,West Hollywood,CA,90069,10895.0,11995.0,,,Zillow,
+2025-01-15 17:49:25.282,,10910 Hesby St #B,North hollywood,CA,91601,3800.0,4300.0,,,Zillow,
+2025-01-15 17:51:27.090,,11410 Dona Pegita Dr,Studio City,CA,91604,11500.0,13000.0,,,Zillow,
+2025-01-15 17:52:48.418,2338009014,5902 Lemp Ave,north hollywood,CA,91601,4900.0,5390.0,,,Zillow,
+2025-01-15 17:57:07.615,,11259 Otsego St APT 1,north hollywood,CA,91601,1895.0,2150.0,,,Zillow,
+2025-01-15 18:03:43.022,,"1128 S. Shenandoah St., Unit 101",Los Angeles,CA,90035,7000.0,10000.0,,,Rent.com,"We found this listing on Compass.com and Rent.com. The listing said 3, 6 & 12 month leases available. Compass.com listed the rent at $8,000 per month and Rent.com listed it at $7,000 per month. We toured the company and inquired about rent for a month-to-month lease. The agent responded ""For under 3 month owner wants 12K 6 months 10K"" The listing agent then claimed the $8000 was for no furnishing, despite the compass listing stating it is furnished. She is lying and spinning. She was very coy about providing a monthly rental rate."
+2025-01-15 18:06:13.138,,2112 E 4th St #2112,Los Angeles,CA,90033,2275.0,3500.0,,,Zillow,"When I google the address 2112 E 4th St #2112, Los Angeles, CA 90033, the top link says $2,275, but when I click on that top link, it comes up as 'unavailable'..."
+2025-01-15 18:06:43.777,,4013 Galapagos Way,Oxnard,CA,93035,17000.0,26250.0,,,Zillow,
+2025-01-15 18:11:00.415,,11431 Tiara St #2,north hollywood,CA,91601,1950.0,2400.0,,,Zillow,
+2025-01-15 18:12:50.387,5013019025,5107 11th Ave,Los Angeles,CA,90043,6800.0,8000.0,,,Zillow,
+2025-01-15 18:13:43.876,4348013030,1141 Summit Dr.,Beverly Hills,CA,90210,175000.0,195000.0,,,Zillow,
+2025-01-15 18:16:00.373,,5010 Tujunga Ave APT 1,north hollywood,CA,91601,1499.0,1699.0,,,Zillow,
+2025-01-15 18:16:07.635,5586032006,1735 Taft Ave,Los Angeles,CA,90028,6500.0,9500.0,,,Zillow,Last listing in 2023 before 46% increase
+2025-01-15 18:18:16.633,,1104 Exposition Blvd UNIT 2,LA,CA,90007,1164.0,7400.0,,,Zillow,
+2025-01-15 18:23:09.518,5513007016,106 N Citrus Ave,Los Angeles,CA,90036,6500.0,18000.0,,,Zillow,"Owner's address is 1951 N Beachwood Dr Apt 304, Los Angeles CA 90068-4077"
+2025-01-15 18:27:47.850,,1355 N Gardner St Apt 3,Los Angeles,CA,90046,2200.0,2495.0,,,Zillow,Hotpads.com has the same listing and their site shows the info was updated 15 days ago
+2025-01-15 18:32:20.345,5083003015,1012 Keniston Ave,Los Angeles,CA,90019,9500.0,15000.0,,,Zillow,
+2025-01-15 18:36:36.814,5090028052,822 S Plymouth Blvd #2,Los Angeles,CA,90005,5900.0,6500.0,,,Zillow,
+2025-01-15 18:37:39.917,2428013003,2928 Las Alturas St,Los Angeles,CA,90068,12000.0,24500.0,,,Zillow,
+2025-01-15 18:37:43.721,,6858 Fountain Ave,Los Angeles,CA,90038,3250.0,3850.0,,,Zillow,
+2025-01-15 18:37:54.395,5558029015,8634 Hillside Ave,Los Angeles,CA,90069,26950.0,29645.0,,,Zillow,
+2025-01-15 18:39:57.735,,9907 National Blvd,Los Angeles,CA,90034,4000.0,5000.0,,,Zillow,
+2025-01-15 18:43:23.720,5586032006,1735 Taft Ave,Los Angeles,CA,90028,6500.0,9500.0,,,Zillow,
+2025-01-15 18:45:40.451,,7015 Wrightcrest Drive,Culver City,CA,90232,20000.0,25000.0,,,Zillow,
+2025-01-15 18:46:07.765,4204013017,7015 Wrightcrest Drive,Culver City,CA,90232,20000.0,25000.0,,,Zillow,
+2025-01-15 18:48:34.146,,170 N Crescent Dr APT 204,Beverly Hills,CA,90210,3498.0,4498.0,,,Zillow,
+2025-01-15 18:48:51.573,,1800 N Allen Ave,Pasadena,CA,91104,4900.0,5385.0,,,Zillow,It looks like they tried to hide the price increase by changing it multiple times over the last week - but it still equals a 10.15 increase overall from the December cost.
+2025-01-15 18:49:22.230,5436009020,"3180 Casitas Ave, Los Angeles, CA 90039",Los Angeles,CA,90027,2400.0,2600.0,,,Zillow,Raised rent 8.3% on 1/14/25 (listed 12/21/24).
+2025-01-15 18:50:35.848,2380014040,3319 Wrightwood Dr,Studio City,CA,91604,9500.0,10000.0,,,Zillow,"Was $9000 at 12/31/2024, increased to $9500 on 1/10/2025, then increased AGAIN to $10000 on 1/13/2025"
+2025-01-15 18:53:03.072,4392009014,9243 Cordell Dr,Los Angeles,CA,90069,16000.0,29000.0,,,Zillow,
+2025-01-15 18:53:42.717,,600 N Soto St APT 101,Los Angeles,CA,90033,1828.0,2700.0,,,Zillow,"Price from 12/12/2024 - 1/4/2025 price was $1,828, went up 47.7% on 1/14/2025!!!"
+2025-01-15 18:53:46.999,4385015025,2766 Ellison Dr,Beverly Hills,CA,90210,38300.0,50000.0,,,Zillow,
+2025-01-15 18:54:14.621,,691 S Marengo Ave APT 4,Pasadena,CA,91106,2595.0,3600.0,,,Zillow,
+2025-01-15 18:59:35.601,,965 E Del Mar Blvd APT 5,Pasadena,CA,91106,1995.0,3400.0,,,Zillow,"This one feels a little sneaky, but still very suspicious. The property was sold in 2015 but listed for rent on 1/12/25 for +70.4% above the last documented rental price."
+2025-01-15 19:02:28.925,2376012001,3639 Shady Oak Rd,Studio City,CA,91604,28500.0,36000.0,,,Zillow,
+2025-01-15 19:03:37.163,,1156 N Lake Ave,Pasadena,CA,91104,2200.0,3120.0,,,Zillow,
+2025-01-15 19:05:59.233,,6268 N San Gabriel Blvd APT 3,San Gabriel,CA,91775,2195.0,2595.0,,,Zillow,
+2025-01-15 19:06:58.634,2265004009,4504 Cedros Ave,Sherman Oaks,CA,91403,18000.0,25000.0,,,Zillow,
+2025-01-15 19:07:08.997,,9982 Beverly Grove Dr,Beverly Hills,CA,90210,65000.0,85000.0,,,Redfin,
+2025-01-15 19:11:24.370,4369022011,10824 Chalon Road,Los Angeles,CA,90077,65000.0,75000.0,,,Zillow,
+2025-01-15 19:20:11.515,5549028023,6830 Alta Loma Ter,Los Angeles,CA,90068,5800.0,9750.0,,,Zillow,
+2025-01-15 19:20:29.773,,9722 Royce Ct,Beverly Hills,CA,90210,28000.0,35000.0,,,Redfin,
+2025-01-15 19:23:06.374,,220 E Live Oak St APT 15,San Gabriel,CA,91776,2095.0,2695.0,,,Zillow,
+2025-01-15 19:23:47.868,0720126210,1245 Buena Vista Street,Ventura,CA,93001,14000.0,20000.0,,,Zillow,
+2025-01-15 19:25:00.778,,400 E Live Oak St APT 12,San Gabriel,CA,91776,1545.0,2145.0,,,Zillow,
+2025-01-15 19:31:44.353,0690290085,2712 Cameron Walk,Ventura,CA,93001,5750.0,7950.0,,,Zillow,Rent decreased to 6325 on 01/15/2025 BUT STILL
+2025-01-15 19:33:10.149,,3182 Abington Dr,Beverly Hills,CA,90210,28950.0,31995.0,,,Redfin,
+2025-01-15 19:37:16.775,,4141 Hayvenhurst Ave,Encino,CA,91436,25000.0,30000.0,,,Redfin,
+2025-01-15 19:48:24.145,,8744 Skyline Dr,Los Angeles,CA,90046,18900.0,29500.0,,,Redfin,
+2025-01-15 20:12:44.212,7259012032,1456 Newport Ave,Long Beach,CA,90804,7998.0,8998.0,,,Zillow,
+2025-01-15 20:14:21.908,2345018056,5237 Leghorn Ave,Van Nuys,CA,91401,5500.0,7000.0,,,Zillow,
+2025-01-15 20:25:02.495,,213 17th St APT A,Huntington Beach,CA,92648,7800.0,9000.0,,,Zillow,
+2025-01-15 20:58:14.119,,7501 S Central Ave,Los Angeles,CA,90001,1500.0,1950.0,,,Apartments.com and Prime West Management site,2 weeks ago described as “renting for $1500” on apartments.com; Prime West Management has history of tenant exploitation
+2025-01-15 21:52:07.878,5555028013,8262 Woodshill Trl,Los Angeles,CA,90069,22995.0,40000.0,,,Zillow,74% rental price increase in days after tragic fires.
+2025-01-15 21:55:51.894,4345034006,817 N Whittier Dr,Beverly Hills,CA,90210,150000.0,195000.0,,,Zillow,
+2025-01-15 22:14:40.545,8549006042,12311 Deana Street,El Monte,CA,91732,7000.0,11200.0,,,Zillow,this house has been empty since novish? its  in the same area as me.  way above marketing price for the area. they removed the listing but they put this listing on airbnb so it might be rented off of there.
+2025-01-15 22:20:50.350,2172010048,4661 Bedel St,Woodland Hills,CA,91364,1.0,12500.0,,,Zillow,Sold in 2021 and suddenly listed for rent at an astronomically above market rate for this type and size of dwelling 5 days after the fires began.
+2025-01-15 22:45:24.450,,137 S Wilson Ave #209,Pasadena,CA,91106,3999.0,4498.0,,,Compass,
+2025-01-15 22:51:59.209,,137 S. Wilson Ave #301,Pasadena,CA,91106,3995.0,4195.0,,,Zillow,"Just delisted, I think they got spooked..."
+2025-01-15 23:16:56.362,,617 N Plymouth Blvd.,Los Angeles,CA,90004,3800.0,5400.0,,,Zillow,"Price increased by 42% from December 2024 on Jan. 13, 2025. It's listed on Zillow with ""(Undisclosed address),"" which may be to make it more difficult to report. A quick Google search of the description led me to the listing and address on the leasing site ( while they don't specify apartment number, the listing indicates they have four furnished units available like this one."
+2025-01-15 23:36:42.641,,3321 E Colorado Blvd #25,Pasadena,CA,91107,1900.0,2300.0,,,Zillow,"Price jumped 21.1% on 1/15/2025 from previous listing on 10/21/2024. Note that this location is particularly close to a fire/evac zone. Additionally, the post offers a ""special rate for fire evacuated victims"" of $2100, which is still a 10.5% increase from the previous listing price in October. Also note that this is listed as a ""micro studio"" at just 340 sq ft of livable area."
+2025-01-15 23:42:00.963,,141 HOLLISTER AVENUE,Santa Monica,CA,90405,25000.0,30000.0,,,Zillow,"Leased for $48,000"
+2025-01-16 00:12:34.236,,10780 Andora Ave,Chatsworth,CA,91311,3995.0,4800.0,,,Zillow,Listing priced jumped 20.2% from previous listing date of 10/1/24 to new listing date of 1/15/25; lease appears to be month-to-month (could be targeting evacuees)
+2025-01-16 00:13:35.356,5576007041,6160 San Vicente Blvd,Los Angeles,CA,90048,8750.0,11000.0,,,Zillow,
+2025-01-16 00:16:16.532,5576007041,6446 Deep Dell Pl,Los Angeles,CA,90068,26800.0,31000.0,,,Zillow,
+2025-01-16 00:29:33.561,5144020145,801 S Grand Ave APT 2010,Los Angeles,CA,90017,5500.0,8500.0,,,Zillow,"Price jumped 54.5% on 1/14/25, from last listing price in Oct. 2024"
+2025-01-16 00:31:16.010,8712037001,1210 N Country Hollow Dr,Walnut,CA,91789,7500.0,9000.0,,,Zillow,
+2025-01-16 00:33:44.273,93819315,126 Donati,Irvine,CA,92602,9600.0,14400.0,,,Zillow,
+2025-01-16 00:39:53.906,,21 Lakefront,Irvine,CA,92604,7200.0,14454.0,,,Zillow,
+2025-01-16 00:40:33.304,,10660 W Wilshire Blvd #309,Los Angeles,CA,90024,7700.0,9000.0,,,Zillow,Rent raised 16.9% on 1/14/25 from previous price on 11/3/24
+2025-01-16 00:45:04.187,5970060115,3298 Sunset Hills Blvd,Thousand Oaks,CA,91362,5900.0,13500.0,,,Zillow,
+2025-01-16 00:46:42.013,4392009014,9243 Cordell Dr,Los Angeles,CA,90069,16000.0,29000.0,,,Zillow,Rent increase of 81.3% on 1/14/25 from previous listing price in Sept. 2024
+2025-01-16 00:51:48.148,4339018038,"8875 Cynthia St #B,",West Hollywood,CA,90069,7999.0,9995.0,,,Zillow,Rent increased 25% on 1/15/25 from previous listing price on 12/1/2024
+2025-01-16 00:53:46.203,6990190645,2398 Leeward Cir,Westlake Village,CA,91361,8500.0,12000.0,,,Zillow,
+2025-01-16 00:59:55.782,4469031003,6447 Surfside Way,Malibu,CA,90265,11250.0,20000.0,,,Zillow,
+2025-01-16 07:50:00.899,,"636 N Juanita Ave #403, Los Angeles, CA 90004",Los Angeles,CA,90004,2665.0,4700.0,,,Zillow,
+2025-01-16 08:13:11.055,5510019017,6241 W 6th St,Los Angeles,CA,90048,5495.0,5695.0,,,Zillow,
+2025-01-16 08:17:02.131,,6369 Orange St #6369,Los Angeles,CA,90048,4995.0,5200.0,,,Zillow,
+2025-01-16 08:57:27.949,4468022003,29712 zuma bay way,malibu,CA,90265,8995.0,9995.0,,,Zillow,
+2025-01-16 09:01:14.798,4329008163,2243 century hi,los angeles,CA,90067,8500.0,9400.0,,,Zillow,
+2025-01-16 09:36:53.433,2284014014,4450 Hayvenhurst Ave,Encino,CA,91436,12000.0,14000.0,,,Zillow,
+2025-01-16 09:44:40.175,4370013050,1859 Bel Air Rd,Los Angeles,CA,90077,58000.0,198000.0,,,Zillow,
+2025-01-16 09:46:28.735,2072007082,3548 Poppy Drive,Calabasas,CA,91302,6500.0,7500.0,,,Zillow,
+2025-01-16 09:47:54.090,,500 St Cloud Rd,Los Angeles,CA,90077,46000.0,175000.0,,,Zillow,Probably doesn't count but it should
+2025-01-16 09:52:06.070,5559010021,1369 Londonderry Pl,Los Angeles,CA,90069,33000.0,125000.0,,,Zillow,
+2025-01-16 09:54:22.507,2386012029,3534 Weslin Avenue,Sherman Oaks,CA,91423,14000.0,16000.0,,,Zillow,
+2025-01-16 09:55:15.443,4355005013,1531 Summitridge Dr,Los Angeles,CA,90210,17500.0,110000.0,,,Zillow,
+2025-01-16 09:55:50.985,na,923 20th st apt A,santa monica,CA,90403,10000.0,12000.0,,,Zillow,
+2025-01-16 09:59:08.383,2056012030,30556 Rainbow View Drive,Agoura Hills,CA,91301,6500.0,8500.0,,,Zillow,
+2025-01-16 10:03:52.900,4357014006,1288 Angelo Dr,Los Angeles,CA,90210,12000.0,100000.0,,,Zillow,
+2025-01-16 10:22:52.703,5510005014,6740 colgate ave,los angeles,CA,90048,8000.0,6500.0,,,Zillow,
+2025-01-16 10:26:03.201,2156021113,18730 hatteras st unit 49,tarzana,CA,91356,3650.0,7500.0,,,Zillow,
+2025-01-16 10:30:24.196,4117002013,111 waterview st,playa del rey,CA,90293,8995.0,9995.0,,,Zillow,
+2025-01-16 10:33:00.071,4181008022,449 29th st,hermosa beach,CA,90254,7500.0,8500.0,,,Zillow,
+2025-01-16 10:35:32.580,4371024018,920 beverly glen blvd,los angeles,CA,90077,9000.0,12000.0,,,Zillow,
+2025-01-16 10:39:07.805,7243003020,5829 e 2nd st,long beach,CA,90803,8000.0,9000.0,,,Zillow,
+2025-01-16 10:40:19.205,,2027 1/2 N Vermont Ave,Los Angeles,CA,90027,2480.0,3195.0,,,Zillow,
+2025-01-16 10:45:55.795,,2006 N Commonwealth Ave,Los Angeles,CA,90027,2450.0,2700.0,,,Zillow,
+2025-01-16 10:51:48.798,,6258 Shirley Avenue,Tarzana,CA,91335,3650.0,6200.0,,,Redfin,
+2025-01-16 10:59:07.560,2637018015,13730 Community St,Panorama City,CA,91402,12700.0,14700.0,,,Zillow,
+2025-01-16 11:02:04.940,,4001 Clarinda Drive,Tarzana,CA,91356,27000.0,34000.0,,,Redfin,
+2025-01-16 11:03:00.712,5588024017,2324 N Vermont Ave,Los Angeles,CA,90027,17850.0,20000.0,,,Zillow,
+2025-01-16 11:15:53.520,,625 S Burnside Ave #625.5,Los Angeles,CA,90036,4400.0,5000.0,,,Zillow,
+2025-01-16 11:16:15.754,,8107 Loyola Boulevard,Los Angeles,CA,90045,7368.0,17000.0,,,Redfin,"Property's rental history has been wiped clean, but a house DOUBLE the size down the street is being listed for less. Redfin lists comps on 8107 Loyola as $10,000 less than asking price."
+2025-01-16 12:15:32.522,,6370 E Tamarind,Oak Park,CA,91377,5900.0,6500.0,,,Zillow,
+2025-01-16 12:16:16.879,,18050 Industrial Street,Downtown LA,CA,90021,5000.0,9495.0,,,Redfin,
+2025-01-16 12:24:10.988,2281007004,15316 Del Gado Dr,Sherman Oaks,CA,91403,11500.0,12650.0,,,Zillow,
+2025-01-16 12:24:15.142,2054034115,5467 Clermont Court,Westlake Village,CA,91362,3550.0,4500.0,,,Zillow,
+2025-01-16 12:36:14.985,5768011011,109 N Lima St,Sierra Madre,CA,91024,5500.0,5900.0,,,Zillow,"They're technically within the 10% increase allowance to not be considered gouging, but compared to similar home rental prices from earlier this week, they were already listed higher than most would find reasonable."
+2025-01-16 12:55:26.746,5564008044,8660 Edwin Dr,Los Angeles,CA,90046,7500.0,11000.0,,,Zillow,
+2025-01-16 13:08:56.491,4280006033,921 Georgina Ave,Santa Monica,CA,90402,20000.0,30000.0,,,Zillow,"Price history remained the same from Sep 2023 - Aug 2024 at $20,000/month. Suddenly on 1/16/25, there was a 50% increase price, now listed at $30,000"
+2025-01-16 13:23:00.292,,7400 Hollywood Blvd APT 717,Los Angeles,CA,90046,2835.0,3250.0,,,Zillow,They have the same listing on their website ( with a different contact phone number [PHONE REDACTED]
+2025-01-16 13:26:35.832,4203017072,5903 Tellefson Rd,Culver City,CA,90230,12500.0,15000.0,,,Zillow,
+2025-01-16 13:44:49.083,2423016066,10740 Moorpark St APT 205,North Hollywood,CA,91602,3495.0,4950.0,,,Zillow,
+2025-01-16 13:52:40.063,,4653 1/2 Lincoln Ave,Los Angeles,CA,90041,3600.0,4500.0,,,Zillow,
+2025-01-16 13:59:08.772,4256012013,2567 South Sepulveda Boulevard,Los Angeles,CA,90064,2495.0,2750.0,,,Zillow,"On Tuesday (01/07/2025), I was looking for apartments and saved this listing on Zillow. I decided to schedule a tour on Wednesday (01/08/2025), because it was newly renovated, had a washer and dryer in-unit, and the price was within my budget, $2,495. On Sunday (01/12/25), I checked the listing, to prepare for the tour, and noticed the price increased. On Monday (01/13/24), I met with Yonathan Tefera to tour the apartment. I asked him why the price had increased and if is set or if the previous price could be upheld. He stated that it was because of the renovations and new appliances, and it is a great price for what is being offered. However, when I first looked at the apartment, the description mentioned the renovations. Maybe I don’t understand how pricing works when renovations are being done, but as a renter, I was under the impression those renovations were already completed at the time it was priced at $2,495. I did not clarify whether there was anything done over the weekend but the pictures on Zillow do not have anything different from what I saw when I toured. I have videos of the property, if needed.
+The building is small, with a maximum of around 5-6 units. Yonathan shared that the previous resident lived in the unit I was touring for, I believe, 10+ years."
+2025-01-16 14:14:28.022,5580005017,2490 Cheremoya Ave,Los Angeles,CA,90068,4695.0,10000.0,,,Zillow,
+2025-01-16 15:02:27.138,4360026027,"759 S Beverly Glen Blvd,",Los angeles,CA,90024,16995.0,25000.0,,,Zillow,
+2025-01-16 15:21:58.324,2263020007,"14808 Huston St, Sherman Oaks",CA,CA,91403,6488.0,9500.0,,,Zillow,
+2025-01-16 15:35:30.579,5730001014,454 E Washington Blvd,Pasadena,CA,91104,3495.0,4000.0,,,Zillow,I enquired about a viewing on 7th Jan when the cost was 3495 - they got back to me today for the first time to try and organise a viewing and the price has gone up to 4000. I've screenshot the rental history - i don't know if they've managed to edit it to look like the listing was removed in December and only reuploaded today as that's what the screenshot looks like to me - however this listing has 100% been live throughout January as i have an enquiry message i sent on 7th Jan. I'll attach the screenshot so you can see what i mean. They've definitely price gouged today.
+2025-01-16 15:51:39.809,4342037037,432 N Oakhurst Dr #407,Beverly Hills,CA,90210,18800.0,25000.0,,,Zillow,"The below listing was priced at $18,000 on 11/4/24 and then between 1/9,(when the fires were in full swing) and today 1/16 the price has been flip flopping up to $25,000 a 26.3% increase since the LA fires. This is illegal and sickening and this agent and the condo should be reprimanded."
+2025-01-16 16:27:33.009,4341024004,608 N Alpine Dr,Beverly Hills,CA,90210,89950.0,114950.0,,,Zillow,
+2025-01-16 17:08:07.078,,2939 W Leeward Ave UNIT 515,Los Angeles,CA,90005,3600.0,4800.0,,,Zillow,33.3% price increase from 12/6/24 on 1/16/25
+2025-01-16 17:17:33.120,,837 S Harvard Blvd APT 603,Los Angeles,CA,90005,2900.0,4500.0,,,Zillow,"Listed with undisclosed address on 1/9/25, previous listing of same address and unit can be found here:"
+2025-01-16 17:55:35.253,,1248 Elden Ave APT 201,Los Angeles,CA,90006,2375.0,2975.0,,,Zillow,"26.3% price increase from 2020 on 1/14/25, then slight 0.8% decrease on 1/16/25"
+2025-01-16 18:06:43.415,4469038026,6249 Tapia Dr,Malibu,CA,90265,8500.0,15000.0,,,Zillow,
+2025-01-16 18:13:31.910,8500032255,149 Buckskin Rd,Bell Canyon,CA,91307,6200.0,15000.0,,,Zillow,
+2025-01-16 18:16:43.139,6790111065,2506 Sapra St,Thousand Oaks,CA,91362,8200.0,11000.0,,,Zillow,
+2025-01-16 18:21:08.445,4329009136,2112 century park lane unit 408,Los Angeles,CA,90067,4575.0,6500.0,,,Zillow,"It was for rent for 2 months for 4,750  and right after the fires they removed it for 6 days and put it back on for 30%+ increase"
+2025-01-16 18:23:13.284,2161004052,5206 Topeka Dr,Tarzana,CA,91356,10950.0,14950.0,,,Zillow,
+2025-01-16 18:25:09.820,4358009005,1127 Angelo Dr,Beverly Hills,CA,90210,7900.0,15000.0,,,Zillow,
+2025-01-16 18:28:49.595,2733026049,10552 Andasol Ave,Granada Hills,CA,91344,5250.0,8250.0,,,Zillow,
+2025-01-16 19:13:43.801,,"4653 1/2 Lincoln Ave, Los Angeles, CA 90041",Los Angeles,CA,90041,3600.0,4500.0,,,Zillow,Looks like it's been vacant/unrented since at least Sept '24 according to Zillow pricing/availability
+2025-01-16 19:23:34.645,,1025 S Berendo St #402,Los Angeles,CA,90006,1833.0,2175.0,,,Zillow,18.7% price increase from 9/4/2020 on 1/16/25
+2025-01-16 19:44:00.263,5560026011,1255 Hilldale Ave,West Hollywood,CA,90069,14995.0,16495.0,,,Redfin,"Listed (and removed) several times last year, always at $14995; removed in December, at that price, then added post-fires at $16495"
+2025-01-16 19:48:55.897,5870024002,2222 Canalda Drive,La Canada Flintridge,CA,91011,8700.0,12000.0,,,Compass.com,"Clients applied for it and were accepted at $8700. Then told the ""new price"" was $12k."
+2025-01-16 19:55:08.373,4265020115,11906 Gorham Ave. Apt #8,Los Angeles,CA,90049,3450.0,4345.0,,,Zillow,
+2025-01-16 20:02:55.932,2275022008,14614 Deervale Pl,Sherman Oaks,CA,91403,20000.0,35000.0,,,Zillow,"Last listed this time last year, for 75% less"
+2025-01-16 20:03:47.235,5492016007,5938 Echo Street,Los Angeles,CA,90039,4900.0,5500.0,,,Zillow,
+2025-01-16 21:12:59.741,2040003013,5902 fallbrook ave,Woodland hills,CA,91367,4300.0,7500.0,,,Zillow,
+2025-01-16 21:18:34.206,2415018007,5623 Denny Ave,North Hollywood,CA,91601,3200.0,4250.0,,,Zillow,
+2025-01-16 21:26:06.637,,530 W Knoll Dr APT E,Los Angeles,CA,90048,2295.0,3495.0,,,Zillow,
+2025-01-16 21:47:53.012,4401-005-034,404 S Westgate Ave,Los Angeles,CA,90049,14500.0,50000.0,,,MLS,
+2025-01-17 00:31:14.579,,3600 barham blvd Los Angeles CA 90068,Los Angeles,CA,90068,3545.0,3855.0,,,,"They've since adjusted the rental price (possibly due to complaints), but at least we have photos! The property is rent-controlled, but they increase the rent to the maximum allowed every year like clockwork. Recent reviews detail many of the resident complaints"
+2025-01-17 01:45:49.576,5548025012,7250 Franklin Ave Unit 116,Los Angeles,CA,90046,4995.0,5490.0,,,Zillow,
+2025-01-17 08:10:38.629,,4418 S Slauson Ave,Culver City,CA,90230,4150.0,4950.0,,,Zillow,
+2025-01-17 09:00:54.763,5709032022,280 Cherry Dr,Pasadena,CA,91105,5480.0,6800.0,,,Zillow,
+2025-01-17 10:16:01.480,Parcel number: 4302030001,"2002 S Corning St,",Los Angeles,CA,90034,3195.0,3995.0,,,Zillow,"The property has been listed for rent since December 2024. On 1/03/25 they re-listed it for $3,195 and then on 1/08/2025 they raised the price to $3,995. I reported them to the AG website and sent them a note through Zillow saying that they had been reported. They took it down within 24hrs. On 1/15/25 they re-listed it at $3,495 - which is still 12.5% above the 1/03/25 listing."
+2025-01-17 10:42:45.423,5666014016,4737 York Blvd,Los Angeles,CA,90042,8900.0,9600.0,,,Zillow,
+2025-01-17 11:21:32.637,2330018014,13535 Bessemer St,Van Nuys,CA,91401,5995.0,8995.0,,,Zillow,
+2025-01-17 11:24:36.826,2366009010,11177 Valley Spring Pl,Studio City,CA,91602,9000.0,12000.0,,,Zillow,
+2025-01-17 11:28:09.994,,3835 1/2 Bluff Pl,San Pedro,CA,90731,3580.0,5000.0,,,Zillow,
+2025-01-17 11:32:35.711,,13106 S Vermont Ave APT 06,Gardena,CA,90247,2653.0,3528.0,,,Zillow,
+2025-01-17 11:35:01.852,5623034031,1020 Davis Ave APT 205,Glendale,CA,91201,3300.0,3800.0,,,Zillow,
+2025-01-17 12:23:20.708,,2549 N Beachwood Dr,Hollywood,CA,90068,7250.0,7995.0,,,Redfin,
+2025-01-17 12:43:03.617,,5041 Noeline Ave,Encino,CA,91436,20000.0,25000.0,,,Redfin,
+2025-01-17 12:53:27.423,,3124 Rowena Ave.  Unit 9,Los Angeles,CA,90027,2295.0,2699.0,,,Zillow,
+2025-01-17 13:25:00.880,,3450 W 43rd Street,Los Angeles,CA,90008,1695.0,2395.0,,,Apartments.com and redoakprop.com,This unit was listed for $1695 back in December as a special but quickly grew to 1895 after the special and boosted to over $500 more in 30 days for the exact same unit.
+2025-01-17 13:46:22.357,,10780 Andora Ave,Chatsworth,CA,91311,3995.0,4800.0,,,Zillow,
+2025-01-17 13:51:01.740,2610012002,16754 Armstead St,Granada Hills,CA,91344,6000.0,7000.0,,,Zillow,
+2025-01-17 13:55:36.446,4385008022,9742 Wendover Dr,Beverly Hills,CA,90210,39000.0,48500.0,,,Zillow,
+2025-01-17 14:20:56.258,2275009015,14550 Round Valley Dr,Sherman Oaks,CA,91403,8950.0,14500.0,,,Zillow,
+2025-01-17 14:24:19.935,4262025024,1902 Granville Ave,Los Angeles,CA,90025,5000.0,16450.0,,,Zillow,
+2025-01-17 14:26:41.321,2428022002,6871 Pacific View Dr,Los Angeles,CA,90068,4600.0,6500.0,,,Zillow,
+2025-01-17 14:34:00.530,5085010026,5506 W Olympic Blvd,Los Angeles,CA,90036,4980.0,6900.0,,,Zillow,
+2025-01-17 14:44:54.318,2177046003,19226 Northfleet Way,Tarzana,CA,91356,17000.0,20000.0,,,Zillow,
+2025-01-17 14:48:29.690,2601045025,17517 Tuscan Dr,Granada Hills,CA,91344,4000.0,10000.0,,,Zillow,
+2025-01-17 15:08:48.141,,513 Archwood PL#1,Altadena,CA,91001,6400.0,6600.0,,,Zillow,
+2025-01-17 15:12:08.489,,902 Manzanita St,Los Angeles,CA,90029,2280.0,2800.0,,,Zillow,From 2022-2024 rent was raised only $50.
+2025-01-17 15:16:44.484,2156021113,18730 Hatteras St UNIT 49,Tarzana,CA,91356,3650.0,7500.0,,,Zillow,
+2025-01-17 16:11:59.265,5771018012,1235 Highland Oaks Drive,Arcadia,CA,91006,5495.0,6250.0,,,Zillow,"Now listed as for sale. Altadena fire refugees toured on 1/11 and were asked to pay for the pool service and the gardener, adding several hundred dollars to the monthly rent. The agent didn’t even know how much either would be. A family that lost everything in the Eaton fire was asked to provide their own washer, dryer, AND fridge. Property was filthy and in disrepair."
+2025-01-17 16:24:21.890,5648029001,1740 Cielito Dr,glendale,CA,91207,12500.0,19000.0,,,Zillow,
+2025-01-17 19:15:26.785,,1632 Micheltorena St,Los Angeles,CA,90026,2495.0,10000.0,,,Zillow,
+2025-01-18 10:53:24.339,Na,120 1/2 Galleon,Marina Del Rey,CA,90292,10500.0,20000.0,,,Zillow,On 1/9/2925 price jumps from 10k to 15k. We are quoted 20k now for showing on 1/18/25

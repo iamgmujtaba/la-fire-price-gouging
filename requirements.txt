@@ -1,0 +1,9 @@
+ipywidgets
+pandas
+ydata-profiling
+matplotlib
+openpyxl
+seaborn
+phik
+panadas
+plotly
